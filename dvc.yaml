@@ -1,0 +1,15 @@
+stages:
+  build_features:
+    cmd: python src/features/build_features.py
+    deps:
+    - data/raw
+    - src/features/build_features.py
+    outs:
+    - data/processed/final_training.csv
+  train:
+    cmd: python src/models/train.py
+    deps:
+    - data/processed/final_training.csv
+    - src/models/train.py
+    outs:
+    - models/gradient_boosting.pkl
