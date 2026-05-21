@@ -1,0 +1,48 @@
+name: MLOps Automation Pipeline
+
+on:
+  push:
+    branches:
+      - master
+
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  test-train-evaluate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install DVC
+        run: |
+          pip install dvc
+
+      - name: Pull DVC data
+        run: |
+          dvc pull
+
+      - name: Run Unit Tests
+        run: |
+          pytest
+
+      - name: Train model
+        run: |
+          python src/models/train.py
+
+      - name: Evaluate model threshold
+        run: |
+          python src/models/evaluate.py
