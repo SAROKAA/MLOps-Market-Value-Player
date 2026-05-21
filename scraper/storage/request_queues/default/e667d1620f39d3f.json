@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/578539",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/578539",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/chris-richards/profil/spieler/578539",
+      "name": "Chris",
+      "last_name": "Richards",
+      "number": "#26",
+      "name_in_home_country": "Christopher Jeffrey Richards",
+      "date_of_birth": "28/03/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "United States",
+        "city": "Birmingham, Alabama  "
+      },
+      "height": "1,88 m",
+      "full_name": "Christopher Jeffrey Richards",
+      "citizenship": "United States",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/roc-nation-sports/beraterfirma/berater/5015",
+        "name": "Roc Nation Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/578539-1754244701.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace/startseite/verein/873"
+      },
+      "foot": "right",
+      "joined": "\n                            27/07/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "36",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "chris-richards",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/chris-richards/leistungsdaten/spieler/578539"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/578539",
+  "handled_at": null
+}

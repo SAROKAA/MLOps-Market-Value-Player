@@ -1,0 +1,58 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/701021",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/701021",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ruairi-mcconville/profil/spieler/701021",
+      "name": "Ruairi",
+      "last_name": "McConville",
+      "number": "#15",
+      "name_in_home_country": "Ruairi Conor McConville",
+      "date_of_birth": "01/05/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Northern Ireland",
+        "city": "Belfast  "
+      },
+      "height": "1,93 m",
+      "full_name": "Ruairi Conor McConville",
+      "citizenship": "Northern Ireland",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/avid-sports-amp-entertainment-group/beraterfirma/berater/4959",
+        "name": "Avid Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/701021-1741275150.jpg?lm=1",
+      "current_club": {
+        "href": "/norwich-city/startseite/verein/1123"
+      },
+      "foot": "right",
+      "joined": "\n                            03/02/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "10",
+      "international_goals": "0",
+      "code": "ruairi-mcconville",
+      "current_market_value": "€2.40m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ruairi-mcconville/leistungsdaten/spieler/701021"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/701021",
+  "handled_at": null
+}

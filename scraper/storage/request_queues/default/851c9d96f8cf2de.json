@@ -1,0 +1,54 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/979064",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/979064",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tony-yogane/profil/spieler/979064",
+      "name": "Tony",
+      "last_name": "Yogane",
+      "number": "#17",
+      "name_in_home_country": "Tony Lauren Yogane",
+      "date_of_birth": "24/09/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,78 m",
+      "full_name": "Tony Lauren Yogane",
+      "citizenship": "England",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/david-moss-group/beraterfirma/berater/13233",
+        "name": "David Moss Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/979064-1746643555.jpg?lm=1",
+      "current_club": {
+        "href": "/dundee-fc/startseite/verein/511"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "tony-yogane",
+      "current_market_value": "€150k",
+      "market_value_last_update": "Last update: 10/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tony-yogane/leistungsdaten/spieler/979064"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

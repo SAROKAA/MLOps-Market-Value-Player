@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/479999",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/479999",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/eberechi-eze/profil/spieler/479999",
+      "name": "Eberechi",
+      "last_name": "Eze",
+      "number": "#10",
+      "name_in_home_country": "Eberechi Oluchi Eze",
+      "date_of_birth": "29/06/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,78 m",
+      "full_name": "Eberechi Oluchi Eze",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/479999-1761083931.jpg?lm=1",
+      "current_club": {
+        "href": "/arsenal-fc/startseite/verein/11"
+      },
+      "foot": "right",
+      "joined": "\n                            23/08/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "New Balance",
+      "national_team": {
+        "country": "England",
+        "href": "/england/startseite/verein/3299"
+      },
+      "international_caps": "16",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "eberechi-eze",
+      "current_market_value": "€60.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/eberechi-eze/leistungsdaten/spieler/479999"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

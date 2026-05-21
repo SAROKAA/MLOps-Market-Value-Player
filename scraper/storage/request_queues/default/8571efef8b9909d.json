@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/939615",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/939615",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/max-kinsey/profil/spieler/939615",
+      "name": "Max",
+      "last_name": "Kinsey",
+      "number": "#21",
+      "name_in_home_country": "Maxwell Benjamin Kinsey-Wellings",
+      "date_of_birth": "02/02/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Guildford  "
+      },
+      "height": "1,84 m",
+      "full_name": "Maxwell Benjamin Kinsey-Wellings",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/939615-1736161084.jpg?lm=1",
+      "current_club": {
+        "href": "/truro-city-fc/startseite/verein/9165"
+      },
+      "foot": "right",
+      "joined": "\n                            10/07/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "max-kinsey",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/max-kinsey/leistungsdaten/spieler/939615"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/939615",
+  "handled_at": null
+}

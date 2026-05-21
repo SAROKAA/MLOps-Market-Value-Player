@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# MLflow
+mlruns/
+
+# Env
+.env
+
+# DVC generated cache
+.dvc/cache/
+
+# Ignore tracked DVC outputs
+data/raw/
+data/processed/
+models/

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1108471",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1108471",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/landon-emenalo/profil/spieler/1108471",
+      "name": "Landon",
+      "last_name": "Emenalo",
+      "number": "#56",
+      "name_in_home_country": "Landon Cruz Buzi Emenalo",
+      "date_of_birth": "18/01/2008",
+      "age": "18",
+      "place_of_birth": {
+        "country": "United States",
+        "city": "Tucson, Arizona  "
+      },
+      "height": "1,80 m",
+      "full_name": "Landon Cruz Buzi Emenalo",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "United States"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/premier-sports-talent/beraterfirma/berater/8083",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1108471-1746640954.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc-u21/startseite/verein/9250"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "landon-emenalo",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/landon-emenalo/leistungsdaten/spieler/1108471"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

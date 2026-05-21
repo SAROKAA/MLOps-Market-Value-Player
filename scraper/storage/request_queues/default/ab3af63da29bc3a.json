@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/857792",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/857792",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ted-curd/profil/spieler/857792",
+      "name": "Ted",
+      "last_name": "Curd",
+      "number": "#22",
+      "name_in_home_country": "Ted Noah Curd",
+      "date_of_birth": "14/02/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,90 m",
+      "full_name": "Ted Noah Curd",
+      "citizenship": "England",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/857792-1746640571.jpg?lm=1",
+      "current_club": {
+        "href": "/boreham-wood-fc/startseite/verein/3867"
+      },
+      "foot": "right",
+      "joined": "\n                            12/11/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u20/startseite/verein/22907"
+      },
+      "international_caps": "0",
+      "international_goals": "0",
+      "code": "ted-curd",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ted-curd/leistungsdaten/spieler/857792"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

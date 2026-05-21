@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/142310",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/142310",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/willy-boly/profil/spieler/142310",
+      "name": "Willy",
+      "last_name": "Boly",
+      "number": "#30",
+      "name_in_home_country": "Willy-Arnaud Zobo Boly",
+      "date_of_birth": "03/02/1991",
+      "age": "35",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Melun  "
+      },
+      "height": "1,95 m",
+      "full_name": "Willy-Arnaud Zobo Boly",
+      "citizenship": "Cote d'Ivoire",
+      "additional_citizenships": [
+        "France"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/sport-cover/beraterfirma/berater/1881",
+        "name": "Sport Cover"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/142310-1663057112.jpg?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2022                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "national_team": {
+        "country": "Cote d'Ivoire",
+        "href": "/elfenbeinkuste/startseite/verein/3591"
+      },
+      "international_caps": "23",
+      "international_goals": "1",
+      "code": "willy-boly",
+      "current_market_value": "€500k",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/willy-boly/leistungsdaten/spieler/142310"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

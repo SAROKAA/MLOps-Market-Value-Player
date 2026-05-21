@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/711337",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/711337",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/evanilson/profil/spieler/711337",
+      "name": "",
+      "last_name": "Evanilson",
+      "number": "#9",
+      "name_in_home_country": null,
+      "date_of_birth": "06/10/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Fortaleza  "
+      },
+      "height": "1,83 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/brazil-soccer-sports-management-ltda-/beraterfirma/berater/780",
+        "name": "Brazil Soccer"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/711337-1737452098.jpg?lm=1",
+      "current_club": {
+        "href": "/afc-bournemouth/startseite/verein/989"
+      },
+      "foot": "both",
+      "joined": "\n                            16/08/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "evanilson",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/evanilson/leistungsdaten/spieler/711337"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/711337",
+  "handled_at": null
+}

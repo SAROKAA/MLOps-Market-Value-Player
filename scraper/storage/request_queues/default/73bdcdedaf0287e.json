@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/3333",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/3333",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/james-milner/profil/spieler/3333",
+      "name": "James",
+      "last_name": "Milner",
+      "number": "#20",
+      "name_in_home_country": "James Philip Milner",
+      "date_of_birth": "04/01/1986",
+      "age": "40",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Leeds  "
+      },
+      "height": "1,75 m",
+      "full_name": "James Philip Milner",
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/3333-1662621121.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "61",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "james-milner",
+      "current_market_value": "€750k",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/james-milner/leistungsdaten/spieler/3333"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

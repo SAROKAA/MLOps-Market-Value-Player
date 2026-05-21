@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1031258",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1031258",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/bradley-moonan/profil/spieler/1031258",
+      "name": "Bradley",
+      "last_name": "Moonan",
+      "number": "#72",
+      "name_in_home_country": null,
+      "date_of_birth": "13/02/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Wigan  "
+      },
+      "height": null,
+      "full_name": null,
+      "citizenship": "England",
+      "additional_citizenships": [
+        "South Africa"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+      "current_club": {
+        "href": "/everton-fc-u21/startseite/verein/9261"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "bradley-moonan",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/bradley-moonan/leistungsdaten/spieler/1031258"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

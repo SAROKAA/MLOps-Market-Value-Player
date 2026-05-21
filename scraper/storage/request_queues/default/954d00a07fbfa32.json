@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/256977",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/256977",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/daniel-podence/profil/spieler/256977",
+      "name": "Daniel",
+      "last_name": "Podence",
+      "number": "#56",
+      "name_in_home_country": "Daniel Castelo Podence",
+      "date_of_birth": "21/10/1995",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Oeiras  "
+      },
+      "height": "1,70 m",
+      "full_name": "Daniel Castelo Podence",
+      "citizenship": "Portugal",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/gestifute/beraterfirma/berater/413",
+        "name": "Gestifute"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/256977-1757716630.png?lm=1",
+      "current_club": {
+        "href": "/olympiacos-piraeus/startseite/verein/683"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "daniel-podence",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 12/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/daniel-podence/leistungsdaten/spieler/256977"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

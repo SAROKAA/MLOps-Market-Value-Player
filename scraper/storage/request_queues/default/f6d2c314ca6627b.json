@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/939290",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/939290",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jayden-danns/profil/spieler/939290",
+      "name": "Jayden",
+      "last_name": "Danns",
+      "number": "#76",
+      "name_in_home_country": "Jayden Alexander Danns",
+      "date_of_birth": "16/01/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Liverpool  "
+      },
+      "height": "1,83 m",
+      "full_name": "Jayden Alexander Danns",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Guyana"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/triple-s-sports-and-entertainment-group-ltd/beraterfirma/berater/4216",
+        "name": "Triple S Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/939290-1709192145.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc-u21/startseite/verein/9252"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u20/startseite/verein/22907"
+      },
+      "international_caps": "1",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "jayden-danns",
+      "current_market_value": "€800k",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jayden-danns/leistungsdaten/spieler/939290"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

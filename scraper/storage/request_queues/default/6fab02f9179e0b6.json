@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1007720",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1007720",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tyler-bindon/profil/spieler/1007720",
+      "name": "Tyler",
+      "last_name": "Bindon",
+      "number": "#6",
+      "name_in_home_country": "Tyler Grant Bindon",
+      "date_of_birth": "27/01/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "New Zealand",
+        "city": "Auckland  "
+      },
+      "height": "1,88 m",
+      "full_name": "Tyler Grant Bindon",
+      "citizenship": "New Zealand",
+      "additional_citizenships": [
+        "United States"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/sports-invest-uk-ltd/beraterfirma/berater/4868",
+        "name": "Sports Invest UK ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1007720-1695905864.jpg?lm=1",
+      "current_club": {
+        "href": "/sheffield-united/startseite/verein/350"
+      },
+      "foot": "right",
+      "joined": "\n                            04/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "23",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "tyler-bindon",
+      "current_market_value": "€1.50m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tyler-bindon/leistungsdaten/spieler/1007720"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

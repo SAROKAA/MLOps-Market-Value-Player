@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/135343",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/135343",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/fabian-schar/profil/spieler/135343",
+      "name": "Fabian",
+      "last_name": "Schär",
+      "number": "#5",
+      "name_in_home_country": "Fabian Lukas Schär",
+      "date_of_birth": "20/12/1991",
+      "age": "34",
+      "place_of_birth": {
+        "country": "Switzerland",
+        "city": "Wil  "
+      },
+      "height": "1,86 m",
+      "full_name": "Fabian Lukas Schär",
+      "citizenship": "Switzerland",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/sports360-gmbh/beraterfirma/berater/199",
+        "name": "Sports360 GmbH"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/135343-1667990394.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united/startseite/verein/762"
+      },
+      "foot": "right",
+      "joined": "\n                            26/07/2018                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "86",
+      "international_goals": "8",
+      "social_media": [],
+      "code": "fabian-schar",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/fabian-schar/leistungsdaten/spieler/135343"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/135343",
+  "handled_at": null
+}

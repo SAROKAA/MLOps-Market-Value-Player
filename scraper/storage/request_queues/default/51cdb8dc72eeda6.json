@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/111195",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/111195",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/joel-veltman/profil/spieler/111195",
+      "name": "Joël",
+      "last_name": "Veltman",
+      "number": "#34",
+      "name_in_home_country": "Joël Ivo Veltman",
+      "date_of_birth": "15/01/1992",
+      "age": "34",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Velsen  "
+      },
+      "height": "1,84 m",
+      "full_name": "Joël Ivo Veltman",
+      "citizenship": "Netherlands",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/seg-sports-entertainment-group/beraterfirma/berater/586",
+        "name": "SEG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/111195-1700650522.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            29/07/2020                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "28",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "joel-veltman",
+      "current_market_value": "€2.50m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/joel-veltman/leistungsdaten/spieler/111195"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/111195",
+  "handled_at": null
+}

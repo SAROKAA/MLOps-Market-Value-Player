@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/363205",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/363205",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/gabriel-jesus/profil/spieler/363205",
+      "name": "Gabriel",
+      "last_name": "Jesus",
+      "number": "#9",
+      "name_in_home_country": "Gabriel Fernando de Jesus",
+      "date_of_birth": "03/04/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "São Paulo  "
+      },
+      "height": "1,75 m",
+      "full_name": "Gabriel Fernando de Jesus",
+      "citizenship": "Brazil",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/branchini-associati-s-p-a-/beraterfirma/berater/31",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/363205-1669711141.jpg?lm=1",
+      "current_club": {
+        "href": "/arsenal-fc/startseite/verein/11"
+      },
+      "foot": "right",
+      "joined": "\n                            04/07/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "64",
+      "international_goals": "19",
+      "social_media": [],
+      "code": "gabriel-jesus",
+      "current_market_value": "€20.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/gabriel-jesus/leistungsdaten/spieler/363205"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/363205",
+  "handled_at": null
+}

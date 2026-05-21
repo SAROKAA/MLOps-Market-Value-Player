@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/67063",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/67063",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/danny-welbeck/profil/spieler/67063",
+      "name": "Danny",
+      "last_name": "Welbeck",
+      "number": "#18",
+      "name_in_home_country": "Daniel Nii Tackie Mensah Welbeck",
+      "date_of_birth": "26/11/1990",
+      "age": "35",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Manchester  "
+      },
+      "height": "1,85 m",
+      "full_name": "Daniel Nii Tackie Mensah Welbeck",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ghana"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/prodigy-sports-group/beraterfirma/berater/11401",
+        "name": "Prodigy Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/67063-1746437656.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            18/10/2020                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "42",
+      "international_goals": "16",
+      "social_media": [],
+      "code": "danny-welbeck",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/danny-welbeck/leistungsdaten/spieler/67063"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/67063",
+  "handled_at": null
+}

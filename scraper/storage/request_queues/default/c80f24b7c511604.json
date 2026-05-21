@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/193116",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/193116",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/john-mcginn/profil/spieler/193116",
+      "name": "John",
+      "last_name": "McGinn",
+      "number": "#7",
+      "name_in_home_country": null,
+      "date_of_birth": "18/10/1994",
+      "age": "31",
+      "place_of_birth": {
+        "country": "Scotland",
+        "city": "Glasgow  "
+      },
+      "height": "1,78 m",
+      "full_name": null,
+      "citizenship": "Scotland",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/essential-athlete-agency/beraterfirma/berater/13010",
+        "name": "EAA"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/193116-1689172405.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "left",
+      "joined": "\n                            08/08/2018                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "85",
+      "international_goals": "20",
+      "social_media": [],
+      "code": "john-mcginn",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/john-mcginn/leistungsdaten/spieler/193116"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

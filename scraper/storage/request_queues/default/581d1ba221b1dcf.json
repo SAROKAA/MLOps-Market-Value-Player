@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/249565",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/249565",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/youri-tielemans/profil/spieler/249565",
+      "name": "Youri",
+      "last_name": "Tielemans",
+      "number": "#8",
+      "name_in_home_country": null,
+      "date_of_birth": "07/05/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Belgium",
+        "city": "Sint-Pieters-Leeuw  "
+      },
+      "height": "1,77 m",
+      "full_name": null,
+      "citizenship": "Belgium",
+      "additional_citizenships": [
+        "DR Congo"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/claes-agency/beraterfirma/berater/5358",
+        "name": "Claes Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/249565-1716886438.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "83",
+      "international_goals": "12",
+      "social_media": [],
+      "code": "youri-tielemans",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/youri-tielemans/leistungsdaten/spieler/249565"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/292246",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/292246",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/hee-chan-hwang/profil/spieler/292246",
+      "name": "Hee-chan",
+      "last_name": "Hwang",
+      "number": "#11",
+      "name_in_home_country": "황희찬",
+      "date_of_birth": "26/01/1996",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Korea, South",
+        "city": "Chuncheon, Gangwon  "
+      },
+      "height": "1,77 m",
+      "full_name": "황희찬",
+      "citizenship": "Korea, South",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/p-amp-p-sport-management-s-a-m-/beraterfirma/berater/206",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/292246-1708341416.jpg?lm=1",
+      "current_club": {
+        "href": "/wolverhampton-wanderers/startseite/verein/543"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2022                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "77",
+      "international_goals": "16",
+      "social_media": [],
+      "code": "hee-chan-hwang",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/hee-chan-hwang/leistungsdaten/spieler/292246"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

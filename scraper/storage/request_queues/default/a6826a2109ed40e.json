@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/186590",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/186590",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/john-stones/profil/spieler/186590",
+      "name": "John",
+      "last_name": "Stones",
+      "number": "#5",
+      "name_in_home_country": null,
+      "date_of_birth": "28/05/1994",
+      "age": "31",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Barnsley  "
+      },
+      "height": "1,88 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/186590-1684764261.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-city/startseite/verein/281"
+      },
+      "foot": "right",
+      "joined": "\n                            09/08/2016                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "87",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "john-stones",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/john-stones/leistungsdaten/spieler/186590"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/186590",
+  "handled_at": null
+}

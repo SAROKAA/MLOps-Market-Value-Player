@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/845289",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/845289",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/james-mcconnell/profil/spieler/845289",
+      "name": "James",
+      "last_name": "McConnell",
+      "number": null,
+      "name_in_home_country": "James William McConnell",
+      "date_of_birth": "13/09/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Morpeth  "
+      },
+      "height": "1,80 m",
+      "full_name": "James William McConnell",
+      "citizenship": "England",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/845289-1698353591.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc-u21/startseite/verein/9252"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "james-mcconnell",
+      "current_market_value": "€2.00m",
+      "market_value_last_update": "Last update: 02/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/james-mcconnell/leistungsdaten/spieler/845289"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/655986",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/655986",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/reece-welch/profil/spieler/655986",
+      "name": "Reece",
+      "last_name": "Welch",
+      "number": "#64",
+      "name_in_home_country": "Reece Belfield Welch",
+      "date_of_birth": "19/09/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Huddersfield  "
+      },
+      "height": null,
+      "full_name": "Reece Belfield Welch",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/icon-global-sports-agency/beraterfirma/berater/14343",
+        "name": "IG Sports Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/655986-1669114296.png?lm=1",
+      "current_club": {
+        "href": "/everton-fc-u21/startseite/verein/9261"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2021                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "4",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "reece-welch",
+      "current_market_value": "€250k",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/reece-welch/leistungsdaten/spieler/655986"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

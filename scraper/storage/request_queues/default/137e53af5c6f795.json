@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1245948",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1245948",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jeremy-monga/profil/spieler/1245948",
+      "name": "Jeremy",
+      "last_name": "Monga",
+      "number": "#28",
+      "name_in_home_country": "Jeremy Ngola Monga",
+      "date_of_birth": "10/07/2009",
+      "age": "16",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Coventry  "
+      },
+      "height": "1,79 m",
+      "full_name": "Jeremy Ngola Monga",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Zambia"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/plgtm/beraterfirma/berater/5488",
+        "name": "PLG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1245948-1744091689.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "10",
+      "international_goals": "0",
+      "code": "jeremy-monga",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jeremy-monga/leistungsdaten/spieler/1245948"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

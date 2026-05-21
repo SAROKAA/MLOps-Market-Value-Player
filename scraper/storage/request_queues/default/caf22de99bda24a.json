@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/495666",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/495666",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/william-saliba/profil/spieler/495666",
+      "name": "William",
+      "last_name": "Saliba",
+      "number": "#2",
+      "name_in_home_country": "William Alain André Gabriel Saliba",
+      "date_of_birth": "24/03/2001",
+      "age": "25",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Bondy  "
+      },
+      "height": "1,92 m",
+      "full_name": "William Alain André Gabriel Saliba",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Cameroon"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/nd-sports-management/beraterfirma/berater/5528",
+        "name": "ND SPORTS MANAGEMENT"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/495666-1718697201.jpg?lm=1",
+      "current_club": {
+        "href": "/arsenal-fc/startseite/verein/11"
+      },
+      "foot": "right",
+      "joined": "\n                            25/07/2019                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "31",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "william-saliba",
+      "current_market_value": "€90.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/william-saliba/leistungsdaten/spieler/495666"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/495666",
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/272622",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/272622",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/issa-diop/profil/spieler/272622",
+      "name": "Issa",
+      "last_name": "Diop",
+      "number": "#31",
+      "name_in_home_country": "Issa Laye Lucas Jean Diop, عيسى ديوب",
+      "date_of_birth": "09/01/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Toulouse  "
+      },
+      "height": "1,94 m",
+      "full_name": "Issa Laye Lucas Jean Diop, عيسى ديوب",
+      "citizenship": "Morocco",
+      "additional_citizenships": [
+        "France"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/272622-1660565295.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "right",
+      "joined": "\n                            10/08/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "issa-diop",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/issa-diop/leistungsdaten/spieler/272622"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

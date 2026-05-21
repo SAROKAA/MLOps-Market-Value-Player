@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/434224",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/434224",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/maxence-lacroix/profil/spieler/434224",
+      "name": "Maxence",
+      "last_name": "Lacroix",
+      "number": "#5",
+      "name_in_home_country": "Guy Maxence Lacroix",
+      "date_of_birth": "06/04/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Villeneuve-Saint-Georges  "
+      },
+      "height": "1,90 m",
+      "full_name": "Guy Maxence Lacroix",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Guadeloupe"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/434224-1657202248.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace/startseite/verein/873"
+      },
+      "foot": "right",
+      "joined": "\n                            30/08/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "maxence-lacroix",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/maxence-lacroix/leistungsdaten/spieler/434224"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/434224",
+  "handled_at": null
+}

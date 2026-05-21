@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1005575",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1005575",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/vitor-reis/profil/spieler/1005575",
+      "name": "Vitor",
+      "last_name": "Reis",
+      "number": "#12",
+      "name_in_home_country": "Vitor de Oliveira Nunes dos Reis",
+      "date_of_birth": "12/01/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "São José dos Campos  "
+      },
+      "height": "1,86 m",
+      "full_name": "Vitor de Oliveira Nunes dos Reis",
+      "citizenship": "Brazil",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/p-amp-p-sport-management-s-a-m-/beraterfirma/berater/206",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1005575-1680449774.jpg?lm=1",
+      "current_club": {
+        "href": "/girona-fc/startseite/verein/12321"
+      },
+      "foot": "right",
+      "joined": "\n                            08/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "vitor-reis",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 12/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/vitor-reis/leistungsdaten/spieler/1005575"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1005575",
+  "handled_at": null
+}

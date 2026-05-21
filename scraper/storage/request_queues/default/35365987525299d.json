@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/472423",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/472423",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/reece-james/profil/spieler/472423",
+      "name": "Reece",
+      "last_name": "James",
+      "number": "#24",
+      "name_in_home_country": null,
+      "date_of_birth": "08/12/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,80 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/golden-gate-group/beraterfirma/berater/6076",
+        "name": "Golden Gate Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/472423-1683900849.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2019                        ",
+      "contract_expires": "30/06/2032",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "national_team": {
+        "country": "England",
+        "href": "/england/startseite/verein/3299"
+      },
+      "international_caps": "22",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "reece-james",
+      "current_market_value": "€60.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/reece-james/leistungsdaten/spieler/472423"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

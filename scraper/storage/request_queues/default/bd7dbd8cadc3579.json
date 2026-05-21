@@ -1,0 +1,54 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/874538",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/874538",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ryan-trevitt/profil/spieler/874538",
+      "name": "Ryan",
+      "last_name": "Trevitt",
+      "number": "#14",
+      "name_in_home_country": "Ryan Joseph Trevitt",
+      "date_of_birth": "12/03/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,70 m",
+      "full_name": "Ryan Joseph Trevitt",
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/874538-1686580996.jpg?lm=1",
+      "current_club": {
+        "href": "/wigan-athletic/startseite/verein/1071"
+      },
+      "foot": "right",
+      "joined": "\n                            31/07/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "ryan-trevitt",
+      "current_market_value": "€275k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ryan-trevitt/leistungsdaten/spieler/874538"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

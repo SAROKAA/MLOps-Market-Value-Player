@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/258878",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/258878",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tosin-adarabioyo/profil/spieler/258878",
+      "name": "Tosin",
+      "last_name": "Adarabioyo",
+      "number": "#4",
+      "name_in_home_country": "Abdul-Nasir Oluwatosin Oluwadoyinsolami Adarabioyo",
+      "date_of_birth": "24/09/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,97 m",
+      "full_name": "Abdul-Nasir Oluwatosin Oluwadoyinsolami Adarabioyo",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/wnrs/beraterfirma/berater/5110",
+        "name": "WNRS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/258878-1646903871.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "tosin-adarabioyo",
+      "current_market_value": "€18.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tosin-adarabioyo/leistungsdaten/spieler/258878"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

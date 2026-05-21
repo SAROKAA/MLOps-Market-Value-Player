@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/421637",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/421637",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/frank-onyeka/profil/spieler/421637",
+      "name": "Frank",
+      "last_name": "Onyeka",
+      "number": "#16",
+      "name_in_home_country": "Ogochukwu Frank Onyeka",
+      "date_of_birth": "01/01/1998",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Nigeria",
+        "city": "Abuya  "
+      },
+      "height": "1,83 m",
+      "full_name": "Ogochukwu Frank Onyeka",
+      "citizenship": "Nigeria",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/421637-1726605377.jpg?lm=1",
+      "current_club": {
+        "href": "/coventry-city/startseite/verein/990"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "43",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "frank-onyeka",
+      "current_market_value": "€7.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/frank-onyeka/leistungsdaten/spieler/421637"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

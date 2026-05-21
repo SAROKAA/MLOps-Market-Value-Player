@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/123275",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/123275",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tom-cairney/profil/spieler/123275",
+      "name": "Tom",
+      "last_name": "Cairney",
+      "number": "#10",
+      "name_in_home_country": "Thomas Cairney",
+      "date_of_birth": "20/01/1991",
+      "age": "35",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Nottingham  "
+      },
+      "height": "1,85 m",
+      "full_name": "Thomas Cairney",
+      "citizenship": "Scotland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/123275-1651652849.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2015                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "tom-cairney",
+      "current_market_value": "€750k",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tom-cairney/leistungsdaten/spieler/123275"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,54 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/821522",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/821522",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/alfie-pond/profil/spieler/821522",
+      "name": "Alfie",
+      "last_name": "Pond",
+      "number": "#25",
+      "name_in_home_country": "Alfie James Pond",
+      "date_of_birth": "01/03/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Exeter  "
+      },
+      "height": "1,91 m",
+      "full_name": "Alfie James Pond",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/821522-1669124307.jpg?lm=1",
+      "current_club": {
+        "href": "/crewe-alexandra/startseite/verein/1042"
+      },
+      "foot": "right",
+      "joined": "\n                            03/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "alfie-pond",
+      "current_market_value": "€250k",
+      "market_value_last_update": "Last update: 15/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/alfie-pond/leistungsdaten/spieler/821522"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1115502",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1115502",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/wesley-okoduwa/profil/spieler/1115502",
+      "name": "Wesley",
+      "last_name": "Okoduwa",
+      "number": "#61",
+      "name_in_home_country": null,
+      "date_of_birth": "12/05/2008",
+      "age": "18",
+      "place_of_birth": {
+        "country": "United States",
+        "city": "New York City, New York  "
+      },
+      "height": null,
+      "full_name": null,
+      "citizenship": "England",
+      "additional_citizenships": [
+        "United States"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1115502-1746644251.jpg?lm=1",
+      "current_club": {
+        "href": "/wolverhampton-wanderers-u21/startseite/verein/24226"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "3",
+      "international_goals": "0",
+      "code": "wesley-okoduwa",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/wesley-okoduwa/leistungsdaten/spieler/1115502"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/848682",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/848682",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kosta-nedeljkovic/profil/spieler/848682",
+      "name": "Kosta",
+      "last_name": "Nedeljkovic",
+      "number": "#19",
+      "name_in_home_country": "Коста Недељковић",
+      "date_of_birth": "16/12/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Serbia and Montenegro",
+        "city": "Smederevo  "
+      },
+      "height": "1,84 m",
+      "full_name": "Коста Недељковић",
+      "citizenship": "Serbia",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/friends-amp-football-international-llc/beraterfirma/berater/1893",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/848682-1744279498.jpg?lm=1",
+      "current_club": {
+        "href": "/rb-leipzig/startseite/verein/23826"
+      },
+      "foot": "right",
+      "joined": "\n                            03/02/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "9",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "kosta-nedeljkovic",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 20/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kosta-nedeljkovic/leistungsdaten/spieler/848682"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

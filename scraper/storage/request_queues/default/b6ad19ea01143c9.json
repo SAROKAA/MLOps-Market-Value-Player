@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/249089",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/249089",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/lewis-cook/profil/spieler/249089",
+      "name": "Lewis",
+      "last_name": "Cook",
+      "number": "#4",
+      "name_in_home_country": "Lewis John Cook",
+      "date_of_birth": "03/02/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "England",
+        "city": "York  "
+      },
+      "height": "1,75 m",
+      "full_name": "Lewis John Cook",
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/249089-1700671190.jpg?lm=1",
+      "current_club": {
+        "href": "/afc-bournemouth/startseite/verein/989"
+      },
+      "foot": "right",
+      "joined": "\n                            08/07/2016                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "lewis-cook",
+      "current_market_value": "€13.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/lewis-cook/leistungsdaten/spieler/249089"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/249089",
+  "handled_at": null
+}

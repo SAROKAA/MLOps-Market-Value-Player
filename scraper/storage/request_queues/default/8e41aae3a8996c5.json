@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/583189",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/583189",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/anthony-elanga/profil/spieler/583189",
+      "name": "Anthony",
+      "last_name": "Elanga",
+      "number": "#20",
+      "name_in_home_country": "Anthony David Junior Elanga",
+      "date_of_birth": "27/04/2002",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Sweden",
+        "city": "Hyllie  "
+      },
+      "height": "1,78 m",
+      "full_name": "Anthony David Junior Elanga",
+      "citizenship": "Sweden",
+      "additional_citizenships": [
+        "Cameroon"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/panthera/beraterfirma/berater/4611",
+        "name": "PANTHERA"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/583189-1700739021.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united/startseite/verein/762"
+      },
+      "foot": "right",
+      "joined": "\n                            11/07/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Skechers",
+      "international_caps": "28",
+      "international_goals": "6",
+      "social_media": [],
+      "code": "anthony-elanga",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/anthony-elanga/leistungsdaten/spieler/583189"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

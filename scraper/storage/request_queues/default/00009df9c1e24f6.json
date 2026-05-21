@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/52570",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/52570",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/fraser-forster/profil/spieler/52570",
+      "name": "Fraser",
+      "last_name": "Forster",
+      "number": "#17",
+      "name_in_home_country": "Fraser Gerard Forster",
+      "date_of_birth": "17/03/1988",
+      "age": "38",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Hexham  "
+      },
+      "height": "2,01 m",
+      "full_name": "Fraser Gerard Forster",
+      "citizenship": "England",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/52570-1676412801.jpg?lm=1",
+      "current_club": {
+        "href": "/afc-bournemouth/startseite/verein/989"
+      },
+      "foot": "right",
+      "joined": "\n                            02/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Under Armour",
+      "international_caps": "6",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "fraser-forster",
+      "current_market_value": "€600k",
+      "market_value_last_update": "Last update: 21/10/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/fraser-forster/leistungsdaten/spieler/52570"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/52570",
+  "handled_at": null
+}

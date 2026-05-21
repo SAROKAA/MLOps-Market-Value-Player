@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/874902",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/874902",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/travis-patterson/profil/spieler/874902",
+      "name": "Travis",
+      "last_name": "Patterson",
+      "number": "#20",
+      "name_in_home_country": null,
+      "date_of_birth": "06/10/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,78 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/874902-1773277141.jpg?lm=1",
+      "current_club": {
+        "href": "/fc-annecy/startseite/verein/30204"
+      },
+      "foot": "left",
+      "joined": "\n                            12/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "travis-patterson",
+      "current_market_value": "€200k",
+      "market_value_last_update": "Last update: 23/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/travis-patterson/leistungsdaten/spieler/874902"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

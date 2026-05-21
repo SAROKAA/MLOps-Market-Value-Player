@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/580809",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/580809",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ed-turns/profil/spieler/580809",
+      "name": "Ed",
+      "last_name": "Turns",
+      "number": "#4",
+      "name_in_home_country": "Edward James Turns",
+      "date_of_birth": "18/10/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Brighton  "
+      },
+      "height": "1,86 m",
+      "full_name": "Edward James Turns",
+      "citizenship": "Wales",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/elite-management-agency/beraterfirma/berater/4594",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/580809-1720268775.jpg?lm=1",
+      "current_club": {
+        "href": "/exeter-city/startseite/verein/6699"
+      },
+      "foot": "right",
+      "joined": "\n                            03/02/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "4",
+      "international_goals": "0",
+      "code": "ed-turns",
+      "current_market_value": "€450k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ed-turns/leistungsdaten/spieler/580809"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/580809",
+  "handled_at": null
+}

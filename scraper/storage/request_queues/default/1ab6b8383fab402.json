@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/388165",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/388165",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/yoane-wissa/profil/spieler/388165",
+      "name": "Yoane",
+      "last_name": "Wissa",
+      "number": "#9",
+      "name_in_home_country": null,
+      "date_of_birth": "03/09/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Villeneuve-Saint-Georges  "
+      },
+      "height": "1,76 m",
+      "full_name": null,
+      "citizenship": "DR Congo",
+      "additional_citizenships": [
+        "France"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/rudy-raba/beraterfirma/berater/9676",
+        "name": "Rudy Raba"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/388165-1740646948.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united/startseite/verein/762"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "36",
+      "international_goals": "8",
+      "social_media": [],
+      "code": "yoane-wissa",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/yoane-wissa/leistungsdaten/spieler/388165"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

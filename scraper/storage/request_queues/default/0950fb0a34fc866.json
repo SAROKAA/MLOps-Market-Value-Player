@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/475411",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/475411",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/wesley-fofana/profil/spieler/475411",
+      "name": "Wesley",
+      "last_name": "Fofana",
+      "number": "#29",
+      "name_in_home_country": null,
+      "date_of_birth": "17/12/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Marseille  "
+      },
+      "height": "1,88 m",
+      "full_name": null,
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Cote d'Ivoire"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/dwma-deal-with-my-agent-/beraterfirma/berater/7736",
+        "name": "DWMA"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/475411-1683899212.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            31/08/2022                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "wesley-fofana",
+      "current_market_value": "€28.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/wesley-fofana/leistungsdaten/spieler/475411"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

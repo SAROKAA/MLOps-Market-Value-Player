@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1004679",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1004679",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/zach-marsh/profil/spieler/1004679",
+      "name": "Zach",
+      "last_name": "Marsh",
+      "number": "#63",
+      "name_in_home_country": "Zachariah Daniel Robert Marsh",
+      "date_of_birth": "06/10/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": null,
+      "full_name": "Zachariah Daniel Robert Marsh",
+      "citizenship": "England",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1004679-1746644149.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace-u21/startseite/verein/6945"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "3",
+      "international_goals": "2",
+      "code": "zach-marsh",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/zach-marsh/leistungsdaten/spieler/1004679"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

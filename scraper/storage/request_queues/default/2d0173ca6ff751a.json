@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/628451",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/628451",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/romeo-lavia/profil/spieler/628451",
+      "name": "Roméo",
+      "last_name": "Lavia",
+      "number": "#45",
+      "name_in_home_country": null,
+      "date_of_birth": "06/01/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Belgium",
+        "city": "Brussels  "
+      },
+      "height": "1,81 m",
+      "full_name": null,
+      "citizenship": "Belgium",
+      "additional_citizenships": [
+        "Ghana"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/elite-project-group-limited/beraterfirma/berater/5620",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/628451-1683898478.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            18/08/2023                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "romeo-lavia",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/romeo-lavia/leistungsdaten/spieler/628451"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1055345",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1055345",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kieran-morrison/profil/spieler/1055345",
+      "name": "Kieran",
+      "last_name": "Morrison",
+      "number": "#68",
+      "name_in_home_country": "Kieran Yusuf Morrison",
+      "date_of_birth": "09/11/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Manchester  "
+      },
+      "height": "1,83 m",
+      "full_name": "Kieran Yusuf Morrison",
+      "citizenship": "Northern Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/enhance-sports-group/beraterfirma/berater/13400",
+        "name": "Enhance"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1055345-1733838502.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc-u21/startseite/verein/9252"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "code": "kieran-morrison",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kieran-morrison/leistungsdaten/spieler/1055345"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

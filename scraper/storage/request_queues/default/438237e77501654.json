@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/75489",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/75489",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/niclas-fullkrug/profil/spieler/75489",
+      "name": "Niclas",
+      "last_name": "Füllkrug",
+      "number": "#9",
+      "name_in_home_country": null,
+      "date_of_birth": "09/02/1993",
+      "age": "33",
+      "place_of_birth": {
+        "country": "Germany",
+        "city": "Hannover  "
+      },
+      "height": "1,89 m",
+      "full_name": null,
+      "citizenship": "Germany",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/roof/beraterfirma/berater/2295",
+        "name": "ROOF"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/75489-1768815337.jpg?lm=1",
+      "current_club": {
+        "href": "/ac-milan/startseite/verein/5"
+      },
+      "foot": "right",
+      "joined": "\n                            02/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Germany",
+        "href": "/deutschland/startseite/verein/3262"
+      },
+      "international_caps": "24",
+      "international_goals": "14",
+      "social_media": [],
+      "code": "niclas-fullkrug",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 24/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/niclas-fullkrug/leistungsdaten/spieler/75489"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

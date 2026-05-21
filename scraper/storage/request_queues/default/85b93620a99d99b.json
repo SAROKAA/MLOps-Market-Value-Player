@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/415381",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/415381",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mats-wieffer/profil/spieler/415381",
+      "name": "Mats",
+      "last_name": "Wieffer",
+      "number": "#27",
+      "name_in_home_country": null,
+      "date_of_birth": "16/11/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Borne  "
+      },
+      "height": "1,88 m",
+      "full_name": null,
+      "citizenship": "Netherlands",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/vision4soccer/beraterfirma/berater/10689",
+        "name": "V4S"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/415381-1673869834.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            05/07/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "national_team": {
+        "country": "Netherlands",
+        "href": "/niederlande/startseite/verein/3379"
+      },
+      "international_caps": "14",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "mats-wieffer",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mats-wieffer/leistungsdaten/spieler/415381"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/415381",
+  "handled_at": null
+}

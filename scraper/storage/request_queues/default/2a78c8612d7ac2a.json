@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/286047",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/286047",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/guglielmo-vicario/profil/spieler/286047",
+      "name": "Guglielmo",
+      "last_name": "Vicario",
+      "number": "#1",
+      "name_in_home_country": null,
+      "date_of_birth": "07/10/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Italy",
+        "city": "Udine  "
+      },
+      "height": "1,94 m",
+      "full_name": null,
+      "citizenship": "Italy",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/gg11/beraterfirma/berater/2258",
+        "name": "GG11 "
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/286047-1725874745.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Italy",
+        "href": "/italien/startseite/verein/3376"
+      },
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "guglielmo-vicario",
+      "current_market_value": "€23.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/guglielmo-vicario/leistungsdaten/spieler/286047"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/378710",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/378710",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/richarlison/profil/spieler/378710",
+      "name": "",
+      "last_name": "Richarlison",
+      "number": "#9",
+      "name_in_home_country": null,
+      "date_of_birth": "10/05/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Nova Venécia  "
+      },
+      "height": "1,84 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/378710-1665608231.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "national_team": {
+        "country": "Brazil",
+        "href": "/brasilien/startseite/verein/3439"
+      },
+      "international_caps": "54",
+      "international_goals": "20",
+      "social_media": [],
+      "code": "richarlison",
+      "current_market_value": "€28.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/richarlison/leistungsdaten/spieler/378710"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/378710",
+  "handled_at": null
+}

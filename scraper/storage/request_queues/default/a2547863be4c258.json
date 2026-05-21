@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/91845",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/91845",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/heung-min-son/profil/spieler/91845",
+      "name": "Heung-min",
+      "last_name": "Son",
+      "number": "#7",
+      "name_in_home_country": "손흥민",
+      "date_of_birth": "08/07/1992",
+      "age": "33",
+      "place_of_birth": {
+        "country": "Korea, South",
+        "city": "Chuncheon, Gangwon  "
+      },
+      "height": "1,84 m",
+      "full_name": "손흥민",
+      "citizenship": "Korea, South",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/91845-1771690023.jpg?lm=1",
+      "current_club": {
+        "href": "/los-angeles-fc/startseite/verein/51828"
+      },
+      "foot": "both",
+      "joined": "\n                            06/08/2025                        ",
+      "contract_expires": "31/12/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "143",
+      "international_goals": "54",
+      "social_media": [],
+      "code": "heung-min-son",
+      "current_market_value": "€17.00m",
+      "market_value_last_update": "Last update: 11/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/heung-min-son/leistungsdaten/spieler/91845"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/91845",
+  "handled_at": null
+}

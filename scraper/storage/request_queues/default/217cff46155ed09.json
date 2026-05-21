@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/990836",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/990836",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/romeo-akachukwu/profil/spieler/990836",
+      "name": "Romeo",
+      "last_name": "Akachukwu",
+      "number": "#27",
+      "name_in_home_country": null,
+      "date_of_birth": "28/07/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": null,
+      "full_name": null,
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/elite-project-group-limited/beraterfirma/berater/5620",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/990836-1771872032.jpg?lm=1",
+      "current_club": {
+        "href": "/colchester-united/startseite/verein/1060"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "romeo-akachukwu",
+      "current_market_value": "€150k",
+      "market_value_last_update": "Last update: 15/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/romeo-akachukwu/leistungsdaten/spieler/990836"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/480987",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/480987",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/chris-mepham/profil/spieler/480987",
+      "name": "Chris",
+      "last_name": "Mepham",
+      "number": "#2",
+      "name_in_home_country": "Christopher James Mepham",
+      "date_of_birth": "05/11/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,90 m",
+      "full_name": "Christopher James Mepham",
+      "citizenship": "Wales",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/480987-1700737712.jpg?lm=1",
+      "current_club": {
+        "href": "/west-bromwich-albion/startseite/verein/984"
+      },
+      "foot": "right",
+      "joined": "\n                            28/08/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Wales",
+        "href": "/wales/startseite/verein/3864"
+      },
+      "international_caps": "53",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "chris-mepham",
+      "current_market_value": "€3.50m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/chris-mepham/leistungsdaten/spieler/480987"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

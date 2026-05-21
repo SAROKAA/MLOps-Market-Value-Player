@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/553875",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/553875",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/pedro-porro/profil/spieler/553875",
+      "name": "Pedro",
+      "last_name": "Porro",
+      "number": "#23",
+      "name_in_home_country": "Pedro Antonio Porro Sauceda",
+      "date_of_birth": "13/09/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Spain",
+        "city": "Don Benito  "
+      },
+      "height": "1,73 m",
+      "full_name": "Pedro Antonio Porro Sauceda",
+      "citizenship": "Spain",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/553875-1730812390.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Under Armour",
+      "international_caps": "16",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "pedro-porro",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/pedro-porro/leistungsdaten/spieler/553875"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/553875",
+  "handled_at": null
+}

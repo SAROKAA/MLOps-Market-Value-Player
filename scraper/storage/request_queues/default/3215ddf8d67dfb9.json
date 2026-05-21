@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/938158",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/938158",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/marc-guiu/profil/spieler/938158",
+      "name": "Marc",
+      "last_name": "Guiu",
+      "number": "#38",
+      "name_in_home_country": "Marc Guiu Paz",
+      "date_of_birth": "04/01/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Spain",
+        "city": "Granollers  "
+      },
+      "height": "1,87 m",
+      "full_name": "Marc Guiu Paz",
+      "citizenship": "Spain",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/interfootball-management-s-a/beraterfirma/berater/2741",
+        "name": "IFM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/938158-1719846394.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "national_team": {
+        "country": "Spain",
+        "href": "/spanien-u21/startseite/verein/9567"
+      },
+      "international_caps": "2",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "marc-guiu",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/marc-guiu/leistungsdaten/spieler/938158"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/215876",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/215876",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ricardo-pereira/profil/spieler/215876",
+      "name": "Ricardo",
+      "last_name": "Pereira",
+      "number": "#21",
+      "name_in_home_country": "Ricardo Domingos Barbosa Pereira",
+      "date_of_birth": "06/10/1993",
+      "age": "32",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Lisboa  "
+      },
+      "height": "1,75 m",
+      "full_name": "Ricardo Domingos Barbosa Pereira",
+      "citizenship": "Portugal",
+      "additional_citizenships": [
+        "Cape Verde"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/foot2foot/beraterfirma/berater/14416",
+        "name": "F2F"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/215876-1720192308.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2018                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "7",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "ricardo-pereira",
+      "current_market_value": "€3.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ricardo-pereira/leistungsdaten/spieler/215876"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/108354",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/108354",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jordan-ayew/profil/spieler/108354",
+      "name": "Jordan",
+      "last_name": "Ayew",
+      "number": "#9",
+      "name_in_home_country": "Jordan Pierre Ayew",
+      "date_of_birth": "11/09/1991",
+      "age": "34",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Marseille  "
+      },
+      "height": "1,82 m",
+      "full_name": "Jordan Pierre Ayew",
+      "citizenship": "Ghana",
+      "additional_citizenships": [
+        "France"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/108354-1668429913.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            23/08/2024                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "117",
+      "international_goals": "33",
+      "social_media": [],
+      "code": "jordan-ayew",
+      "current_market_value": "€1.80m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jordan-ayew/leistungsdaten/spieler/108354"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/321247",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/321247",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/emiliano-buendia/profil/spieler/321247",
+      "name": "Emiliano",
+      "last_name": "Buendía",
+      "number": "#10",
+      "name_in_home_country": "Emiliano Buendía Stati",
+      "date_of_birth": "25/12/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Argentina",
+        "city": "Mar del Plata  "
+      },
+      "height": "1,72 m",
+      "full_name": "Emiliano Buendía Stati",
+      "citizenship": "Argentina",
+      "additional_citizenships": [
+        "Spain"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/universal-twenty-two/beraterfirma/berater/2722",
+        "name": "Universal Twenty Two"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/321247-1696604099.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2021                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Argentina",
+        "href": "/argentinien/startseite/verein/3437"
+      },
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "emiliano-buendia",
+      "current_market_value": "€18.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/emiliano-buendia/leistungsdaten/spieler/321247"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

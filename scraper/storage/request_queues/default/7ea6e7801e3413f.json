@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1108049",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1108049",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/amara-nallo/profil/spieler/1108049",
+      "name": "Amara",
+      "last_name": "Nallo",
+      "number": "#65",
+      "name_in_home_country": null,
+      "date_of_birth": "18/11/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,86 m",
+      "full_name": null,
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Sierra Leone"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1108049-1709158277.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc-u21/startseite/verein/9252"
+      },
+      "foot": "both",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u20/startseite/verein/22907"
+      },
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "amara-nallo",
+      "current_market_value": "€1.00m",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/amara-nallo/leistungsdaten/spieler/1108049"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

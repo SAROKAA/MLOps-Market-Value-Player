@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/146795",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/146795",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ryan-fraser/profil/spieler/146795",
+      "name": "Ryan",
+      "last_name": "Fraser",
+      "number": "#7",
+      "name_in_home_country": null,
+      "date_of_birth": "24/02/1994",
+      "age": "32",
+      "place_of_birth": {
+        "country": "Scotland",
+        "city": "Aberdeen  "
+      },
+      "height": "1,63 m",
+      "full_name": null,
+      "citizenship": "Scotland",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/146795-1720190677.jpg?lm=1",
+      "current_club": {
+        "href": "/western-sydney-wanderers/startseite/verein/36100"
+      },
+      "foot": "right",
+      "joined": "\n                            23/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "26",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "ryan-fraser",
+      "current_market_value": "€1.80m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ryan-fraser/leistungsdaten/spieler/146795"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

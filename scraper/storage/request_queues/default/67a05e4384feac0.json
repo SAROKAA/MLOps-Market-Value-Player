@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/538977",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/538977",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/georginio-rutter/profil/spieler/538977",
+      "name": "Georginio",
+      "last_name": "Rutter",
+      "number": "#10",
+      "name_in_home_country": null,
+      "date_of_birth": "20/04/2002",
+      "age": "24",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Plescop  "
+      },
+      "height": "1,82 m",
+      "full_name": null,
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Martinique"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/rogon/beraterfirma/berater/1",
+        "name": "ROGON"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/538977-1727785742.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "left",
+      "joined": "\n                            19/08/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "7",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "georginio-rutter",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/georginio-rutter/leistungsdaten/spieler/538977"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/538977",
+  "handled_at": null
+}

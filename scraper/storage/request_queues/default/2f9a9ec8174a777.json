@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/340328",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/340328",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/stephy-mavididi/profil/spieler/340328",
+      "name": "Stephy",
+      "last_name": "Mavididi",
+      "number": "#10",
+      "name_in_home_country": "Stephy Alvaro Mavididi",
+      "date_of_birth": "31/05/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Derby  "
+      },
+      "height": "1,82 m",
+      "full_name": "Stephy Alvaro Mavididi",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "DR Congo"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/340328-1707385825.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            31/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "3",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "stephy-mavididi",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/stephy-mavididi/leistungsdaten/spieler/340328"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

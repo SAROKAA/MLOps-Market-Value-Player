@@ -1,0 +1,65 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1013690",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1013690",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/elyh-harrison/profil/spieler/1013690",
+      "name": "Elyh",
+      "last_name": "Harrison",
+      "number": "#34",
+      "name_in_home_country": "Elyh Samuel Harrison",
+      "date_of_birth": "19/02/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,82 m",
+      "full_name": "Elyh Samuel Harrison",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "South Africa"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1013690-1739788955.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united-u21/startseite/verein/9251"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u20/startseite/verein/22907"
+      },
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "elyh-harrison",
+      "current_market_value": "€75k",
+      "market_value_last_update": "Last update: 26/11/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/elyh-harrison/leistungsdaten/spieler/1013690"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1013690",
+  "handled_at": null
+}

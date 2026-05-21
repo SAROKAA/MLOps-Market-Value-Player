@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/331560",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/331560",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/takehiro-tomiyasu/profil/spieler/331560",
+      "name": "Takehiro",
+      "last_name": "Tomiyasu",
+      "number": "#32",
+      "name_in_home_country": "冨安 健洋",
+      "date_of_birth": "05/11/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "Japan",
+        "city": "Fukuoka, Fukuoka  "
+      },
+      "height": "1,88 m",
+      "full_name": "冨安 健洋",
+      "citizenship": "Japan",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/udn-sports/beraterfirma/berater/7265",
+        "name": "UDN SPORTS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/331560-1682591217.jpg?lm=1",
+      "current_club": {
+        "href": "/ajax-amsterdam/startseite/verein/610"
+      },
+      "foot": "right",
+      "joined": "\n                            16/12/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "42",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "takehiro-tomiyasu",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 11/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/takehiro-tomiyasu/leistungsdaten/spieler/331560"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/331560",
+  "handled_at": null
+}

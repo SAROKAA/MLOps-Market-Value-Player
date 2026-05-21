@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/468066",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/468066",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jens-cajuste/profil/spieler/468066",
+      "name": "Jens",
+      "last_name": "Cajuste",
+      "number": "#12",
+      "name_in_home_country": "Jens-Lys Michel Cajuste",
+      "date_of_birth": "10/08/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Sweden",
+        "city": "Göteborg  "
+      },
+      "height": "1,88 m",
+      "full_name": "Jens-Lys Michel Cajuste",
+      "citizenship": "Sweden",
+      "additional_citizenships": [
+        "United States"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/world-in-motion/beraterfirma/berater/1061",
+        "name": "World in Motion"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/468066-1691568301.jpg?lm=1",
+      "current_club": {
+        "href": "/ipswich-town/startseite/verein/677"
+      },
+      "foot": "right",
+      "joined": "\n                            07/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "25",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "jens-cajuste",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jens-cajuste/leistungsdaten/spieler/468066"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

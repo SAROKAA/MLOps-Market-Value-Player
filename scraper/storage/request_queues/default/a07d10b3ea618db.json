@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/225122",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/225122",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/goncalo-guedes/profil/spieler/225122",
+      "name": "Gonçalo",
+      "last_name": "Guedes",
+      "number": "#11",
+      "name_in_home_country": "Gonçalo Manuel Ganchinho Guedes",
+      "date_of_birth": "29/11/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Benavente  "
+      },
+      "height": "1,79 m",
+      "full_name": "Gonçalo Manuel Ganchinho Guedes",
+      "citizenship": "Portugal",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/gestifute/beraterfirma/berater/413",
+        "name": "Gestifute"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/225122-1701334424.jpg?lm=1",
+      "current_club": {
+        "href": "/real-sociedad/startseite/verein/681"
+      },
+      "foot": "right",
+      "joined": "\n                            04/08/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "33",
+      "international_goals": "7",
+      "social_media": [],
+      "code": "goncalo-guedes",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 12/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/goncalo-guedes/leistungsdaten/spieler/225122"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

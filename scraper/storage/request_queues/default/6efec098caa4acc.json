@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/576314",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/576314",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jan-paul-van-hecke/profil/spieler/576314",
+      "name": "Jan Paul",
+      "last_name": "van Hecke",
+      "number": "#6",
+      "name_in_home_country": null,
+      "date_of_birth": "08/06/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Arnemuiden  "
+      },
+      "height": "1,89 m",
+      "full_name": null,
+      "citizenship": "Netherlands",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/vision4soccer/beraterfirma/berater/10689",
+        "name": "V4S"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/576314-1742501220.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            10/09/2020                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "10",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "jan-paul-van-hecke",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jan-paul-van-hecke/leistungsdaten/spieler/576314"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/576314",
+  "handled_at": null
+}

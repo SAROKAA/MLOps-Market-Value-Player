@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/343475",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/343475",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ben-godfrey/profil/spieler/343475",
+      "name": "Ben",
+      "last_name": "Godfrey",
+      "number": "#14",
+      "name_in_home_country": "Benjamin Matthew Godfrey",
+      "date_of_birth": "15/01/1998",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "York  "
+      },
+      "height": "1,84 m",
+      "full_name": "Benjamin Matthew Godfrey",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/new-era-global-sports-management-limited/beraterfirma/berater/4603",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/343475-1700739275.jpg?lm=1",
+      "current_club": {
+        "href": "/brondby-if/startseite/verein/206"
+      },
+      "foot": "right",
+      "joined": "\n                            20/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "ben-godfrey",
+      "current_market_value": "€5.50m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ben-godfrey/leistungsdaten/spieler/343475"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

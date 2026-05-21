@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/584769",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/584769",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dwight-mcneil/profil/spieler/584769",
+      "name": "Dwight",
+      "last_name": "McNeil",
+      "number": "#7",
+      "name_in_home_country": "Dwight James Matthew McNeil",
+      "date_of_birth": "22/11/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Rochdale  "
+      },
+      "height": "1,83 m",
+      "full_name": "Dwight James Matthew McNeil",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/584769-1700651579.jpg?lm=1",
+      "current_club": {
+        "href": "/everton-fc/startseite/verein/29"
+      },
+      "foot": "left",
+      "joined": "\n                            28/07/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "10",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "dwight-mcneil",
+      "current_market_value": "€20.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dwight-mcneil/leistungsdaten/spieler/584769"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

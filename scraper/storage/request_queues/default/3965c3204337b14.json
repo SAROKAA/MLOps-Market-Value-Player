@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/346483",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/346483",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mason-mount/profil/spieler/346483",
+      "name": "Mason",
+      "last_name": "Mount",
+      "number": "#7",
+      "name_in_home_country": "Mason Tony Mount",
+      "date_of_birth": "10/01/1999",
+      "age": "27",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Portsmouth  "
+      },
+      "height": "1,81 m",
+      "full_name": "Mason Tony Mount",
+      "citizenship": "England",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/346483-1683291495.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "right",
+      "joined": "\n                            05/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "36",
+      "international_goals": "5",
+      "social_media": [],
+      "code": "mason-mount",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mason-mount/leistungsdaten/spieler/346483"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/346483",
+  "handled_at": null
+}

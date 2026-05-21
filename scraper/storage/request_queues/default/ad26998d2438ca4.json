@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/743600",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/743600",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/andrey-santos/profil/spieler/743600",
+      "name": "Andrey",
+      "last_name": "Santos",
+      "number": "#17",
+      "name_in_home_country": "Andrey Nascimento dos Santos",
+      "date_of_birth": "03/05/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Rio de Janeiro  "
+      },
+      "height": "1,80 m",
+      "full_name": "Andrey Nascimento dos Santos",
+      "citizenship": "Brazil",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/bertolucci-sports/beraterfirma/berater/724",
+        "name": "Bertolucci Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/743600-1732576153.png?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            01/01/2023                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "6",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "andrey-santos",
+      "current_market_value": "€45.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/andrey-santos/leistungsdaten/spieler/743600"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

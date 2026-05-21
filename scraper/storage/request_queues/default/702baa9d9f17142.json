@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/444211",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/444211",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/will-smallbone/profil/spieler/444211",
+      "name": "Will",
+      "last_name": "Smallbone",
+      "number": "#39",
+      "name_in_home_country": "William Anthony Patrick Smallbone",
+      "date_of_birth": "21/02/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Basingstoke  "
+      },
+      "height": "1,83 m",
+      "full_name": "William Anthony Patrick Smallbone",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/444211-1740298247.jpg?lm=1",
+      "current_club": {
+        "href": "/millwall-fc/startseite/verein/1028"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland/startseite/verein/3509"
+      },
+      "international_caps": "15",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "will-smallbone",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/will-smallbone/leistungsdaten/spieler/444211"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

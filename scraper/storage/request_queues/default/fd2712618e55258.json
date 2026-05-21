@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/354362",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/354362",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/rodrigo-bentancur/profil/spieler/354362",
+      "name": "Rodrigo",
+      "last_name": "Bentancur",
+      "number": "#30",
+      "name_in_home_country": "Rodrigo Bentancur Colmán",
+      "date_of_birth": "25/06/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Uruguay",
+        "city": "Nueva Helvecia  "
+      },
+      "height": "1,87 m",
+      "full_name": "Rodrigo Bentancur Colmán",
+      "citizenship": "Uruguay",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/back-sports-s-a-/beraterfirma/berater/135",
+        "name": "Back Sports S.A."
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/354362-1740605779.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            31/01/2022                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Uruguay",
+        "href": "/uruguay/startseite/verein/3449"
+      },
+      "international_caps": "73",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "rodrigo-bentancur",
+      "current_market_value": "€22.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/rodrigo-bentancur/leistungsdaten/spieler/354362"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/354362",
+  "handled_at": null
+}

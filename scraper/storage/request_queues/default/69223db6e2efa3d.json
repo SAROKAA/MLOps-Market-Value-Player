@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/328658",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/328658",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kristoffer-ajer/profil/spieler/328658",
+      "name": "Kristoffer",
+      "last_name": "Ajer",
+      "number": "#20",
+      "name_in_home_country": "Kristoffer Vassbakk Köpp Ajer",
+      "date_of_birth": "17/04/1998",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Norway",
+        "city": "Rælingen  "
+      },
+      "height": "1,98 m",
+      "full_name": "Kristoffer Vassbakk Köpp Ajer",
+      "citizenship": "Norway",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/328658-1700649482.jpg?lm=1",
+      "current_club": {
+        "href": "/brentford-fc/startseite/verein/1148"
+      },
+      "foot": "right",
+      "joined": "\n                            21/07/2021                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "50",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "kristoffer-ajer",
+      "current_market_value": "€18.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kristoffer-ajer/leistungsdaten/spieler/328658"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

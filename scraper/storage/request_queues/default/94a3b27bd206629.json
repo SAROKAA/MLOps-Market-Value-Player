@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/488935",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/488935",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/hakon-valdimarsson/profil/spieler/488935",
+      "name": "Hákon",
+      "last_name": "Valdimarsson",
+      "number": "#12",
+      "name_in_home_country": "Hákon Rafn Valdimarsson",
+      "date_of_birth": "13/10/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Iceland",
+        "city": "Reykjavik  "
+      },
+      "height": "1,95 m",
+      "full_name": "Hákon Rafn Valdimarsson",
+      "citizenship": "Iceland",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/488935-1689319830.jpg?lm=1",
+      "current_club": {
+        "href": "/brentford-fc/startseite/verein/1148"
+      },
+      "foot": "right",
+      "joined": "\n                            26/01/2024                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "21",
+      "international_goals": "0",
+      "code": "hakon-valdimarsson",
+      "current_market_value": "€2.50m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/hakon-valdimarsson/leistungsdaten/spieler/488935"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

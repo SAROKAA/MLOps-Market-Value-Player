@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/451276",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/451276",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dominik-szoboszlai/profil/spieler/451276",
+      "name": "Dominik",
+      "last_name": "Szoboszlai",
+      "number": "#8",
+      "name_in_home_country": null,
+      "date_of_birth": "25/10/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Hungary",
+        "city": "Székesfehérvár  "
+      },
+      "height": "1,87 m",
+      "full_name": null,
+      "citizenship": "Hungary",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/em-sports-consulting/beraterfirma/berater/4658",
+        "name": "EM Sports Consulting"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/451276-1758715234.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc/startseite/verein/31"
+      },
+      "foot": "right",
+      "joined": "\n                            02/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "63",
+      "international_goals": "17",
+      "social_media": [],
+      "code": "dominik-szoboszlai",
+      "current_market_value": "€100.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dominik-szoboszlai/leistungsdaten/spieler/451276"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

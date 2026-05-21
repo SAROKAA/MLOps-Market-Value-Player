@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/199527",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/199527",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jacob-murphy/profil/spieler/199527",
+      "name": "Jacob",
+      "last_name": "Murphy",
+      "number": "#23",
+      "name_in_home_country": "Jacob Kai Murphy",
+      "date_of_birth": "24/02/1995",
+      "age": "31",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,79 m",
+      "full_name": "Jacob Kai Murphy",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ireland"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/199527-1674210561.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united/startseite/verein/762"
+      },
+      "foot": "right",
+      "joined": "\n                            19/07/2017                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "6",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "jacob-murphy",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jacob-murphy/leistungsdaten/spieler/199527"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/199527",
+  "handled_at": null
+}

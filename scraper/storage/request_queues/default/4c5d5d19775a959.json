@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/618494",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/618494",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tyler-morton/profil/spieler/618494",
+      "name": "Tyler",
+      "last_name": "Morton",
+      "number": "#23",
+      "name_in_home_country": "Tyler Scott Morton",
+      "date_of_birth": "31/10/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Wallasey  "
+      },
+      "height": "1,85 m",
+      "full_name": "Tyler Scott Morton",
+      "citizenship": "England",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/seg-sports-entertainment-group/beraterfirma/berater/586",
+        "name": "SEG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/618494-1719220555.jpg?lm=1",
+      "current_club": {
+        "href": "/olympique-lyon/startseite/verein/1041"
+      },
+      "foot": "right",
+      "joined": "\n                            05/08/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u21/startseite/verein/9565"
+      },
+      "international_caps": "13",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "tyler-morton",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 27/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tyler-morton/leistungsdaten/spieler/618494"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

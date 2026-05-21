@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/585323",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/585323",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/filip-jorgensen/profil/spieler/585323",
+      "name": "Filip",
+      "last_name": "Jørgensen",
+      "number": "#12",
+      "name_in_home_country": null,
+      "date_of_birth": "16/04/2002",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Sweden",
+        "city": "Lomma  "
+      },
+      "height": "1,92 m",
+      "full_name": null,
+      "citizenship": "Denmark",
+      "additional_citizenships": [
+        "Sweden"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/goal-management/beraterfirma/berater/4837",
+        "name": "Goal Management"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/585323-1718280485.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            30/07/2024                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Denmark",
+        "href": "/danemark/startseite/verein/3436"
+      },
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "filip-jorgensen",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/filip-jorgensen/leistungsdaten/spieler/585323"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

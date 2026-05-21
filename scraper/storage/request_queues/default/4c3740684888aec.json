@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/546543",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/546543",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/darwin-nunez/profil/spieler/546543",
+      "name": "Darwin",
+      "last_name": "Núñez",
+      "number": "#7",
+      "name_in_home_country": "Darwin Gabriel Núñez Ribeiro",
+      "date_of_birth": "24/06/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Uruguay",
+        "city": "Artigas  "
+      },
+      "height": "1,87 m",
+      "full_name": "Darwin Gabriel Núñez Ribeiro",
+      "citizenship": "Uruguay",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/546543-1681827179.jpg?lm=1",
+      "current_club": {
+        "href": "/al-hilal-sfc/startseite/verein/1114"
+      },
+      "foot": "right",
+      "joined": "\n                            09/08/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "38",
+      "international_goals": "13",
+      "social_media": [],
+      "code": "darwin-nunez",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 30/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/darwin-nunez/leistungsdaten/spieler/546543"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

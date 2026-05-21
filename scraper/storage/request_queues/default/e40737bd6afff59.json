@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/324358",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/324358",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ollie-watkins/profil/spieler/324358",
+      "name": "Ollie",
+      "last_name": "Watkins",
+      "number": "#11",
+      "name_in_home_country": "Oliver George Arthur Watkins",
+      "date_of_birth": "30/12/1995",
+      "age": "30",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Torquay  "
+      },
+      "height": "1,80 m",
+      "full_name": "Oliver George Arthur Watkins",
+      "citizenship": "England",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/324358-1708341279.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "right",
+      "joined": "\n                            09/09/2020                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Under Armour",
+      "national_team": {
+        "country": "England",
+        "href": "/england/startseite/verein/3299"
+      },
+      "international_caps": "20",
+      "international_goals": "6",
+      "social_media": [],
+      "code": "ollie-watkins",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ollie-watkins/leistungsdaten/spieler/324358"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

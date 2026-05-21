@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/401356",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/401356",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/edson-alvarez/profil/spieler/401356",
+      "name": "Edson",
+      "last_name": "Álvarez",
+      "number": "#11",
+      "name_in_home_country": "Edson Omar Álvarez Velázquez",
+      "date_of_birth": "24/10/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Mexico",
+        "city": "Tlalnepantla  "
+      },
+      "height": "1,90 m",
+      "full_name": "Edson Omar Álvarez Velázquez",
+      "citizenship": "Mexico",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/muy-manero/beraterfirma/berater/3861",
+        "name": "Muy Manero"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/401356-1765380634.jpg?lm=1",
+      "current_club": {
+        "href": "/fenerbahce/startseite/verein/36"
+      },
+      "foot": "right",
+      "joined": "\n                            22/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Mexico",
+        "href": "/mexiko/startseite/verein/6303"
+      },
+      "international_caps": "96",
+      "international_goals": "7",
+      "social_media": [],
+      "code": "edson-alvarez",
+      "current_market_value": "€18.00m",
+      "market_value_last_update": "Last update: 05/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/edson-alvarez/leistungsdaten/spieler/401356"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

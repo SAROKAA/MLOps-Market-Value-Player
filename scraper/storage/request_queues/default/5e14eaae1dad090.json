@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/384461",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/384461",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jakub-moder/profil/spieler/384461",
+      "name": "Jakub",
+      "last_name": "Moder",
+      "number": "#7",
+      "name_in_home_country": "Jakub Piotr Moder",
+      "date_of_birth": "07/04/1999",
+      "age": "27",
+      "place_of_birth": {
+        "country": "Poland",
+        "city": "Szczecinek  "
+      },
+      "height": "1,91 m",
+      "full_name": "Jakub Piotr Moder",
+      "citizenship": "Poland",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/384461-1716985274.jpg?lm=1",
+      "current_club": {
+        "href": "/feyenoord-rotterdam/startseite/verein/234"
+      },
+      "foot": "right",
+      "joined": "\n                            20/01/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "36",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "jakub-moder",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 02/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jakub-moder/leistungsdaten/spieler/384461"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/384461",
+  "handled_at": null
+}

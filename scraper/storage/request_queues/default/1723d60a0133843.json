@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/372246",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/372246",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/carlos-soler/profil/spieler/372246",
+      "name": "Carlos",
+      "last_name": "Soler",
+      "number": "#18",
+      "name_in_home_country": "Carlos Soler Barragán",
+      "date_of_birth": "02/01/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Spain",
+        "city": "Valencia  "
+      },
+      "height": "1,80 m",
+      "full_name": "Carlos Soler Barragán",
+      "citizenship": "Spain",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/as1tm/beraterfirma/berater/13796",
+        "name": "AS1"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/372246-1759159072.jpg?lm=1",
+      "current_club": {
+        "href": "/real-sociedad/startseite/verein/681"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "15",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "carlos-soler",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 12/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/carlos-soler/leistungsdaten/spieler/372246"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

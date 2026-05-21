@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/394327",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/394327",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/boubacar-kamara/profil/spieler/394327",
+      "name": "Boubacar",
+      "last_name": "Kamara",
+      "number": "#44",
+      "name_in_home_country": "Boubacar Bernard Kamara",
+      "date_of_birth": "23/11/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Marseille  "
+      },
+      "height": "1,84 m",
+      "full_name": "Boubacar Bernard Kamara",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Senegal"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/sport-cover/beraterfirma/berater/1881",
+        "name": "Sport Cover"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/394327-1736160460.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2022                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "boubacar-kamara",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/boubacar-kamara/leistungsdaten/spieler/394327"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

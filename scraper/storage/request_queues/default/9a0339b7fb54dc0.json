@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/424015",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/424015",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/nathan-patterson/profil/spieler/424015",
+      "name": "Nathan",
+      "last_name": "Patterson",
+      "number": "#2",
+      "name_in_home_country": null,
+      "date_of_birth": "16/10/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Scotland",
+        "city": "Glasgow  "
+      },
+      "height": "1,89 m",
+      "full_name": null,
+      "citizenship": "Scotland",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/sa33-sports-group-limited/beraterfirma/berater/13697",
+        "name": "SA33"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/424015-1736161412.jpg?lm=1",
+      "current_club": {
+        "href": "/everton-fc/startseite/verein/29"
+      },
+      "foot": "right",
+      "joined": "\n                            04/01/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "25",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "nathan-patterson",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/nathan-patterson/leistungsdaten/spieler/424015"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/126665",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/126665",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/idrissa-gueye/profil/spieler/126665",
+      "name": "Idrissa",
+      "last_name": "Gueye",
+      "number": "#27",
+      "name_in_home_country": "Idrissa Gana Gueye",
+      "date_of_birth": "26/09/1989",
+      "age": "36",
+      "place_of_birth": {
+        "country": "Senegal",
+        "city": "Dakar  "
+      },
+      "height": "1,74 m",
+      "full_name": "Idrissa Gana Gueye",
+      "citizenship": "Senegal",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/roc-nation-sports/beraterfirma/berater/5015",
+        "name": "Roc Nation Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/126665-1746646577.jpg?lm=1",
+      "current_club": {
+        "href": "/everton-fc/startseite/verein/29"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2022                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "130",
+      "international_goals": "7",
+      "social_media": [],
+      "code": "idrissa-gueye",
+      "current_market_value": "€1.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/idrissa-gueye/leistungsdaten/spieler/126665"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

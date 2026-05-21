@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/728734",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/728734",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/alfie-devine/profil/spieler/728734",
+      "name": "Alfie",
+      "last_name": "Devine",
+      "number": "#21",
+      "name_in_home_country": "Alfie Sean Devine",
+      "date_of_birth": "01/08/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Warrington  "
+      },
+      "height": "1,82 m",
+      "full_name": "Alfie Sean Devine",
+      "citizenship": "England",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/728734-1755501312.jpg?lm=1",
+      "current_club": {
+        "href": "/preston-north-end/startseite/verein/466"
+      },
+      "foot": "right",
+      "joined": "\n                            08/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "13",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "alfie-devine",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/alfie-devine/leistungsdaten/spieler/728734"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

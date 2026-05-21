@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/333014",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/333014",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sander-berge/profil/spieler/333014",
+      "name": "Sander",
+      "last_name": "Berge",
+      "number": "#16",
+      "name_in_home_country": "Sander Gard Bolin Berge",
+      "date_of_birth": "14/02/1998",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Norway",
+        "city": "Bærum  "
+      },
+      "height": "1,95 m",
+      "full_name": "Sander Gard Bolin Berge",
+      "citizenship": "Norway",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/keypass-as/beraterfirma/berater/3989",
+        "name": "Keypass AS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/333014-1679676693.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "right",
+      "joined": "\n                            22/08/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "64",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "sander-berge",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sander-berge/leistungsdaten/spieler/333014"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

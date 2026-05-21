@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1065227",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1065227",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tom-edozie/profil/spieler/1065227",
+      "name": "Tom",
+      "last_name": "Edozie",
+      "number": "#74",
+      "name_in_home_country": "Thomas Edozie",
+      "date_of_birth": "18/05/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,78 m",
+      "full_name": "Thomas Edozie",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/golden-gate-group/beraterfirma/berater/6076",
+        "name": "Golden Gate Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1065227-1746644460.jpg?lm=1",
+      "current_club": {
+        "href": "/wolverhampton-wanderers-u21/startseite/verein/24226"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "tom-edozie",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tom-edozie/leistungsdaten/spieler/1065227"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

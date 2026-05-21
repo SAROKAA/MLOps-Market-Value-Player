@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/207014",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/207014",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/will-hughes/profil/spieler/207014",
+      "name": "Will",
+      "last_name": "Hughes",
+      "number": "#19",
+      "name_in_home_country": "William James Hughes",
+      "date_of_birth": "17/04/1995",
+      "age": "31",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Weybridge  "
+      },
+      "height": "1,85 m",
+      "full_name": "William James Hughes",
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/207014-1700672424.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace/startseite/verein/873"
+      },
+      "foot": "left",
+      "joined": "\n                            28/08/2021                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "23",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "will-hughes",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/will-hughes/leistungsdaten/spieler/207014"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/207014",
+  "handled_at": null
+}

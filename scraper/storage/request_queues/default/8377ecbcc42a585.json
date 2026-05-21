@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/262980",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/262980",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jefferson-lerma/profil/spieler/262980",
+      "name": "Jefferson",
+      "last_name": "Lerma",
+      "number": "#8",
+      "name_in_home_country": "Jefferson Andrés Lerma Solís",
+      "date_of_birth": "25/10/1994",
+      "age": "31",
+      "place_of_birth": {
+        "country": "Colombia",
+        "city": "Cerrito  "
+      },
+      "height": "1,79 m",
+      "full_name": "Jefferson Andrés Lerma Solís",
+      "citizenship": "Colombia",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/abadsport/beraterfirma/berater/2811",
+        "name": "ABADSPORT"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/262980-1693334146.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace/startseite/verein/873"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "64",
+      "international_goals": "5",
+      "social_media": [],
+      "code": "jefferson-lerma",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jefferson-lerma/leistungsdaten/spieler/262980"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/262980",
+  "handled_at": null
+}

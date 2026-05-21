@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/148367",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/148367",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/christian-norgaard/profil/spieler/148367",
+      "name": "Christian",
+      "last_name": "Nørgaard",
+      "number": "#16",
+      "name_in_home_country": "Christian Thers Barsøe Nørgaard",
+      "date_of_birth": "10/03/1994",
+      "age": "32",
+      "place_of_birth": {
+        "country": "Denmark",
+        "city": "København  "
+      },
+      "height": "1,87 m",
+      "full_name": "Christian Thers Barsøe Nørgaard",
+      "citizenship": "Denmark",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/pep-consulting/beraterfirma/berater/6633",
+        "name": "PEP Consulting"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/148367-1699799827.jpg?lm=1",
+      "current_club": {
+        "href": "/arsenal-fc/startseite/verein/11"
+      },
+      "foot": "right",
+      "joined": "\n                            10/07/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "41",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "christian-norgaard",
+      "current_market_value": "€7.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/christian-norgaard/leistungsdaten/spieler/148367"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/823231",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/823231",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dango-ouattara/profil/spieler/823231",
+      "name": "Dango",
+      "last_name": "Ouattara",
+      "number": "#19",
+      "name_in_home_country": "Dango Aboubacar Faissal Ouattara",
+      "date_of_birth": "11/02/2002",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Burkina Faso",
+        "city": "Ouagadougou  "
+      },
+      "height": "1,77 m",
+      "full_name": "Dango Aboubacar Faissal Ouattara",
+      "citizenship": "Burkina Faso",
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/premium-sports-management/beraterfirma/berater/7012",
+        "name": "PSM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/823231-1737452292.jpg?lm=1",
+      "current_club": {
+        "href": "/brentford-fc/startseite/verein/1148"
+      },
+      "foot": "left",
+      "joined": "\n                            16/08/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "38",
+      "international_goals": "12",
+      "social_media": [],
+      "code": "dango-ouattara",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dango-ouattara/leistungsdaten/spieler/823231"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/823231",
+  "handled_at": null
+}

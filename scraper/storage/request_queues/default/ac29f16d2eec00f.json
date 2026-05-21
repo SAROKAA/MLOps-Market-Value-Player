@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/258004",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/258004",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ruben-dias/profil/spieler/258004",
+      "name": "Rúben",
+      "last_name": "Dias",
+      "number": "#3",
+      "name_in_home_country": "Rúben Santos Gato Alves Dias",
+      "date_of_birth": "14/05/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Amadora  "
+      },
+      "height": "1,87 m",
+      "full_name": "Rúben Santos Gato Alves Dias",
+      "citizenship": "Portugal",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/gestifute/beraterfirma/berater/413",
+        "name": "Gestifute"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/258004-1684921271.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-city/startseite/verein/281"
+      },
+      "foot": "right",
+      "joined": "\n                            29/09/2020                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "national_team": {
+        "country": "Portugal",
+        "href": "/portugal/startseite/verein/3300"
+      },
+      "international_caps": "74",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "ruben-dias",
+      "current_market_value": "€60.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ruben-dias/leistungsdaten/spieler/258004"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/258004",
+  "handled_at": null
+}

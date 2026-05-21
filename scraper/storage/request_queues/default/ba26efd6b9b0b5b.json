@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/955253",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/955253",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/bastien-meupiyou/profil/spieler/955253",
+      "name": "Bastien",
+      "last_name": "Meupiyou",
+      "number": "#33",
+      "name_in_home_country": "Ndemeni Bastien Chefren Meupiyou Menadjou",
+      "date_of_birth": "19/03/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Paris  "
+      },
+      "height": "1,91 m",
+      "full_name": "Ndemeni Bastien Chefren Meupiyou Menadjou",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Cameroon"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/gestifute/beraterfirma/berater/413",
+        "name": "Gestifute"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/955253-1703065461.jpg?lm=1",
+      "current_club": {
+        "href": "/fc-alverca/startseite/verein/2521"
+      },
+      "foot": "left",
+      "joined": "\n                            21/07/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "3",
+      "international_goals": "0",
+      "code": "bastien-meupiyou",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 18/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/bastien-meupiyou/leistungsdaten/spieler/955253"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

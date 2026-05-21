@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/953933",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/953933",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jack-moorhouse/profil/spieler/953933",
+      "name": "Jack",
+      "last_name": "Moorhouse",
+      "number": "#48",
+      "name_in_home_country": "Jack Lee Moorhouse",
+      "date_of_birth": "29/11/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Manchester  "
+      },
+      "height": "1,84 m",
+      "full_name": "Jack Lee Moorhouse",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/triple-keys-sports/beraterfirma/berater/7892",
+        "name": "TKS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/953933-1739789147.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united-u21/startseite/verein/9251"
+      },
+      "foot": "both",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "5",
+      "international_goals": "0",
+      "code": "jack-moorhouse",
+      "current_market_value": "€100k",
+      "market_value_last_update": "Last update: 26/11/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jack-moorhouse/leistungsdaten/spieler/953933"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/953933",
+  "handled_at": null
+}

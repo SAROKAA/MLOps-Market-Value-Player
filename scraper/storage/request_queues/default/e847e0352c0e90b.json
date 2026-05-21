@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1071138",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1071138",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/benjamin-fredrick/profil/spieler/1071138",
+      "name": "Benjamin",
+      "last_name": "Fredrick",
+      "number": "#22",
+      "name_in_home_country": "Benjamin Chiemela Fredrick",
+      "date_of_birth": "28/05/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,87 m",
+      "full_name": "Benjamin Chiemela Fredrick",
+      "citizenship": "Nigeria",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1071138-1748855907.jpg?lm=1",
+      "current_club": {
+        "href": "/fcv-dender-eh/startseite/verein/9010"
+      },
+      "foot": "right",
+      "joined": "\n                            25/07/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Nigeria",
+        "href": "/nigeria/startseite/verein/3444"
+      },
+      "international_caps": "7",
+      "international_goals": "0",
+      "code": "benjamin-fredrick",
+      "current_market_value": "€800k",
+      "market_value_last_update": "Last update: 10/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/benjamin-fredrick/leistungsdaten/spieler/1071138"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

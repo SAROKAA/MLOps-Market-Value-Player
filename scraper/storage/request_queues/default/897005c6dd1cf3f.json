@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/33873",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/33873",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/asmir-begovic/profil/spieler/33873",
+      "name": "Asmir",
+      "last_name": "Begovic",
+      "number": "#31",
+      "name_in_home_country": "Asmir Begović",
+      "date_of_birth": "20/06/1987",
+      "age": "38",
+      "place_of_birth": {
+        "country": "Jugoslawien (SFR)",
+        "city": "Trebinje  "
+      },
+      "height": "1,99 m",
+      "full_name": "Asmir Begović",
+      "citizenship": "Bosnia-Herzegovina",
+      "additional_citizenships": [
+        "Canada"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/refuel-performance-management/beraterfirma/berater/9029",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/33873-1737919950.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            29/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "AB1",
+      "international_caps": "63",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "asmir-begovic",
+      "current_market_value": "€200k",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/asmir-begovic/leistungsdaten/spieler/33873"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

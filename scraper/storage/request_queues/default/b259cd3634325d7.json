@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/255731",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/255731",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/wes-burns/profil/spieler/255731",
+      "name": "Wes",
+      "last_name": "Burns",
+      "number": "#7",
+      "name_in_home_country": "Wesley James Burns",
+      "date_of_birth": "23/11/1994",
+      "age": "31",
+      "place_of_birth": {
+        "country": "Wales",
+        "city": "Cardiff  "
+      },
+      "height": "1,73 m",
+      "full_name": "Wesley James Burns",
+      "citizenship": "Wales",
+      "position": "Midfield - Right Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/255731-1664179868.jpg?lm=1",
+      "current_club": {
+        "href": "/ipswich-town/startseite/verein/677"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2021                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "10",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "wes-burns",
+      "current_market_value": "€1.80m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/wes-burns/leistungsdaten/spieler/255731"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

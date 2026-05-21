@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/670848",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/670848",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/divin-mubama/profil/spieler/670848",
+      "name": "Divin",
+      "last_name": "Mubama",
+      "number": "#9",
+      "name_in_home_country": "Divin Saku Mubama",
+      "date_of_birth": "25/10/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,83 m",
+      "full_name": "Divin Saku Mubama",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "DR Congo"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/elite-management-agency/beraterfirma/berater/4594",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/670848-1667548750.jpg?lm=1",
+      "current_club": {
+        "href": "/stoke-city/startseite/verein/512"
+      },
+      "foot": "left",
+      "joined": "\n                            05/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "7",
+      "international_goals": "5",
+      "social_media": [],
+      "code": "divin-mubama",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/divin-mubama/leistungsdaten/spieler/670848"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

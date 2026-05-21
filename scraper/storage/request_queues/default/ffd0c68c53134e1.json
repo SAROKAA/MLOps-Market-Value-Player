@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/747951",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/747951",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/shea-charles/profil/spieler/747951",
+      "name": "Shea",
+      "last_name": "Charles",
+      "number": "#24",
+      "name_in_home_country": "Shea Emmanuel Charles",
+      "date_of_birth": "05/11/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Manchester  "
+      },
+      "height": "1,89 m",
+      "full_name": "Shea Emmanuel Charles",
+      "citizenship": "Northern Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/747951-1709112622.jpg?lm=1",
+      "current_club": {
+        "href": "/southampton-fc/startseite/verein/180"
+      },
+      "foot": "right",
+      "joined": "\n                            12/07/2023                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "33",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "shea-charles",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/shea-charles/leistungsdaten/spieler/747951"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

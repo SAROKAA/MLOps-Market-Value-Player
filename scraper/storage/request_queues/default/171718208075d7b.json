@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/203026",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/203026",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/danny-ward/profil/spieler/203026",
+      "name": "Danny",
+      "last_name": "Ward",
+      "number": "#21",
+      "name_in_home_country": "Daniel Ward",
+      "date_of_birth": "22/06/1993",
+      "age": "32",
+      "place_of_birth": {
+        "country": "Wales",
+        "city": "Wrexham  "
+      },
+      "height": "1,91 m",
+      "full_name": "Daniel Ward",
+      "citizenship": "Wales",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/203026-1668070552.jpg?lm=1",
+      "current_club": {
+        "href": "/wrexham-afc/startseite/verein/1112"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "44",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "danny-ward",
+      "current_market_value": "€800k",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/danny-ward/leistungsdaten/spieler/203026"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

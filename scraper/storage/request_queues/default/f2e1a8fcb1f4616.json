@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/583255",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/583255",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/antoine-semenyo/profil/spieler/583255",
+      "name": "Antoine",
+      "last_name": "Semenyo",
+      "number": "#42",
+      "name_in_home_country": "Antoine Serlom Semenyo",
+      "date_of_birth": "07/01/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,85 m",
+      "full_name": "Antoine Serlom Semenyo",
+      "citizenship": "Ghana",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/583255-1737452028.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-city/startseite/verein/281"
+      },
+      "foot": "right",
+      "joined": "\n                            09/01/2026                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "34",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "antoine-semenyo",
+      "current_market_value": "€75.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/antoine-semenyo/leistungsdaten/spieler/583255"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

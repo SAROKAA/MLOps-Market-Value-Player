@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1085591",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1085591",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/bendito-mantato/profil/spieler/1085591",
+      "name": "Bendito",
+      "last_name": "Mantato",
+      "number": "#70",
+      "name_in_home_country": "Bendito Boanova Mantato",
+      "date_of_birth": "25/01/2008",
+      "age": "18",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Manchester  "
+      },
+      "height": "1,80 m",
+      "full_name": "Bendito Boanova Mantato",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Angola"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1085591-1758915462.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united-u21/startseite/verein/9251"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "5",
+      "international_goals": "0",
+      "code": "bendito-mantato",
+      "current_market_value": "€400k",
+      "market_value_last_update": "Last update: 22/01/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/bendito-mantato/leistungsdaten/spieler/1085591"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1085591",
+  "handled_at": null
+}

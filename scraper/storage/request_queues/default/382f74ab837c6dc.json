@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/687626",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/687626",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/moises-caicedo/profil/spieler/687626",
+      "name": "Moisés",
+      "last_name": "Caicedo",
+      "number": "#25",
+      "name_in_home_country": "Moisés Isaac Caicedo Corozo",
+      "date_of_birth": "02/11/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Ecuador",
+        "city": "Santo Domingo  "
+      },
+      "height": "1,78 m",
+      "full_name": "Moisés Isaac Caicedo Corozo",
+      "citizenship": "Ecuador",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/687626-1660729724.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            14/08/2023                        ",
+      "contract_expires": "30/06/2033",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "60",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "moises-caicedo",
+      "current_market_value": "€110.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/moises-caicedo/leistungsdaten/spieler/687626"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

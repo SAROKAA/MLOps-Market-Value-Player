@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1107733",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1107733",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/harrison-armstrong/profil/spieler/1107733",
+      "name": "Harrison",
+      "last_name": "Armstrong",
+      "number": "#45",
+      "name_in_home_country": "Harrison David Armstrong",
+      "date_of_birth": "19/01/2007",
+      "age": "19",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Liverpool  "
+      },
+      "height": "1,85 m",
+      "full_name": "Harrison David Armstrong",
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1107733-1736161319.jpg?lm=1",
+      "current_club": {
+        "href": "/everton-fc/startseite/verein/29"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "8",
+      "international_goals": "2",
+      "code": "harrison-armstrong",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/harrison-armstrong/leistungsdaten/spieler/1107733"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

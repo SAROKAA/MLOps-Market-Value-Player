@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/43530",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/43530",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/adam-lallana/profil/spieler/43530",
+      "name": "Adam",
+      "last_name": "Lallana",
+      "number": null,
+      "name_in_home_country": "Adam David Lallana",
+      "date_of_birth": "10/05/1988",
+      "age": "38",
+      "place_of_birth": {
+        "country": "England",
+        "city": "St Albans  "
+      },
+      "height": "1,72 m",
+      "full_name": "Adam David Lallana",
+      "citizenship": "England",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/43530-1662663337.jpg?lm=1",
+      "current_club": {
+        "href": "/retired/startseite/verein/123"
+      },
+      "foot": "both",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "34",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "adam-lallana",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/adam-lallana/leistungsdaten/spieler/43530"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

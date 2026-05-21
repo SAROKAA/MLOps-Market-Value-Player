@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1082850",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1082850",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/deivid-washington/profil/spieler/1082850",
+      "name": "",
+      "last_name": "Deivid Washington",
+      "number": "#33",
+      "name_in_home_country": null,
+      "date_of_birth": "05/06/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Itumbiara  "
+      },
+      "height": "1,87 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/bertolucci-sports/beraterfirma/berater/724",
+        "name": "Bertolucci Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1082850-1682776110.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc-u21/startseite/verein/9250"
+      },
+      "foot": "right",
+      "joined": "\n                            24/08/2023                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Brazil",
+        "href": "/brasilien-u20/startseite/verein/7658"
+      },
+      "international_caps": "12",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "deivid-washington",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/deivid-washington/leistungsdaten/spieler/1082850"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

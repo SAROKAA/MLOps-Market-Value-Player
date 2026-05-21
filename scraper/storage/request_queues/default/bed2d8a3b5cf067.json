@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/505194",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/505194",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/luke-thomas/profil/spieler/505194",
+      "name": "Luke",
+      "last_name": "Thomas",
+      "number": "#33",
+      "name_in_home_country": "Luke Jonathan Thomas",
+      "date_of_birth": "10/06/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Syston  "
+      },
+      "height": "1,81 m",
+      "full_name": "Luke Jonathan Thomas",
+      "citizenship": "England",
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/505194-1687975540.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2020                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "15",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "luke-thomas",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/luke-thomas/leistungsdaten/spieler/505194"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

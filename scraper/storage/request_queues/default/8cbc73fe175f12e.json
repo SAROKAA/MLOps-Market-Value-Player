@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/911424",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/911424",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tyler-fredricson/profil/spieler/911424",
+      "name": "Tyler",
+      "last_name": "Fredricson",
+      "number": "#33",
+      "name_in_home_country": null,
+      "date_of_birth": "23/02/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Stockport  "
+      },
+      "height": "1,88 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/murdock-sports-group/beraterfirma/berater/14555",
+        "name": "Murdock Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/911424-1739789023.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united-u21/startseite/verein/9251"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2022                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "tyler-fredricson",
+      "current_market_value": "€3.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tyler-fredricson/leistungsdaten/spieler/911424"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/911424",
+  "handled_at": null
+}

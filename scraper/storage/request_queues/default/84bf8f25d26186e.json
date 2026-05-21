@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/696346",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/696346",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jay-stansfield/profil/spieler/696346",
+      "name": "Jay",
+      "last_name": "Stansfield",
+      "number": "#28",
+      "name_in_home_country": null,
+      "date_of_birth": "24/11/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Tiverton  "
+      },
+      "height": "1,87 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/696346-1669625394.png?lm=1",
+      "current_club": {
+        "href": "/birmingham-city/startseite/verein/337"
+      },
+      "foot": "right",
+      "joined": "\n                            30/08/2024                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "national_team": {
+        "country": "England",
+        "href": "/england-u21/startseite/verein/9565"
+      },
+      "international_caps": "9",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "jay-stansfield",
+      "current_market_value": "€18.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jay-stansfield/leistungsdaten/spieler/696346"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

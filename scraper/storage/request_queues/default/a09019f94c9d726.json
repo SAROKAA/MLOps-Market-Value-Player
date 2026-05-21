@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/730893",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/730893",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tyrick-mitchell/profil/spieler/730893",
+      "name": "Tyrick",
+      "last_name": "Mitchell",
+      "number": "#3",
+      "name_in_home_country": "Tyrick Kwon Mitchell",
+      "date_of_birth": "01/09/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,81 m",
+      "full_name": "Tyrick Kwon Mitchell",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/roof/beraterfirma/berater/2295",
+        "name": "ROOF"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/730893-1693826944.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace/startseite/verein/873"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2020                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "tyrick-mitchell",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tyrick-mitchell/leistungsdaten/spieler/730893"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/730893",
+  "handled_at": null
+}

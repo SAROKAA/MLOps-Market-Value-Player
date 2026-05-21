@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1010854",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1010854",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mathis-amougou/profil/spieler/1010854",
+      "name": "Mathis",
+      "last_name": "Amougou",
+      "number": "#17",
+      "name_in_home_country": null,
+      "date_of_birth": "18/01/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Le Blanc-Mesnil  "
+      },
+      "height": "1,77 m",
+      "full_name": null,
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Cameroon"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/classico/beraterfirma/berater/3278",
+        "name": "Classico"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1010854-1727721658.jpg?lm=1",
+      "current_club": {
+        "href": "/rc-strasbourg-alsace/startseite/verein/667"
+      },
+      "foot": "right",
+      "joined": "\n                            12/07/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "mathis-amougou",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 15/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mathis-amougou/leistungsdaten/spieler/1010854"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

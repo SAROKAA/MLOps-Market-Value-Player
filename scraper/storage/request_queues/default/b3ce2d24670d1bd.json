@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/478573",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/478573",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ryan-gravenberch/profil/spieler/478573",
+      "name": "Ryan",
+      "last_name": "Gravenberch",
+      "number": "#38",
+      "name_in_home_country": "Ryan Jiro Gravenberch",
+      "date_of_birth": "16/05/2002",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Amsterdam  "
+      },
+      "height": "1,90 m",
+      "full_name": "Ryan Jiro Gravenberch",
+      "citizenship": "Netherlands",
+      "additional_citizenships": [
+        "Suriname"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/team-raiola/beraterfirma/berater/11115",
+        "name": "Team Raiola"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/478573-1718097194.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc/startseite/verein/31"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2023                        ",
+      "contract_expires": "30/06/2032",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "25",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "ryan-gravenberch",
+      "current_market_value": "€90.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ryan-gravenberch/leistungsdaten/spieler/478573"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

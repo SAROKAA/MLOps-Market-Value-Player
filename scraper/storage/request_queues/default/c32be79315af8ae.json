@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/340325",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/340325",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/reiss-nelson/profil/spieler/340325",
+      "name": "Reiss",
+      "last_name": "Nelson",
+      "number": "#11",
+      "name_in_home_country": "Reiss Luke Nelson",
+      "date_of_birth": "10/12/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,75 m",
+      "full_name": "Reiss Luke Nelson",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/family-reliance-group/beraterfirma/berater/14316",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/340325-1667418642.jpg?lm=1",
+      "current_club": {
+        "href": "/brentford-fc/startseite/verein/1148"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "12",
+      "international_goals": "6",
+      "social_media": [],
+      "code": "reiss-nelson",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/reiss-nelson/leistungsdaten/spieler/340325"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/340325",
+  "handled_at": null
+}

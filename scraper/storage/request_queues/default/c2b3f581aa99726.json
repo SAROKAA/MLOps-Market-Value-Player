@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/890718",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/890718",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jimi-gower/profil/spieler/890718",
+      "name": "Jimi",
+      "last_name": "Gower",
+      "number": "#30",
+      "name_in_home_country": null,
+      "date_of_birth": "01/10/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,81 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/elite-project-group-limited/beraterfirma/berater/5620",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/890718-1744146290.jpg?lm=1",
+      "current_club": {
+        "href": "/moreirense-fc/startseite/verein/979"
+      },
+      "foot": "right",
+      "joined": "\n                            06/08/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Skechers",
+      "code": "jimi-gower",
+      "current_market_value": "€100k",
+      "market_value_last_update": "Last update: 18/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jimi-gower/leistungsdaten/spieler/890718"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/890718",
+  "handled_at": null
+}

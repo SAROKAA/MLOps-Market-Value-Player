@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/936901",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/936901",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dominic-sadi/profil/spieler/936901",
+      "name": "Dominic",
+      "last_name": "Sadi",
+      "number": "#30",
+      "name_in_home_country": "Dominic Wadi Sadi",
+      "date_of_birth": "02/09/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,74 m",
+      "full_name": "Dominic Wadi Sadi",
+      "citizenship": "England",
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/a2b-sports-management/beraterfirma/berater/10024",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/936901-1746642777.jpg?lm=1",
+      "current_club": {
+        "href": "/fk-novi-pazar/startseite/verein/4633"
+      },
+      "foot": "left",
+      "joined": "\n                            13/02/2026                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "dominic-sadi",
+      "current_market_value": "€400k",
+      "market_value_last_update": "Last update: 26/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dominic-sadi/leistungsdaten/spieler/936901"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/936901",
+  "handled_at": null
+}

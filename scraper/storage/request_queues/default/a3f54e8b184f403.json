@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/745191",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/745191",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ramon-sosa/profil/spieler/745191",
+      "name": "Ramón",
+      "last_name": "Sosa",
+      "number": "#19",
+      "name_in_home_country": "Ramón Sosa Acosta",
+      "date_of_birth": "31/08/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Paraguay",
+        "city": "Maracaná  "
+      },
+      "height": "1,79 m",
+      "full_name": "Ramón Sosa Acosta",
+      "citizenship": "Paraguay",
+      "additional_citizenships": [
+        "Argentina"
+      ],
+      "position": "Attack - Second Striker",
+      "player_agent": {
+        "href": "/dc-sport/beraterfirma/berater/7757",
+        "name": "Osvaldo Daniel Campo"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/745191-1731056200.jpg?lm=1",
+      "current_club": {
+        "href": "/sociedade-esportiva-palmeiras/startseite/verein/1023"
+      },
+      "foot": "right",
+      "joined": "\n                            09/07/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "28",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "ramon-sosa",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 12/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ramon-sosa/leistungsdaten/spieler/745191"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/711999",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/711999",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/lesley-ugochukwu/profil/spieler/711999",
+      "name": "Lesley",
+      "last_name": "Ugochukwu",
+      "number": "#8",
+      "name_in_home_country": "Lesley Chimuanya Ugochukwu",
+      "date_of_birth": "26/03/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Rennes  "
+      },
+      "height": "1,90 m",
+      "full_name": "Lesley Chimuanya Ugochukwu",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/711999-1666698684.jpg?lm=1",
+      "current_club": {
+        "href": "/burnley-fc/startseite/verein/1132"
+      },
+      "foot": "right",
+      "joined": "\n                            06/08/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "12",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "lesley-ugochukwu",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/lesley-ugochukwu/leistungsdaten/spieler/711999"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

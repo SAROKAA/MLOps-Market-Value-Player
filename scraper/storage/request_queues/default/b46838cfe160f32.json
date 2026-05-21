@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/840640",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/840640",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sammy-braybrooke/profil/spieler/840640",
+      "name": "Sammy",
+      "last_name": "Braybrooke",
+      "number": "#36",
+      "name_in_home_country": "Samuel Charles Braybrooke",
+      "date_of_birth": "12/03/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Leicester  "
+      },
+      "height": "1,78 m",
+      "full_name": "Samuel Charles Braybrooke",
+      "citizenship": "England",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/seg-sports-entertainment-group/beraterfirma/berater/586",
+        "name": "SEG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/840640-1748198130.jpg?lm=1",
+      "current_club": {
+        "href": "/chesterfield-fc/startseite/verein/1219"
+      },
+      "foot": "right",
+      "joined": "\n                            04/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "sammy-braybrooke",
+      "current_market_value": "€400k",
+      "market_value_last_update": "Last update: 15/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sammy-braybrooke/leistungsdaten/spieler/840640"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

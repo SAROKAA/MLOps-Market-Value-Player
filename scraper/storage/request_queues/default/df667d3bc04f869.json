@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/777308",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/777308",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/zain-silcott-duberry/profil/spieler/777308",
+      "name": "Zain",
+      "last_name": "Silcott-Duberry",
+      "number": "#43",
+      "name_in_home_country": "Zain Rio Silcott-Duberry",
+      "date_of_birth": "09/07/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,77 m",
+      "full_name": "Zain Rio Silcott-Duberry",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Montserrat"
+      ],
+      "position": "Midfield - Left Midfield",
+      "player_agent": {
+        "href": "/boss-talent-sports/beraterfirma/berater/13378",
+        "name": "BTS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/777308-1734219287.jpg?lm=1",
+      "current_club": {
+        "href": "/sheffield-wednesday/startseite/verein/1035"
+      },
+      "foot": "right",
+      "joined": "\n                            26/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "zain-silcott-duberry",
+      "current_market_value": "€200k",
+      "market_value_last_update": "Last update: 29/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/zain-silcott-duberry/leistungsdaten/spieler/777308"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

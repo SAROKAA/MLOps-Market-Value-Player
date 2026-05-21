@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/663244",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/663244",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jota-silva/profil/spieler/663244",
+      "name": "",
+      "last_name": "Jota Silva",
+      "number": "#26",
+      "name_in_home_country": null,
+      "date_of_birth": "01/08/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Gondomar  "
+      },
+      "height": "1,79 m",
+      "full_name": null,
+      "citizenship": "Portugal",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/sferico-sports-management/beraterfirma/berater/5693",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/663244-1770374751.png?lm=1",
+      "current_club": {
+        "href": "/besiktas-jk/startseite/verein/114"
+      },
+      "foot": "right",
+      "joined": "\n                            12/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "jota-silva",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 05/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jota-silva/leistungsdaten/spieler/663244"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/906214",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/906214",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sam-rak-sakyi/profil/spieler/906214",
+      "name": "Sam",
+      "last_name": "Rak-Sakyi",
+      "number": "#36",
+      "name_in_home_country": "Samuel Rak-Sakyi",
+      "date_of_birth": "27/03/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": null,
+      "full_name": "Samuel Rak-Sakyi",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ghana"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/1seven-sports-management-group-ltd/beraterfirma/berater/12201",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/906214-1731016518.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc-u21/startseite/verein/9250"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "sam-rak-sakyi",
+      "current_market_value": "€600k",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sam-rak-sakyi/leistungsdaten/spieler/906214"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

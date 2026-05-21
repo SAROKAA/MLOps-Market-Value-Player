@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/262226",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/262226",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/timothy-castagne/profil/spieler/262226",
+      "name": "Timothy",
+      "last_name": "Castagne",
+      "number": "#21",
+      "name_in_home_country": null,
+      "date_of_birth": "05/12/1995",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Belgium",
+        "city": "Arlon  "
+      },
+      "height": "1,85 m",
+      "full_name": null,
+      "citizenship": "Belgium",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/senergies-bv/beraterfirma/berater/9897",
+        "name": "SENERGIES BV"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/262226-1762354618.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "right",
+      "joined": "\n                            29/08/2023                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "62",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "timothy-castagne",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/timothy-castagne/leistungsdaten/spieler/262226"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

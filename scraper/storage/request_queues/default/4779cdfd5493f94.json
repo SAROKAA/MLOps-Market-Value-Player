@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/943560",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/943560",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/franco-umeh/profil/spieler/943560",
+      "name": "Franco",
+      "last_name": "Umeh",
+      "number": "#15",
+      "name_in_home_country": "Franco Umeh-Chibueze",
+      "date_of_birth": "26/01/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,78 m",
+      "full_name": "Franco Umeh-Chibueze",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/sbmtm/beraterfirma/berater/10829",
+        "name": "SBM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/943560-1708422716.jpg?lm=1",
+      "current_club": {
+        "href": "/portsmouth-fc/startseite/verein/1020"
+      },
+      "foot": "left",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "franco-umeh",
+      "current_market_value": "€500k",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/franco-umeh/leistungsdaten/spieler/943560"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

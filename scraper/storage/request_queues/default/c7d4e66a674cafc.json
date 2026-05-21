@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/339556",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/339556",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/rico-henry/profil/spieler/339556",
+      "name": "Rico",
+      "last_name": "Henry",
+      "number": "#3",
+      "name_in_home_country": "Rico Antonio Henry",
+      "date_of_birth": "08/07/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Birmingham  "
+      },
+      "height": "1,70 m",
+      "full_name": "Rico Antonio Henry",
+      "citizenship": "Jamaica",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/majestyk-sports-management/beraterfirma/berater/10680",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/339556-1684771012.jpg?lm=1",
+      "current_club": {
+        "href": "/brentford-fc/startseite/verein/1148"
+      },
+      "foot": "left",
+      "joined": "\n                            31/08/2016                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Jamaica",
+        "href": "/jamaika/startseite/verein/3671"
+      },
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "rico-henry",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/rico-henry/leistungsdaten/spieler/339556"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/673492",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/673492",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/morato/profil/spieler/673492",
+      "name": "",
+      "last_name": "Morato",
+      "number": "#4",
+      "name_in_home_country": null,
+      "date_of_birth": "30/06/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Francisco Morato  "
+      },
+      "height": "1,92 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/bertolucci-sports/beraterfirma/berater/724",
+        "name": "Bertolucci Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/673492-1701295349.jpg?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "left",
+      "joined": "\n                            30/08/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "morato",
+      "current_market_value": "€14.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/morato/leistungsdaten/spieler/673492"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,58 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/659089",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/659089",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ilya-zabarnyi/profil/spieler/659089",
+      "name": "Ilya",
+      "last_name": "Zabarnyi",
+      "number": "#6",
+      "name_in_home_country": "Забарний Ілля Борисович",
+      "date_of_birth": "01/09/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Ukraine",
+        "city": "Kyiv  "
+      },
+      "height": "1,89 m",
+      "full_name": "Забарний Ілля Борисович",
+      "citizenship": "Ukraine",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/659089-1760065378.jpg?lm=1",
+      "current_club": {
+        "href": "/paris-saint-germain/startseite/verein/583"
+      },
+      "foot": "right",
+      "joined": "\n                            12/08/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "57",
+      "international_goals": "3",
+      "code": "ilya-zabarnyi",
+      "current_market_value": "€45.00m",
+      "market_value_last_update": "Last update: 27/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ilya-zabarnyi/leistungsdaten/spieler/659089"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/659089",
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/45494",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/45494",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/wayne-hennessey/profil/spieler/45494",
+      "name": "Wayne",
+      "last_name": "Hennessey",
+      "number": null,
+      "name_in_home_country": "Wayne Robert Hennessey",
+      "date_of_birth": "24/01/1987",
+      "age": "39",
+      "place_of_birth": {
+        "country": "Wales",
+        "city": "Beaumaris  "
+      },
+      "height": "1,98 m",
+      "full_name": "Wayne Robert Hennessey",
+      "citizenship": "Wales",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/45494-1668070425.jpg?lm=1",
+      "current_club": {
+        "href": "/retired/startseite/verein/123"
+      },
+      "foot": "right",
+      "joined": "\n                            16/07/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "109",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "wayne-hennessey",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/wayne-hennessey/leistungsdaten/spieler/45494"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

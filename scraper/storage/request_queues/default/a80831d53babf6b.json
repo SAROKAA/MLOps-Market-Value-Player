@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/289592",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/289592",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/orel-mangala/profil/spieler/289592",
+      "name": "Orel",
+      "last_name": "Mangala",
+      "number": "#5",
+      "name_in_home_country": "Orel Johnson Mangala",
+      "date_of_birth": "18/03/1998",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Belgium",
+        "city": "Brussel  "
+      },
+      "height": "1,78 m",
+      "full_name": "Orel Johnson Mangala",
+      "citizenship": "Belgium",
+      "additional_citizenships": [
+        "DR Congo"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/m-soccermanagement/beraterfirma/berater/4219",
+        "name": "M-Soccermanagement"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/289592-1657181518.jpg?lm=1",
+      "current_club": {
+        "href": "/olympique-lyon/startseite/verein/1041"
+      },
+      "foot": "right",
+      "joined": "\n                            02/07/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "23",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "orel-mangala",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 15/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/orel-mangala/leistungsdaten/spieler/289592"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

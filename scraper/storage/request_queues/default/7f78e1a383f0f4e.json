@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/403151",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/403151",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/robert-sanchez/profil/spieler/403151",
+      "name": "Robert",
+      "last_name": "Sánchez",
+      "number": "#1",
+      "name_in_home_country": "Robert Sánchez Lynch",
+      "date_of_birth": "18/11/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Spain",
+        "city": "Cartagena  "
+      },
+      "height": "1,97 m",
+      "full_name": "Robert Sánchez Lynch",
+      "citizenship": "Spain",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/403151-1695028195.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            05/08/2023                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "3",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "robert-sanchez",
+      "current_market_value": "€22.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/robert-sanchez/leistungsdaten/spieler/403151"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

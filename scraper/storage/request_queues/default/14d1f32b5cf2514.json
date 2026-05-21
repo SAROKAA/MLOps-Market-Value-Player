@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/534033",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/534033",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/alexis-mac-allister/profil/spieler/534033",
+      "name": "Alexis",
+      "last_name": "Mac Allister",
+      "number": "#10",
+      "name_in_home_country": null,
+      "date_of_birth": "24/12/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "Argentina",
+        "city": "Santa Rosa  "
+      },
+      "height": "1,76 m",
+      "full_name": null,
+      "citizenship": "Argentina",
+      "additional_citizenships": [
+        "Italy"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/534033-1669835342.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc/startseite/verein/31"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "44",
+      "international_goals": "6",
+      "social_media": [],
+      "code": "alexis-mac-allister",
+      "current_market_value": "€80.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/alexis-mac-allister/leistungsdaten/spieler/534033"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

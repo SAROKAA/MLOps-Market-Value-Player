@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/236490",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/236490",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ola-aina/profil/spieler/236490",
+      "name": "Ola",
+      "last_name": "Aina",
+      "number": "#34",
+      "name_in_home_country": "Temitayo Olufisayo Olaoluwa Aina",
+      "date_of_birth": "08/10/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,84 m",
+      "full_name": "Temitayo Olufisayo Olaoluwa Aina",
+      "citizenship": "Nigeria",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/elite-project-group-limited/beraterfirma/berater/5620",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/236490-1707383919.jpg?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "right",
+      "joined": "\n                            22/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Nigeria",
+        "href": "/nigeria/startseite/verein/3444"
+      },
+      "international_caps": "48",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "ola-aina",
+      "current_market_value": "€20.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ola-aina/leistungsdaten/spieler/236490"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

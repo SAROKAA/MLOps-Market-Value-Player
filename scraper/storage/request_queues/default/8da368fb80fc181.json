@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/845321",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/845321",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kaelan-casey/profil/spieler/845321",
+      "name": "Kaelan",
+      "last_name": "Casey",
+      "number": "#16",
+      "name_in_home_country": "Kaelan Michael Casey",
+      "date_of_birth": "28/10/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Brentwood  "
+      },
+      "height": "1,85 m",
+      "full_name": "Kaelan Michael Casey",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/845321-1709883861.jpg?lm=1",
+      "current_club": {
+        "href": "/leyton-orient/startseite/verein/1150"
+      },
+      "foot": "right",
+      "joined": "\n                            16/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "8",
+      "international_goals": "0",
+      "code": "kaelan-casey",
+      "current_market_value": "€900k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kaelan-casey/leistungsdaten/spieler/845321"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

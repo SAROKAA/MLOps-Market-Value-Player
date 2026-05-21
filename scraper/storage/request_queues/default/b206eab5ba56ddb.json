@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/204103",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/204103",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/adama-traore/profil/spieler/204103",
+      "name": "Adama",
+      "last_name": "Traoré",
+      "number": "#17",
+      "name_in_home_country": "Adama Traoré Diarra",
+      "date_of_birth": "25/01/1996",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Spain",
+        "city": "L'Hospitalet de Llobregat  "
+      },
+      "height": "1,78 m",
+      "full_name": "Adama Traoré Diarra",
+      "citizenship": "Spain",
+      "additional_citizenships": [
+        "Mali"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/as1tm/beraterfirma/berater/13796",
+        "name": "AS1"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/204103-1736153427.jpg?lm=1",
+      "current_club": {
+        "href": "/west-ham-united/startseite/verein/379"
+      },
+      "foot": "right",
+      "joined": "\n                            28/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "8",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "adama-traore",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/adama-traore/leistungsdaten/spieler/204103"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

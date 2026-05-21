@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/181687",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/181687",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/massimo-luongo/profil/spieler/181687",
+      "name": "Massimo",
+      "last_name": "Luongo",
+      "number": "#21",
+      "name_in_home_country": "Massimo Corey Luongo",
+      "date_of_birth": "25/09/1992",
+      "age": "33",
+      "place_of_birth": {
+        "country": "Australia",
+        "city": "Sydney  "
+      },
+      "height": "1,76 m",
+      "full_name": "Massimo Corey Luongo",
+      "citizenship": "Australia",
+      "additional_citizenships": [
+        "Italy"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/elite-management-agency/beraterfirma/berater/4594",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/181687-1720191232.jpg?lm=1",
+      "current_club": {
+        "href": "/millwall-fc/startseite/verein/1028"
+      },
+      "foot": "right",
+      "joined": "\n                            25/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "New Balance",
+      "international_caps": "44",
+      "international_goals": "6",
+      "social_media": [],
+      "code": "massimo-luongo",
+      "current_market_value": "€350k",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/massimo-luongo/leistungsdaten/spieler/181687"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

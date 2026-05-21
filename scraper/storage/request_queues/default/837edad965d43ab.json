@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/391005",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/391005",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mads-roerslev/profil/spieler/391005",
+      "name": "Mads",
+      "last_name": "Roerslev",
+      "number": "#2",
+      "name_in_home_country": "Mads Roerslev Rasmussen",
+      "date_of_birth": "24/06/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Denmark",
+        "city": "København  "
+      },
+      "height": "1,84 m",
+      "full_name": "Mads Roerslev Rasmussen",
+      "citizenship": "Denmark",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/391005-1684772936.jpg?lm=1",
+      "current_club": {
+        "href": "/southampton-fc/startseite/verein/180"
+      },
+      "foot": "right",
+      "joined": "\n                            21/08/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Denmark",
+        "href": "/danemark/startseite/verein/3436"
+      },
+      "international_caps": "1",
+      "international_goals": "0",
+      "code": "mads-roerslev",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mads-roerslev/leistungsdaten/spieler/391005"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

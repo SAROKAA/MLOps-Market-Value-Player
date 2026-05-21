@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/669366",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/669366",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tom-cannon/profil/spieler/669366",
+      "name": "Tom",
+      "last_name": "Cannon",
+      "number": "#7",
+      "name_in_home_country": "Thomas Christopher Cannon",
+      "date_of_birth": "28/12/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Aintree  "
+      },
+      "height": "1,80 m",
+      "full_name": "Thomas Christopher Cannon",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/669366-1679679487.jpg?lm=1",
+      "current_club": {
+        "href": "/sheffield-united/startseite/verein/350"
+      },
+      "foot": "right",
+      "joined": "\n                            23/01/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "3",
+      "international_goals": "2",
+      "code": "tom-cannon",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tom-cannon/leistungsdaten/spieler/669366"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

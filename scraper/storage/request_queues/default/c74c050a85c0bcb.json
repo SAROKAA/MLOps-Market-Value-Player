@@ -1,0 +1,55 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/527425",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/527425",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/luke-woolfenden/profil/spieler/527425",
+      "name": "Luke",
+      "last_name": "Woolfenden",
+      "number": "#26",
+      "name_in_home_country": "Luke Matthew Woolfenden",
+      "date_of_birth": "21/10/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Ipswich  "
+      },
+      "height": "1,93 m",
+      "full_name": "Luke Matthew Woolfenden",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/refuel-performance-management/beraterfirma/berater/9029",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/527425-1664180037.jpg?lm=1",
+      "current_club": {
+        "href": "/coventry-city/startseite/verein/990"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "social_media": [],
+      "code": "luke-woolfenden",
+      "current_market_value": "€2.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/luke-woolfenden/leistungsdaten/spieler/527425"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

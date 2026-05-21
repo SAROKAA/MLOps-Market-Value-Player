@@ -1,0 +1,55 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/506470",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/506470",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/josh-bowler/profil/spieler/506470",
+      "name": "Josh",
+      "last_name": "Bowler",
+      "number": "#19",
+      "name_in_home_country": "Joshua Luke Bowler",
+      "date_of_birth": "05/03/1999",
+      "age": "27",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Chertsey  "
+      },
+      "height": "1,84 m",
+      "full_name": "Joshua Luke Bowler",
+      "citizenship": "England",
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/506470-1760549804.jpg?lm=1",
+      "current_club": {
+        "href": "/blackpool-fc/startseite/verein/1181"
+      },
+      "foot": "left",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "social_media": [],
+      "code": "josh-bowler",
+      "current_market_value": "€600k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/josh-bowler/leistungsdaten/spieler/506470"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

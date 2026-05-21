@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/294057",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/294057",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/james-maddison/profil/spieler/294057",
+      "name": "James",
+      "last_name": "Maddison",
+      "number": "#10",
+      "name_in_home_country": "James Daniel Maddison",
+      "date_of_birth": "23/11/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Coventry  "
+      },
+      "height": "1,75 m",
+      "full_name": "James Daniel Maddison",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ireland"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/294057-1687982662.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "7",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "james-maddison",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/james-maddison/leistungsdaten/spieler/294057"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/294057",
+  "handled_at": null
+}

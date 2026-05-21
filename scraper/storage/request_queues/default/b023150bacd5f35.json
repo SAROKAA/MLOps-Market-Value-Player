@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/414908",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/414908",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/marshall-munetsi/profil/spieler/414908",
+      "name": "Marshall",
+      "last_name": "Munetsi",
+      "number": "#18",
+      "name_in_home_country": "Marshall Nyasha Munetsi",
+      "date_of_birth": "22/06/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Zimbabwe",
+        "city": "Harare  "
+      },
+      "height": "1,88 m",
+      "full_name": "Marshall Nyasha Munetsi",
+      "citizenship": "Zimbabwe",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/414908-1723836952.png?lm=1",
+      "current_club": {
+        "href": "/paris-fc/startseite/verein/10004"
+      },
+      "foot": "right",
+      "joined": "\n                            16/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Zimbabwe",
+        "href": "/simbabwe/startseite/verein/3583"
+      },
+      "international_caps": "34",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "marshall-munetsi",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/marshall-munetsi/leistungsdaten/spieler/414908"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

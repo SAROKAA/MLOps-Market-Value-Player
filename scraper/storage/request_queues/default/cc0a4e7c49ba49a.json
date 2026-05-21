@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/738269",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/738269",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dante-cassanova/profil/spieler/738269",
+      "name": "Dante",
+      "last_name": "Cassanova",
+      "number": "#59",
+      "name_in_home_country": "Dante Jamel Cassanova",
+      "date_of_birth": "21/06/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,79 m",
+      "full_name": "Dante Jamel Cassanova",
+      "citizenship": "Jamaica",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/arete/beraterfirma/berater/5078",
+        "name": "ARETÉ"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/738269-1731007072.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur-u21/startseite/verein/9254"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "code": "dante-cassanova",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dante-cassanova/leistungsdaten/spieler/738269"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/738269",
+  "handled_at": null
+}

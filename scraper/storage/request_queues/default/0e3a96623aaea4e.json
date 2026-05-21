@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1080903",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1080903",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/spike-brits/profil/spieler/1080903",
+      "name": "Spike",
+      "last_name": "Brits",
+      "number": "#80",
+      "name_in_home_country": "Thorsten Spike Brits",
+      "date_of_birth": "24/06/2007",
+      "age": "18",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Wimbledon  "
+      },
+      "height": null,
+      "full_name": "Thorsten Spike Brits",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "South Africa"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1080903-1739802825.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-city-u21/startseite/verein/9265"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "spike-brits",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/spike-brits/leistungsdaten/spieler/1080903"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1080903",
+  "handled_at": null
+}

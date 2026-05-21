@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/776890",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/776890",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/nicolas-jackson/profil/spieler/776890",
+      "name": "Nicolas",
+      "last_name": "Jackson",
+      "number": "#11",
+      "name_in_home_country": null,
+      "date_of_birth": "20/06/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "The Gambia",
+        "city": "Banjul  "
+      },
+      "height": "1,87 m",
+      "full_name": null,
+      "citizenship": "Senegal",
+      "additional_citizenships": [
+        "The Gambia"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/epic-jackson/beraterfirma/berater/10127",
+        "name": "Epic Jackson"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/776890-1757939139.jpg?lm=1",
+      "current_club": {
+        "href": "/bayern-munich/startseite/verein/27"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "31",
+      "international_goals": "8",
+      "social_media": [],
+      "code": "nicolas-jackson",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 20/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/nicolas-jackson/leistungsdaten/spieler/776890"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

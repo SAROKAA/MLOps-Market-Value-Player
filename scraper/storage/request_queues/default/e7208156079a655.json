@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/258919",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/258919",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dean-henderson/profil/spieler/258919",
+      "name": "Dean",
+      "last_name": "Henderson",
+      "number": "#1",
+      "name_in_home_country": "Dean Bradley Henderson",
+      "date_of_birth": "12/03/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Whitehaven  "
+      },
+      "height": "1,88 m",
+      "full_name": "Dean Bradley Henderson",
+      "citizenship": "England",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/258919-1716297478.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace/startseite/verein/873"
+      },
+      "foot": "right",
+      "joined": "\n                            31/08/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "4",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "dean-henderson",
+      "current_market_value": "€28.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dean-henderson/leistungsdaten/spieler/258919"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/258919",
+  "handled_at": null
+}

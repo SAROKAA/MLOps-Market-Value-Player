@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/649452",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/649452",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/issa-kabore/profil/spieler/649452",
+      "name": "Issa",
+      "last_name": "Kaboré",
+      "number": "#12",
+      "name_in_home_country": null,
+      "date_of_birth": "12/05/2001",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Burkina Faso",
+        "city": "Bobo-Dioulasso  "
+      },
+      "height": "1,80 m",
+      "full_name": null,
+      "citizenship": "Burkina Faso",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/649452-1724407648.jpg?lm=1",
+      "current_club": {
+        "href": "/wrexham-afc/startseite/verein/1112"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "52",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "issa-kabore",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/issa-kabore/leistungsdaten/spieler/649452"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/649452",
+  "handled_at": null
+}

@@ -1,0 +1,54 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/620322",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/620322",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/malo-gusto/profil/spieler/620322",
+      "name": "",
+      "last_name": null,
+      "number": null,
+      "name_in_home_country": null,
+      "date_of_birth": null,
+      "age": null,
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": null,
+      "full_name": null,
+      "citizenship": null,
+      "position": null,
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": null,
+      "current_club": {
+        "href": null
+      },
+      "foot": null,
+      "joined": null,
+      "contract_expires": null,
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "malo-gusto",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/malo-gusto/leistungsdaten/spieler/620322"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

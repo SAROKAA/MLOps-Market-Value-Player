@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/624258",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/624258",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/conor-bradley/profil/spieler/624258",
+      "name": "Conor",
+      "last_name": "Bradley",
+      "number": "#12",
+      "name_in_home_country": null,
+      "date_of_birth": "09/07/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Northern Ireland",
+        "city": "Castlederg  "
+      },
+      "height": "1,81 m",
+      "full_name": null,
+      "citizenship": "Northern Ireland",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/624258-1762340233.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc/startseite/verein/31"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Northern Ireland",
+        "href": "/nordirland/startseite/verein/5674"
+      },
+      "international_caps": "30",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "conor-bradley",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/conor-bradley/leistungsdaten/spieler/624258"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/181579",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/181579",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/james-ward-prowse/profil/spieler/181579",
+      "name": "James",
+      "last_name": "Ward-Prowse",
+      "number": "#20",
+      "name_in_home_country": "James Michael Edward Ward-Prowse",
+      "date_of_birth": "01/11/1994",
+      "age": "31",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Portsmouth  "
+      },
+      "height": "1,77 m",
+      "full_name": "James Michael Edward Ward-Prowse",
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/181579-1684751045.jpg?lm=1",
+      "current_club": {
+        "href": "/burnley-fc/startseite/verein/1132"
+      },
+      "foot": "right",
+      "joined": "\n                            28/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "11",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "james-ward-prowse",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/james-ward-prowse/leistungsdaten/spieler/181579"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

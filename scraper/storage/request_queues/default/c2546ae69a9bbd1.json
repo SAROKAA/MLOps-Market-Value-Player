@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/251106",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/251106",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/enes-unal/profil/spieler/251106",
+      "name": "Enes",
+      "last_name": "Ünal",
+      "number": "#26",
+      "name_in_home_country": null,
+      "date_of_birth": "10/05/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Türkiye",
+        "city": "Bursa  "
+      },
+      "height": "1,87 m",
+      "full_name": null,
+      "citizenship": "Türkiye",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/futureball/beraterfirma/berater/7562",
+        "name": "FutureBall"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/251106-1669365680.jpg?lm=1",
+      "current_club": {
+        "href": "/afc-bournemouth/startseite/verein/989"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "34",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "enes-unal",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/enes-unal/leistungsdaten/spieler/251106"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/251106",
+  "handled_at": null
+}

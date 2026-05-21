@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/405385",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/405385",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/yukinari-sugawara/profil/spieler/405385",
+      "name": "Yukinari",
+      "last_name": "Sugawara",
+      "number": "#3",
+      "name_in_home_country": "菅原 由勢",
+      "date_of_birth": "28/06/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Japan",
+        "city": "Toyokawa, Aichi  "
+      },
+      "height": "1,79 m",
+      "full_name": "菅原 由勢",
+      "citizenship": "Japan",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/sports360-gmbh/beraterfirma/berater/199",
+        "name": "Sports360 GmbH"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/405385-1758702447.jpg?lm=1",
+      "current_club": {
+        "href": "/sv-werder-bremen/startseite/verein/86"
+      },
+      "foot": "right",
+      "joined": "\n                            26/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "20",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "yukinari-sugawara",
+      "current_market_value": "€7.50m",
+      "market_value_last_update": "Last update: 19/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/yukinari-sugawara/leistungsdaten/spieler/405385"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

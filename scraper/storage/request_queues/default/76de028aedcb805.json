@@ -1,0 +1,66 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1009658",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1009658",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/julio-soler/profil/spieler/1009658",
+      "name": "Julio",
+      "last_name": "Soler",
+      "number": "#6",
+      "name_in_home_country": "Julio César Soler Barreto",
+      "date_of_birth": "16/02/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Paraguay",
+        "city": "Asunción  "
+      },
+      "height": "1,75 m",
+      "full_name": "Julio César Soler Barreto",
+      "citizenship": "Argentina",
+      "additional_citizenships": [
+        "Paraguay"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1009658-1721934099.png?lm=1",
+      "current_club": {
+        "href": "/afc-bournemouth/startseite/verein/989"
+      },
+      "foot": "left",
+      "joined": "\n                            07/01/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Argentina",
+        "href": "/argentinien-u20/startseite/verein/11940"
+      },
+      "international_caps": "18",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "julio-soler",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/julio-soler/leistungsdaten/spieler/1009658"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1009658",
+  "handled_at": null
+}

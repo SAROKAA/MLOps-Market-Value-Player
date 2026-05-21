@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/743597",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/743597",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/matheus-franca/profil/spieler/743597",
+      "name": "Matheus",
+      "last_name": "França",
+      "number": "#9",
+      "name_in_home_country": "Matheus França de Oliveira",
+      "date_of_birth": "01/04/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Rio de Janeiro  "
+      },
+      "height": "1,84 m",
+      "full_name": "Matheus França de Oliveira",
+      "citizenship": "Brazil",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/lifepro/beraterfirma/berater/4357",
+        "name": "LIFEPRO"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/743597-1708426107.jpg?lm=1",
+      "current_club": {
+        "href": "/clube-de-regatas-vasco-da-gama/startseite/verein/978"
+      },
+      "foot": "right",
+      "joined": "\n                            26/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "matheus-franca",
+      "current_market_value": "€7.00m",
+      "market_value_last_update": "Last update: 12/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/matheus-franca/leistungsdaten/spieler/743597"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

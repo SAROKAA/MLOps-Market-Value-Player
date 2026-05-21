@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/605184",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/605184",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jean-clair-todibo/profil/spieler/605184",
+      "name": "Jean-Clair",
+      "last_name": "Todibo",
+      "number": "#25",
+      "name_in_home_country": "Jean-Clair Dimitri Roger Todibo",
+      "date_of_birth": "30/12/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "French Guiana",
+        "city": "Cayenne  "
+      },
+      "height": "1,90 m",
+      "full_name": "Jean-Clair Dimitri Roger Todibo",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "French Guiana"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/excellence-sport-nation/beraterfirma/berater/5024",
+        "name": "ESN"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/605184-1699439806.jpg?lm=1",
+      "current_club": {
+        "href": "/west-ham-united/startseite/verein/379"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "jean-clair-todibo",
+      "current_market_value": "€23.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jean-clair-todibo/leistungsdaten/spieler/605184"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

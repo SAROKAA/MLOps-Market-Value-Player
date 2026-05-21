@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/565822",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/565822",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/harvey-elliott/profil/spieler/565822",
+      "name": "Harvey",
+      "last_name": "Elliott",
+      "number": "#9",
+      "name_in_home_country": "Harvey Scott Elliott",
+      "date_of_birth": "04/04/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,70 m",
+      "full_name": "Harvey Scott Elliott",
+      "citizenship": "England",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/roof/beraterfirma/berater/2295",
+        "name": "ROOF"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/565822-1665128076.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "left",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "New Balance",
+      "national_team": {
+        "country": "England",
+        "href": "/england-u21/startseite/verein/9565"
+      },
+      "international_caps": "28",
+      "international_goals": "14",
+      "social_media": [],
+      "code": "harvey-elliott",
+      "current_market_value": "€22.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/harvey-elliott/leistungsdaten/spieler/565822"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

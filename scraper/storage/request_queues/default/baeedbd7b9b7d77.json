@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/536835",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/536835",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/amad-diallo/profil/spieler/536835",
+      "name": "Amad",
+      "last_name": "Diallo",
+      "number": "#16",
+      "name_in_home_country": null,
+      "date_of_birth": "11/07/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Cote d'Ivoire",
+        "city": "Abidjan  "
+      },
+      "height": "1,73 m",
+      "full_name": null,
+      "citizenship": "Cote d'Ivoire",
+      "additional_citizenships": [
+        "Italy"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/leaders/beraterfirma/berater/6931",
+        "name": "#LEADERS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/536835-1747857754.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "left",
+      "joined": "\n                            02/01/2021                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "18",
+      "international_goals": "5",
+      "social_media": [],
+      "code": "amad-diallo",
+      "current_market_value": "€50.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/amad-diallo/leistungsdaten/spieler/536835"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/536835",
+  "handled_at": null
+}

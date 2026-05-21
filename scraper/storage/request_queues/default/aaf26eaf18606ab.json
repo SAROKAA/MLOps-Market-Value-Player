@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/655488",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/655488",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/gabriel-martinelli/profil/spieler/655488",
+      "name": "Gabriel",
+      "last_name": "Martinelli",
+      "number": "#11",
+      "name_in_home_country": "Gabriel Teodoro Martinelli Silva",
+      "date_of_birth": "18/06/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Guarulhos  "
+      },
+      "height": "1,78 m",
+      "full_name": "Gabriel Teodoro Martinelli Silva",
+      "citizenship": "Brazil",
+      "additional_citizenships": [
+        "Italy"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/roc-nation-sports/beraterfirma/berater/5015",
+        "name": "Roc Nation Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/655488-1682689091.jpg?lm=1",
+      "current_club": {
+        "href": "/arsenal-fc/startseite/verein/11"
+      },
+      "foot": "right",
+      "joined": "\n                            02/07/2019                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "22",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "gabriel-martinelli",
+      "current_market_value": "€45.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/gabriel-martinelli/leistungsdaten/spieler/655488"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/655488",
+  "handled_at": null
+}

@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/676318",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/676318",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/facundo-pellistri/profil/spieler/676318",
+      "name": "Facundo",
+      "last_name": "Pellistri",
+      "number": "#28",
+      "name_in_home_country": "Facundo Pellistri Rebollo",
+      "date_of_birth": "20/12/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Uruguay",
+        "city": "Montevideo  "
+      },
+      "height": "1,75 m",
+      "full_name": "Facundo Pellistri Rebollo",
+      "citizenship": "Uruguay",
+      "additional_citizenships": [
+        "Spain"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/676318-1756043624.png?lm=1",
+      "current_club": {
+        "href": "/panathinaikos/startseite/verein/265"
+      },
+      "foot": "right",
+      "joined": "\n                            21/08/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "39",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "facundo-pellistri",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 06/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/facundo-pellistri/leistungsdaten/spieler/676318"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/676318",
+  "handled_at": null
+}

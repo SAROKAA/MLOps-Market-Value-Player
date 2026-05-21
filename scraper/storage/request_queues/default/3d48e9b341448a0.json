@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/571743",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/571743",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/armando-broja/profil/spieler/571743",
+      "name": "Armando",
+      "last_name": "Broja",
+      "number": "#27",
+      "name_in_home_country": null,
+      "date_of_birth": "10/09/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Slough  "
+      },
+      "height": "1,91 m",
+      "full_name": null,
+      "citizenship": "Albania",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/fa-sport/beraterfirma/berater/5201",
+        "name": "FA Sport"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/571743-1662362376.jpg?lm=1",
+      "current_club": {
+        "href": "/burnley-fc/startseite/verein/1132"
+      },
+      "foot": "right",
+      "joined": "\n                            08/08/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "35",
+      "international_goals": "6",
+      "social_media": [],
+      "code": "armando-broja",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/armando-broja/leistungsdaten/spieler/571743"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

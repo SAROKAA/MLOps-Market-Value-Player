@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/282429",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/282429",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sergio-reguilon/profil/spieler/282429",
+      "name": "Sergio",
+      "last_name": "Reguilón",
+      "number": "#3",
+      "name_in_home_country": "Sergio Reguilón Rodríguez",
+      "date_of_birth": "16/12/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Spain",
+        "city": "Madrid  "
+      },
+      "height": "1,78 m",
+      "full_name": "Sergio Reguilón Rodríguez",
+      "citizenship": "Spain",
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/sports-invest-uk-ltd/beraterfirma/berater/4868",
+        "name": "Sports Invest UK ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/282429-1771694864.jpg?lm=1",
+      "current_club": {
+        "href": "/inter-miami-cf/startseite/verein/69261"
+      },
+      "foot": "left",
+      "joined": "\n                            26/01/2026                        ",
+      "contract_expires": "31/12/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "6",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "sergio-reguilon",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 07/04/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sergio-reguilon/leistungsdaten/spieler/282429"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/282429",
+  "handled_at": null
+}

@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/670688",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/670688",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/youssef-chermiti/profil/spieler/670688",
+      "name": "Youssef",
+      "last_name": "Chermiti",
+      "number": "#9",
+      "name_in_home_country": "Youssef Ramalho Chermiti",
+      "date_of_birth": "24/05/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Santa Maria, Açores  "
+      },
+      "height": "1,92 m",
+      "full_name": "Youssef Ramalho Chermiti",
+      "citizenship": "Portugal",
+      "additional_citizenships": [
+        "Tunisia"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/670688-1708426195.jpg?lm=1",
+      "current_club": {
+        "href": "/rangers-fc/startseite/verein/124"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "7",
+      "international_goals": "3",
+      "code": "youssef-chermiti",
+      "current_market_value": "€9.00m",
+      "market_value_last_update": "Last update: 05/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/youssef-chermiti/leistungsdaten/spieler/670688"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

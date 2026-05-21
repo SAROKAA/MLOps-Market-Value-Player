@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/667508",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/667508",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/chris-popov/profil/spieler/667508",
+      "name": "Chris",
+      "last_name": "Popov",
+      "number": "#42",
+      "name_in_home_country": "Christopher Petrov Popov",
+      "date_of_birth": "26/10/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Wales",
+        "city": "Cardiff  "
+      },
+      "height": "1,70 m",
+      "full_name": "Christopher Petrov Popov",
+      "citizenship": "Wales",
+      "additional_citizenships": [
+        "Bulgaria"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/667508-1746692940.jpg?lm=1",
+      "current_club": {
+        "href": "/morecambe-fc/startseite/verein/3697"
+      },
+      "foot": "left",
+      "joined": "\n                            21/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Wales",
+        "href": "/wales-u21/startseite/verein/24966"
+      },
+      "international_caps": "17",
+      "international_goals": "3",
+      "code": "chris-popov",
+      "current_market_value": "€75k",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/chris-popov/leistungsdaten/spieler/667508"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/555074",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/555074",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/oliwier-zych/profil/spieler/555074",
+      "name": "Oliwier",
+      "last_name": "Zych",
+      "number": "#48",
+      "name_in_home_country": null,
+      "date_of_birth": "28/06/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Poland",
+        "city": "Gdańsk  "
+      },
+      "height": "1,93 m",
+      "full_name": null,
+      "citizenship": "Poland",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/555074-1757087011.png?lm=1",
+      "current_club": {
+        "href": "/rakow-czestochowa/startseite/verein/9644"
+      },
+      "foot": "right",
+      "joined": "\n                            14/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "oliwier-zych",
+      "current_market_value": "€2.00m",
+      "market_value_last_update": "Last update: 26/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/oliwier-zych/leistungsdaten/spieler/555074"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

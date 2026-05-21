@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/503733",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/503733",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/anthony-gordon/profil/spieler/503733",
+      "name": "Anthony",
+      "last_name": "Gordon",
+      "number": "#10",
+      "name_in_home_country": "Anthony Michael Gordon",
+      "date_of_birth": "24/02/2001",
+      "age": "25",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Liverpool  "
+      },
+      "height": "1,83 m",
+      "full_name": "Anthony Michael Gordon",
+      "citizenship": "England",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/503733-1761080304.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united/startseite/verein/762"
+      },
+      "foot": "right",
+      "joined": "\n                            29/01/2023                        ",
+      "contract_expires": "01/07/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "17",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "anthony-gordon",
+      "current_market_value": "€60.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/anthony-gordon/leistungsdaten/spieler/503733"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/503733",
+  "handled_at": null
+}

@@ -1,0 +1,58 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/983702",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/983702",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jacob-wright/profil/spieler/983702",
+      "name": "Jacob",
+      "last_name": "Wright",
+      "number": "#16",
+      "name_in_home_country": "Jacob Anthony Wright",
+      "date_of_birth": "21/09/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Manchester  "
+      },
+      "height": "1,78 m",
+      "full_name": "Jacob Anthony Wright",
+      "citizenship": "England",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/roc-nation-sports/beraterfirma/berater/5015",
+        "name": "Roc Nation Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/983702-1709112399.jpg?lm=1",
+      "current_club": {
+        "href": "/norwich-city/startseite/verein/1123"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "6",
+      "international_goals": "0",
+      "code": "jacob-wright",
+      "current_market_value": "€2.50m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jacob-wright/leistungsdaten/spieler/983702"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/983702",
+  "handled_at": null
+}

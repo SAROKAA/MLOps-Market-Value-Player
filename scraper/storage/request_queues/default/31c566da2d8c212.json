@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1089802",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1089802",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/remy-rees-dottin/profil/spieler/1089802",
+      "name": "Remy",
+      "last_name": "Rees-Dottin",
+      "number": "#50",
+      "name_in_home_country": "Remy William James Rees-Dottin",
+      "date_of_birth": "06/03/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,74 m",
+      "full_name": "Remy William James Rees-Dottin",
+      "citizenship": "England",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/agm-sports-ltd/beraterfirma/berater/10915",
+        "name": "AGM Sports Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1089802-1746642889.jpg?lm=1",
+      "current_club": {
+        "href": "/afc-bournemouth-u21/startseite/verein/38967"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "remy-rees-dottin",
+      "current_market_value": "€300k",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/remy-rees-dottin/leistungsdaten/spieler/1089802"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1089802",
+  "handled_at": null
+}

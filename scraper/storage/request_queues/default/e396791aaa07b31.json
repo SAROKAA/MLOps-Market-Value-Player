@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/614258",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/614258",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/levi-colwill/profil/spieler/614258",
+      "name": "Levi",
+      "last_name": "Colwill",
+      "number": "#6",
+      "name_in_home_country": "Levi Lemar Samuel Colwill",
+      "date_of_birth": "26/02/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Southampton  "
+      },
+      "height": "1,87 m",
+      "full_name": "Levi Lemar Samuel Colwill",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/fa-sport/beraterfirma/berater/5201",
+        "name": "FA Sport"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/614258-1694614507.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2022                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england/startseite/verein/3299"
+      },
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "levi-colwill",
+      "current_market_value": "€50.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/levi-colwill/leistungsdaten/spieler/614258"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

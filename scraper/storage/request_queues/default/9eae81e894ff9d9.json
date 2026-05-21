@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/621193",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/621193",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kasey-mcateer/profil/spieler/621193",
+      "name": "Kasey",
+      "last_name": "McAteer",
+      "number": "#20",
+      "name_in_home_country": "Kasey Ian McAteer",
+      "date_of_birth": "22/11/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Northampton   "
+      },
+      "height": "1,77 m",
+      "full_name": "Kasey Ian McAteer",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Right Midfield",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/621193-1731659829.jpg?lm=1",
+      "current_club": {
+        "href": "/ipswich-town/startseite/verein/677"
+      },
+      "foot": "right",
+      "joined": "\n                            22/08/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland/startseite/verein/3509"
+      },
+      "international_caps": "8",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "kasey-mcateer",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kasey-mcateer/leistungsdaten/spieler/621193"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

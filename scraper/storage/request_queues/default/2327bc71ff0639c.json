@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/716276",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/716276",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/yerson-mosquera/profil/spieler/716276",
+      "name": "Yerson",
+      "last_name": "Mosquera",
+      "number": "#15",
+      "name_in_home_country": "Yerson Mosquera Valdelamar",
+      "date_of_birth": "02/05/2001",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Colombia",
+        "city": "Apartadó  "
+      },
+      "height": "1,88 m",
+      "full_name": "Yerson Mosquera Valdelamar",
+      "citizenship": "Colombia",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/goal-management-sas/beraterfirma/berater/9890",
+        "name": "Goal Management SAS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/716276-1682874906.jpg?lm=1",
+      "current_club": {
+        "href": "/wolverhampton-wanderers/startseite/verein/543"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2021                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "4",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "yerson-mosquera",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/yerson-mosquera/leistungsdaten/spieler/716276"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

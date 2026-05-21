@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/258889",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/258889",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dominic-solanke/profil/spieler/258889",
+      "name": "Dominic",
+      "last_name": "Solanke",
+      "number": "#19",
+      "name_in_home_country": "Dominic Ayodele Solanke-Mitchell",
+      "date_of_birth": "14/09/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Basingstoke  "
+      },
+      "height": "1,86 m",
+      "full_name": "Dominic Ayodele Solanke-Mitchell",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/258889-1708340487.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            10/08/2024                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "dominic-solanke",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dominic-solanke/leistungsdaten/spieler/258889"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/258889",
+  "handled_at": null
+}

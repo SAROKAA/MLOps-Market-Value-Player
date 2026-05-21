@@ -1,0 +1,55 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/735571",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/735571",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/rodrigo-muniz/profil/spieler/735571",
+      "name": "",
+      "last_name": "Rodrigo Muniz",
+      "number": "#9",
+      "name_in_home_country": null,
+      "date_of_birth": "04/05/2001",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "São Domingos do Prata  "
+      },
+      "height": "1,86 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/735571-1657802369.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "right",
+      "joined": "\n                            20/08/2021                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "social_media": [],
+      "code": "rodrigo-muniz",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/rodrigo-muniz/leistungsdaten/spieler/735571"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

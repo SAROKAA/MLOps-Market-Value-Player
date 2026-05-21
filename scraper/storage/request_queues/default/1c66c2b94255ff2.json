@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/618495",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/618495",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/james-norris/profil/spieler/618495",
+      "name": "James",
+      "last_name": "Norris",
+      "number": "#18",
+      "name_in_home_country": "James Barry Norris",
+      "date_of_birth": "04/04/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Liverpool  "
+      },
+      "height": "1,72 m",
+      "full_name": "James Barry Norris",
+      "citizenship": "England",
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/murdock-sports-group/beraterfirma/berater/14555",
+        "name": "Murdock Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/618495-1616409926.jpg?lm=1",
+      "current_club": {
+        "href": "/shelbourne-fc/startseite/verein/3909"
+      },
+      "foot": "left",
+      "joined": "\n                            01/01/2026                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Under Armour",
+      "international_caps": "4",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "james-norris",
+      "current_market_value": "€175k",
+      "market_value_last_update": "Last update: 10/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/james-norris/leistungsdaten/spieler/618495"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

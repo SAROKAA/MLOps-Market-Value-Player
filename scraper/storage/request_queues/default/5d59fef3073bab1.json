@@ -1,0 +1,66 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/346314",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/346314",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/trevoh-chalobah/profil/spieler/346314",
+      "name": "Trevoh",
+      "last_name": "Chalobah",
+      "number": "#23",
+      "name_in_home_country": "Trevoh Thomas Chalobah",
+      "date_of_birth": "05/07/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Sierra Leone",
+        "city": "Freetown  "
+      },
+      "height": "1,92 m",
+      "full_name": "Trevoh Thomas Chalobah",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Sierra Leone"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/346314-1773301391.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2021                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "national_team": {
+        "country": "England",
+        "href": "/england/startseite/verein/3299"
+      },
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "trevoh-chalobah",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/trevoh-chalobah/leistungsdaten/spieler/346314"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/346314",
+  "handled_at": null
+}

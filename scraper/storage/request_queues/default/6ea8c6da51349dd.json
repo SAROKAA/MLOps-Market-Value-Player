@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/188077",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/188077",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ryan-christie/profil/spieler/188077",
+      "name": "Ryan",
+      "last_name": "Christie",
+      "number": "#10",
+      "name_in_home_country": null,
+      "date_of_birth": "22/02/1995",
+      "age": "31",
+      "place_of_birth": {
+        "country": "Scotland",
+        "city": "Inverness  "
+      },
+      "height": "1,78 m",
+      "full_name": null,
+      "citizenship": "Scotland",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/plgtm/beraterfirma/berater/5488",
+        "name": "PLG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/188077-1697450633.jpg?lm=1",
+      "current_club": {
+        "href": "/afc-bournemouth/startseite/verein/989"
+      },
+      "foot": "left",
+      "joined": "\n                            31/08/2021                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "66",
+      "international_goals": "9",
+      "social_media": [],
+      "code": "ryan-christie",
+      "current_market_value": "€9.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ryan-christie/leistungsdaten/spieler/188077"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/188077",
+  "handled_at": null
+}

@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/620362",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/620362",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dermot-mee/profil/spieler/620362",
+      "name": "Dermot",
+      "last_name": "Mee",
+      "number": "#45",
+      "name_in_home_country": "Dermot William Mee",
+      "date_of_birth": "20/11/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Birmingham  "
+      },
+      "height": "1,83 m",
+      "full_name": "Dermot William Mee",
+      "citizenship": "Northern Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/world-in-motion/beraterfirma/berater/1061",
+        "name": "World in Motion"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/620362-1746691943.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united-u21/startseite/verein/9251"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2021                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "4",
+      "international_goals": "0",
+      "code": "dermot-mee",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dermot-mee/leistungsdaten/spieler/620362"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/620362",
+  "handled_at": null
+}

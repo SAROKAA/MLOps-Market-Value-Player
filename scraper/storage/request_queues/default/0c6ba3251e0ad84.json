@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/581330",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/581330",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/eiran-cashin/profil/spieler/581330",
+      "name": "Eiran",
+      "last_name": "Cashin",
+      "number": "#20",
+      "name_in_home_country": "Eiran Joe Cashin",
+      "date_of_birth": "09/11/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Mansfield  "
+      },
+      "height": "1,84 m",
+      "full_name": "Eiran Joe Cashin",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/581330-1699341875.jpg?lm=1",
+      "current_club": {
+        "href": "/blackburn-rovers/startseite/verein/164"
+      },
+      "foot": "left",
+      "joined": "\n                            06/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland/startseite/verein/3509"
+      },
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "eiran-cashin",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/eiran-cashin/leistungsdaten/spieler/581330"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

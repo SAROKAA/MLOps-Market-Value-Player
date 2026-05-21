@@ -1,0 +1,55 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/381469",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/381469",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/steven-benda/profil/spieler/381469",
+      "name": "Steven",
+      "last_name": "Benda",
+      "number": "#13",
+      "name_in_home_country": "Steven-Andreas Benda",
+      "date_of_birth": "01/10/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "Germany",
+        "city": "Stuttgart  "
+      },
+      "height": "1,92 m",
+      "full_name": "Steven-Andreas Benda",
+      "citizenship": "Germany",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/bms-sportconsulting-gmbh/beraterfirma/berater/7",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/381469-1737920445.jpg?lm=1",
+      "current_club": {
+        "href": "/feyenoord-rotterdam/startseite/verein/234"
+      },
+      "foot": "right",
+      "joined": "\n                            03/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "social_media": [],
+      "code": "steven-benda",
+      "current_market_value": "€1.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/steven-benda/leistungsdaten/spieler/381469"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

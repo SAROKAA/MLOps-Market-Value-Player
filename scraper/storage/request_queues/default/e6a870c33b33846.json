@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/725912",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/725912",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/antonin-kinsky/profil/spieler/725912",
+      "name": "Antonín",
+      "last_name": "Kinský",
+      "number": "#31",
+      "name_in_home_country": null,
+      "date_of_birth": "13/03/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Czech Republic",
+        "city": "Praha  "
+      },
+      "height": "1,90 m",
+      "full_name": null,
+      "citizenship": "Czech Republic",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/725912-1766160431.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            05/01/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "antonin-kinsky",
+      "current_market_value": "€13.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/antonin-kinsky/leistungsdaten/spieler/725912"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/217115",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/217115",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/neal-maupay/profil/spieler/217115",
+      "name": "Neal",
+      "last_name": "Maupay",
+      "number": "#17",
+      "name_in_home_country": null,
+      "date_of_birth": "14/08/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Versailles  "
+      },
+      "height": "1,71 m",
+      "full_name": null,
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Argentina"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/p-amp-p-sport-management-s-a-m-/beraterfirma/berater/206",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/217115-1700737951.jpg?lm=1",
+      "current_club": {
+        "href": "/sevilla-fc/startseite/verein/368"
+      },
+      "foot": "right",
+      "joined": "\n                            27/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "2",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "neal-maupay",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 15/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/neal-maupay/leistungsdaten/spieler/217115"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/206225",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/206225",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/isaac-hayden/profil/spieler/206225",
+      "name": "Isaac",
+      "last_name": "Hayden",
+      "number": "#15",
+      "name_in_home_country": "Isaac Scott Hayden",
+      "date_of_birth": "22/03/1995",
+      "age": "31",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Chelmsford  "
+      },
+      "height": "1,87 m",
+      "full_name": "Isaac Scott Hayden",
+      "citizenship": "Jamaica",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/seg-sports-entertainment-group/beraterfirma/berater/586",
+        "name": "SEG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/206225-1680273024.jpg?lm=1",
+      "current_club": {
+        "href": "/queens-park-rangers/startseite/verein/1039"
+      },
+      "foot": "right",
+      "joined": "\n                            25/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "14",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "isaac-hayden",
+      "current_market_value": "€600k",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/isaac-hayden/leistungsdaten/spieler/206225"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/206225",
+  "handled_at": null
+}

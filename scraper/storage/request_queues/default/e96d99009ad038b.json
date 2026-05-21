@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/335721",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/335721",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ben-white/profil/spieler/335721",
+      "name": "Ben",
+      "last_name": "White",
+      "number": "#4",
+      "name_in_home_country": "Benjamin William White",
+      "date_of_birth": "08/10/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Poole  "
+      },
+      "height": "1,86 m",
+      "full_name": "Benjamin William White",
+      "citizenship": "England",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/335721-1683275943.jpg?lm=1",
+      "current_club": {
+        "href": "/arsenal-fc/startseite/verein/11"
+      },
+      "foot": "right",
+      "joined": "\n                            30/07/2021                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "6",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "ben-white",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ben-white/leistungsdaten/spieler/335721"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/335721",
+  "handled_at": null
+}

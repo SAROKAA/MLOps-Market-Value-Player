@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/882172",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/882172",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/rio-kyerematen/profil/spieler/882172",
+      "name": "Rio",
+      "last_name": "Kyerematen",
+      "number": "#57",
+      "name_in_home_country": null,
+      "date_of_birth": "09/06/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": null,
+      "full_name": null,
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ghana"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/sports-invest-uk-ltd/beraterfirma/berater/4868",
+        "name": "Sports Invest UK ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/882172-1746692299.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur-u21/startseite/verein/9254"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "3",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "rio-kyerematen",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/rio-kyerematen/leistungsdaten/spieler/882172"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/882172",
+  "handled_at": null
+}

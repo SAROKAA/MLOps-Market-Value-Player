@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/610581",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/610581",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ali-al-hamadi/profil/spieler/610581",
+      "name": "Ali",
+      "last_name": "Al-Hamadi",
+      "number": "#12",
+      "name_in_home_country": "Ali Ibrahim Karim Ali Al-Hamadi, علي الحمادي",
+      "date_of_birth": "01/03/2002",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Iraq",
+        "city": "---, Maysan  "
+      },
+      "height": "1,87 m",
+      "full_name": "Ali Ibrahim Karim Ali Al-Hamadi, علي الحمادي",
+      "citizenship": "Iraq",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/610581-1705017216.png?lm=1",
+      "current_club": {
+        "href": "/luton-town/startseite/verein/1031"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "17",
+      "international_goals": "5",
+      "social_media": [],
+      "code": "ali-al-hamadi",
+      "current_market_value": "€1.50m",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ali-al-hamadi/leistungsdaten/spieler/610581"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/392765",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/392765",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/emile-smith-rowe/profil/spieler/392765",
+      "name": "Emile",
+      "last_name": "Smith Rowe",
+      "number": "#32",
+      "name_in_home_country": null,
+      "date_of_birth": "28/07/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,82 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/jordan-wise/beraterfirma/berater/7147",
+        "name": "Jordan Wise"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/392765-1684164628.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "right",
+      "joined": "\n                            02/08/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "3",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "emile-smith-rowe",
+      "current_market_value": "€22.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/emile-smith-rowe/leistungsdaten/spieler/392765"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

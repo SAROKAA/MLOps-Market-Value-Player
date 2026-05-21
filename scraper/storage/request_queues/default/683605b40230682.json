@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1045123",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1045123",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/trey-nyoni/profil/spieler/1045123",
+      "name": "Trey",
+      "last_name": "Nyoni",
+      "number": "#42",
+      "name_in_home_country": "Treymaurice Nyoni",
+      "date_of_birth": "30/06/2007",
+      "age": "18",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Leicester  "
+      },
+      "height": "1,80 m",
+      "full_name": "Treymaurice Nyoni",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Zimbabwe"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/seg-sports-entertainment-group/beraterfirma/berater/586",
+        "name": "SEG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1045123-1708933240.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc/startseite/verein/31"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "13",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "trey-nyoni",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/trey-nyoni/leistungsdaten/spieler/1045123"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

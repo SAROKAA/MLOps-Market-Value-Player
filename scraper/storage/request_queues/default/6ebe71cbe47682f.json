@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/52769",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/52769",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/willian/profil/spieler/52769",
+      "name": "",
+      "last_name": "Willian",
+      "number": "#10",
+      "name_in_home_country": null,
+      "date_of_birth": "09/08/1988",
+      "age": "37",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Ribeirão Pires  "
+      },
+      "height": "1,75 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/sports-invest-uk-ltd/beraterfirma/berater/4868",
+        "name": "Sports Invest UK ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/52769-1740646449.jpg?lm=1",
+      "current_club": {
+        "href": "/gremio-foot-ball-porto-alegrense/startseite/verein/210"
+      },
+      "foot": "right",
+      "joined": "\n                            05/09/2025                        ",
+      "contract_expires": "31/12/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "70",
+      "international_goals": "9",
+      "social_media": [],
+      "code": "willian",
+      "current_market_value": "€500k",
+      "market_value_last_update": "Last update: 10/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/willian/leistungsdaten/spieler/52769"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

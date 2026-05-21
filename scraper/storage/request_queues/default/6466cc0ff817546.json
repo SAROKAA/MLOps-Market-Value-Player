@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/212847",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/212847",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/adam-webster/profil/spieler/212847",
+      "name": "Adam",
+      "last_name": "Webster",
+      "number": "#4",
+      "name_in_home_country": "Adam Harry Webster",
+      "date_of_birth": "04/01/1995",
+      "age": "31",
+      "place_of_birth": {
+        "country": "England",
+        "city": "West Wittering  "
+      },
+      "height": "1,90 m",
+      "full_name": "Adam Harry Webster",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/212847-1681737411.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            03/08/2019                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "7",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "adam-webster",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/adam-webster/leistungsdaten/spieler/212847"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/212847",
+  "handled_at": null
+}

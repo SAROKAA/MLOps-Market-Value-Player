@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/652635",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/652635",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/luke-butterfield/profil/spieler/652635",
+      "name": "Luke",
+      "last_name": "Butterfield",
+      "number": "#24",
+      "name_in_home_country": "Luke Joseph Butterfield",
+      "date_of_birth": "29/09/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,89 m",
+      "full_name": "Luke Joseph Butterfield",
+      "citizenship": "Scotland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/652635-1755117568.jpg?lm=1",
+      "current_club": {
+        "href": "/accrington-stanley/startseite/verein/3688"
+      },
+      "foot": "right",
+      "joined": "\n                            22/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "5",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "luke-butterfield",
+      "current_market_value": "€100k",
+      "market_value_last_update": "Last update: 15/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/luke-butterfield/leistungsdaten/spieler/652635"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

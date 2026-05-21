@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/203394",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/203394",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/andreas-pereira/profil/spieler/203394",
+      "name": "Andreas",
+      "last_name": "Pereira",
+      "number": "#8",
+      "name_in_home_country": "Andreas Hugo Hoelgebaum Pereira",
+      "date_of_birth": "01/01/1996",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Belgium",
+        "city": "Duffel  "
+      },
+      "height": "1,78 m",
+      "full_name": "Andreas Hugo Hoelgebaum Pereira",
+      "citizenship": "Brazil",
+      "additional_citizenships": [
+        "Belgium"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/bertolucci-sports/beraterfirma/berater/724",
+        "name": "Bertolucci Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/203394-1659355525.jpg?lm=1",
+      "current_club": {
+        "href": "/sociedade-esportiva-palmeiras/startseite/verein/1023"
+      },
+      "foot": "right",
+      "joined": "\n                            29/08/2025                        ",
+      "contract_expires": "31/12/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Brazil",
+        "href": "/brasilien/startseite/verein/3439"
+      },
+      "international_caps": "10",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "andreas-pereira",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 10/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/andreas-pereira/leistungsdaten/spieler/203394"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/340950",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/340950",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/diogo-jota/profil/spieler/340950",
+      "name": "",
+      "last_name": "Diogo Jota",
+      "number": null,
+      "name_in_home_country": null,
+      "date_of_birth": "04/12/1996",
+      "age": "04/12/1996",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Porto  "
+      },
+      "height": "1,78 m",
+      "full_name": null,
+      "citizenship": "Portugal",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/340950-1751532770.jpg?lm=1",
+      "current_club": {
+        "href": "/-tm/startseite/verein/4023"
+      },
+      "foot": "right",
+      "joined": null,
+      "contract_expires": null,
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Portugal",
+        "href": "/portugal/startseite/verein/3300"
+      },
+      "international_caps": "49",
+      "international_goals": "14",
+      "social_media": [],
+      "code": "diogo-jota",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/diogo-jota/leistungsdaten/spieler/340950"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

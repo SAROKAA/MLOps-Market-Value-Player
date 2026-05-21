@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/586981",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/586981",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/zane-monlouis/profil/spieler/586981",
+      "name": "Zane",
+      "last_name": "Monlouis",
+      "number": "#12",
+      "name_in_home_country": null,
+      "date_of_birth": "16/10/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,86 m",
+      "full_name": null,
+      "citizenship": "Jamaica",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/586981-1771789874.jpg?lm=1",
+      "current_club": {
+        "href": "/toronto-fc/startseite/verein/11141"
+      },
+      "foot": "right",
+      "joined": "\n                            22/02/2025                        ",
+      "contract_expires": "31/12/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "0",
+      "international_goals": "0",
+      "code": "zane-monlouis",
+      "current_market_value": "€400k",
+      "market_value_last_update": "Last update: 11/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/zane-monlouis/leistungsdaten/spieler/586981"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/586981",
+  "handled_at": null
+}

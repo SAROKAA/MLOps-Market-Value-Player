@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/943549",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/943549",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mark-omahony/profil/spieler/943549",
+      "name": "Mark",
+      "last_name": "O'Mahony",
+      "number": "#20",
+      "name_in_home_country": "Mark Jeremiah O'Mahony",
+      "date_of_birth": "14/01/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Ireland",
+        "city": "Carrigaline, Cork  "
+      },
+      "height": "1,82 m",
+      "full_name": "Mark Jeremiah O'Mahony",
+      "citizenship": "Ireland",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/sbmtm/beraterfirma/berater/10829",
+        "name": "SBM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/943549-1708346606.jpg?lm=1",
+      "current_club": {
+        "href": "/reading-fc/startseite/verein/1032"
+      },
+      "foot": "right",
+      "joined": "\n                            07/07/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland-u21/startseite/verein/21103"
+      },
+      "international_caps": "15",
+      "international_goals": "1",
+      "code": "mark-omahony",
+      "current_market_value": "€375k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mark-omahony/leistungsdaten/spieler/943549"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/943549",
+  "handled_at": null
+}

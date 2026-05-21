@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/371021",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/371021",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/arijanet-muric/profil/spieler/371021",
+      "name": "Arijanet",
+      "last_name": "Murić",
+      "number": "#49",
+      "name_in_home_country": "Arijanet Anan Muriqi",
+      "date_of_birth": "07/11/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "Switzerland",
+        "city": "Schlieren  "
+      },
+      "height": "1,98 m",
+      "full_name": "Arijanet Anan Muriqi",
+      "citizenship": "Kosovo",
+      "additional_citizenships": [
+        "Montenegro"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/11wins-gmbh/beraterfirma/berater/2773",
+        "name": "11WINS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/371021-1685718424.jpg?lm=1",
+      "current_club": {
+        "href": "/us-sassuolo/startseite/verein/6574"
+      },
+      "foot": "right",
+      "joined": "\n                            13/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "50",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "arijanet-muric",
+      "current_market_value": "€7.50m",
+      "market_value_last_update": "Last update: 23/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/arijanet-muric/leistungsdaten/spieler/371021"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

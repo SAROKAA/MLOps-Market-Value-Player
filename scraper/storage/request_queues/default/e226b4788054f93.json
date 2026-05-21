@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/504849",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/504849",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kaoru-mitoma/profil/spieler/504849",
+      "name": "Kaoru",
+      "last_name": "Mitoma",
+      "number": "#22",
+      "name_in_home_country": "三笘 薫",
+      "date_of_birth": "20/05/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Japan",
+        "city": "Kawasaki, Kanagawa  "
+      },
+      "height": "1,78 m",
+      "full_name": "三笘 薫",
+      "citizenship": "Japan",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/504849-1731683095.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            10/08/2021                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "national_team": {
+        "country": "Japan",
+        "href": "/japan/startseite/verein/3435"
+      },
+      "international_caps": "31",
+      "international_goals": "9",
+      "social_media": [],
+      "code": "kaoru-mitoma",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kaoru-mitoma/leistungsdaten/spieler/504849"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/504849",
+  "handled_at": null
+}

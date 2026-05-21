@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/897481",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/897481",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/eric-da-silva-moreira/profil/spieler/897481",
+      "name": "Eric",
+      "last_name": "da Silva Moreira",
+      "number": "#17",
+      "name_in_home_country": "Eric Emanuel da Silva Moreira",
+      "date_of_birth": "03/05/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Germany",
+        "city": "Hamburg  "
+      },
+      "height": "1,85 m",
+      "full_name": "Eric Emanuel da Silva Moreira",
+      "citizenship": "Germany",
+      "additional_citizenships": [
+        "Portugal"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/gestifute/beraterfirma/berater/413",
+        "name": "Gestifute"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/897481-1759779951.jpg?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "national_team": {
+        "country": "Germany",
+        "href": "/deutschland-u20/startseite/verein/5709"
+      },
+      "international_caps": "4",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "eric-da-silva-moreira",
+      "current_market_value": "€1.00m",
+      "market_value_last_update": "Last update: 18/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/eric-da-silva-moreira/leistungsdaten/spieler/897481"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

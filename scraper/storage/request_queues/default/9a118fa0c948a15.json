@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/805714",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/805714",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/renato-veiga/profil/spieler/805714",
+      "name": "Renato",
+      "last_name": "Veiga",
+      "number": "#12",
+      "name_in_home_country": "Renato Palma Veiga",
+      "date_of_birth": "29/07/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Lisboa  "
+      },
+      "height": "1,90 m",
+      "full_name": "Renato Palma Veiga",
+      "citizenship": "Portugal",
+      "additional_citizenships": [
+        "Cape Verde"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/mondo-victory-sports-management/beraterfirma/berater/7988",
+        "name": "Mondo Victory"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/805714-1749414999.jpg?lm=1",
+      "current_club": {
+        "href": "/villarreal-cf/startseite/verein/1050"
+      },
+      "foot": "left",
+      "joined": "\n                            22/08/2025                        ",
+      "contract_expires": "30/06/2032",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "11",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "renato-veiga",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 12/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/renato-veiga/leistungsdaten/spieler/805714"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

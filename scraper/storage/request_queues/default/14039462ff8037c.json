@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/820374",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/820374",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kobbie-mainoo/profil/spieler/820374",
+      "name": "Kobbie",
+      "last_name": "Mainoo",
+      "number": "#37",
+      "name_in_home_country": null,
+      "date_of_birth": "19/04/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Stockport  "
+      },
+      "height": "1,84 m",
+      "full_name": null,
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ghana"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/820374-1719349758.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "right",
+      "joined": "\n                            01/01/2023                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "12",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "kobbie-mainoo",
+      "current_market_value": "€50.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kobbie-mainoo/leistungsdaten/spieler/820374"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/820374",
+  "handled_at": null
+}

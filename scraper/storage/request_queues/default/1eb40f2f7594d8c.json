@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/587002",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/587002",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/myles-peart-harris/profil/spieler/587002",
+      "name": "Myles",
+      "last_name": "Peart-Harris",
+      "number": "#44",
+      "name_in_home_country": "Myles Spencer Peart-Harris",
+      "date_of_birth": "18/09/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,87 m",
+      "full_name": "Myles Spencer Peart-Harris",
+      "citizenship": "Jamaica",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/587002-1720268527.jpg?lm=1",
+      "current_club": {
+        "href": "/oxford-united/startseite/verein/988"
+      },
+      "foot": "right",
+      "joined": "\n                            09/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "myles-peart-harris",
+      "current_market_value": "€900k",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/myles-peart-harris/leistungsdaten/spieler/587002"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

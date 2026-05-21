@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/540941",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/540941",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mikkel-damsgaard/profil/spieler/540941",
+      "name": "Mikkel",
+      "last_name": "Damsgaard",
+      "number": "#24",
+      "name_in_home_country": "Mikkel Krogh Damsgaard",
+      "date_of_birth": "03/07/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Denmark",
+        "city": "Jyllinge  "
+      },
+      "height": "1,80 m",
+      "full_name": "Mikkel Krogh Damsgaard",
+      "citizenship": "Denmark",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/boutique-transfers-and-management-aps/beraterfirma/berater/300",
+        "name": "BTAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/540941-1668183899.jpg?lm=1",
+      "current_club": {
+        "href": "/brentford-fc/startseite/verein/1148"
+      },
+      "foot": "right",
+      "joined": "\n                            10/08/2022                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "40",
+      "international_goals": "8",
+      "social_media": [],
+      "code": "mikkel-damsgaard",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mikkel-damsgaard/leistungsdaten/spieler/540941"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

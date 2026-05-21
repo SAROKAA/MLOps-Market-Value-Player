@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/890290",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/890290",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dean-huijsen/profil/spieler/890290",
+      "name": "Dean",
+      "last_name": "Huijsen",
+      "number": "#24",
+      "name_in_home_country": "Dean Donny Huijsen Wijsmuller",
+      "date_of_birth": "14/04/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Amsterdam  "
+      },
+      "height": "1,97 m",
+      "full_name": "Dean Donny Huijsen Wijsmuller",
+      "citizenship": "Spain",
+      "additional_citizenships": [
+        "Netherlands"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/890290-1750251451.jpg?lm=1",
+      "current_club": {
+        "href": "/real-madrid/startseite/verein/418"
+      },
+      "foot": "both",
+      "joined": "\n                            01/06/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "7",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "dean-huijsen",
+      "current_market_value": "€65.00m",
+      "market_value_last_update": "Last update: 16/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dean-huijsen/leistungsdaten/spieler/890290"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

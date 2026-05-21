@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/922472",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/922472",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/somto-boniface/profil/spieler/922472",
+      "name": "Somto",
+      "last_name": "Boniface",
+      "number": "#48",
+      "name_in_home_country": "Somtochukwu Alan Udochukwu Boniface",
+      "date_of_birth": "11/03/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": null,
+      "full_name": "Somtochukwu Alan Udochukwu Boniface",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/16ninetytwo-sports-management/beraterfirma/berater/14004",
+        "name": "16NinetyTwo"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/922472-1746692656.jpg?lm=1",
+      "current_club": {
+        "href": "/ipswich-town-u21/startseite/verein/26117"
+      },
+      "foot": "left",
+      "joined": "\n                            03/02/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "3",
+      "international_goals": "0",
+      "code": "somto-boniface",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/somto-boniface/leistungsdaten/spieler/922472"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

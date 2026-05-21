@@ -1,0 +1,58 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/288323",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/288323",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/marcus-harness/profil/spieler/288323",
+      "name": "Marcus",
+      "last_name": "Harness",
+      "number": "#10",
+      "name_in_home_country": "Marcus Anthony Myers-Harness",
+      "date_of_birth": "24/02/1996",
+      "age": "30",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Coventry  "
+      },
+      "height": "1,82 m",
+      "full_name": "Marcus Anthony Myers-Harness",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/general-sports-worldwide/beraterfirma/berater/9080",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/288323-1664179825.jpg?lm=1",
+      "current_club": {
+        "href": "/huddersfield-town/startseite/verein/1110"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "social_media": [],
+      "code": "marcus-harness",
+      "current_market_value": "€750k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/marcus-harness/leistungsdaten/spieler/288323"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

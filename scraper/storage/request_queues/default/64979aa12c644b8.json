@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/284730",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/284730",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/manuel-akanji/profil/spieler/284730",
+      "name": "Manuel",
+      "last_name": "Akanji",
+      "number": "#25",
+      "name_in_home_country": "Manuel Obafemi Akanji",
+      "date_of_birth": "19/07/1995",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Switzerland",
+        "city": "Wiesendangen  "
+      },
+      "height": "1,88 m",
+      "full_name": "Manuel Obafemi Akanji",
+      "citizenship": "Switzerland",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/284730-1684165752.jpg?lm=1",
+      "current_club": {
+        "href": "/inter-milan/startseite/verein/46"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "79",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "manuel-akanji",
+      "current_market_value": "€18.00m",
+      "market_value_last_update": "Last update: 24/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/manuel-akanji/leistungsdaten/spieler/284730"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/284730",
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/111873",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/111873",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/emiliano-martinez/profil/spieler/111873",
+      "name": "Emiliano",
+      "last_name": "Martínez",
+      "number": "#23",
+      "name_in_home_country": "Damián Emiliano Martínez Romero",
+      "date_of_birth": "02/09/1992",
+      "age": "33",
+      "place_of_birth": {
+        "country": "Argentina",
+        "city": "Mar del Plata  "
+      },
+      "height": "1,95 m",
+      "full_name": "Damián Emiliano Martínez Romero",
+      "citizenship": "Argentina",
+      "additional_citizenships": [
+        "Spain"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/universal-twenty-two/beraterfirma/berater/2722",
+        "name": "Universal Twenty Two"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/111873-1668180824.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "right",
+      "joined": "\n                            16/09/2020                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "59",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "emiliano-martinez",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/emiliano-martinez/leistungsdaten/spieler/111873"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

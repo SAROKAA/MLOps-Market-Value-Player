@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1042886",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1042886",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/chido-obi/profil/spieler/1042886",
+      "name": "Chido",
+      "last_name": "Obi",
+      "number": "#32",
+      "name_in_home_country": "Chidozie Obi-Martin",
+      "date_of_birth": "29/11/2007",
+      "age": "18",
+      "place_of_birth": {
+        "country": "Denmark",
+        "city": "Glostrup  "
+      },
+      "height": "1,88 m",
+      "full_name": "Chidozie Obi-Martin",
+      "citizenship": "Denmark",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/elite-project-group-limited/beraterfirma/berater/5620",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1042886-1739789319.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "4",
+      "international_goals": "2",
+      "code": "chido-obi",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/chido-obi/leistungsdaten/spieler/1042886"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1042886",
+  "handled_at": null
+}

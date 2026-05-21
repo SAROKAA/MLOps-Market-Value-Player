@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/936874",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/936874",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tyrique-george/profil/spieler/936874",
+      "name": "Tyrique",
+      "last_name": "George",
+      "number": "#19",
+      "name_in_home_country": "Tyrique Aaron Delali Yusuff George",
+      "date_of_birth": "04/02/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,81 m",
+      "full_name": "Tyrique Aaron Delali Yusuff George",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/elite-project-group-limited/beraterfirma/berater/5620",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/936874-1731016609.jpg?lm=1",
+      "current_club": {
+        "href": "/everton-fc/startseite/verein/29"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "6",
+      "international_goals": "2",
+      "code": "tyrique-george",
+      "current_market_value": "€22.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tyrique-george/leistungsdaten/spieler/936874"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

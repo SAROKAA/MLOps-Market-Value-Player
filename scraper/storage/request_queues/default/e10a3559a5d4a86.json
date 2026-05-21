@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/741236",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/741236",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/matthew-cox/profil/spieler/741236",
+      "name": "Matthew",
+      "last_name": "Cox",
+      "number": "#1",
+      "name_in_home_country": "Matthew Aidan Cox",
+      "date_of_birth": "02/05/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,83 m",
+      "full_name": "Matthew Aidan Cox",
+      "citizenship": "England",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/new-era-global-sports-management-limited/beraterfirma/berater/4603",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/741236-1754901218.jpg?lm=1",
+      "current_club": {
+        "href": "/shrewsbury-town/startseite/verein/3054"
+      },
+      "foot": "right",
+      "joined": "\n                            15/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "matthew-cox",
+      "current_market_value": "€700k",
+      "market_value_last_update": "Last update: 15/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/matthew-cox/leistungsdaten/spieler/741236"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

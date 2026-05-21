@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/670717",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/670717",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dario-essugo/profil/spieler/670717",
+      "name": "Dário",
+      "last_name": "Essugo",
+      "number": "#14",
+      "name_in_home_country": "Dário Cassia Luís Essugo",
+      "date_of_birth": "14/03/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Lisboa  "
+      },
+      "height": "1,78 m",
+      "full_name": "Dário Cassia Luís Essugo",
+      "citizenship": "Portugal",
+      "additional_citizenships": [
+        "Angola"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/as1tm/beraterfirma/berater/13796",
+        "name": "AS1"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/670717-1742314930.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            10/06/2025                        ",
+      "contract_expires": "30/06/2033",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "8",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "dario-essugo",
+      "current_market_value": "€17.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dario-essugo/leistungsdaten/spieler/670717"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

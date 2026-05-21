@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/845809",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/845809",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/lewis-orford/profil/spieler/845809",
+      "name": "Lewis",
+      "last_name": "Orford",
+      "number": "#61",
+      "name_in_home_country": "Lewis William Orford",
+      "date_of_birth": "18/02/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,82 m",
+      "full_name": "Lewis William Orford",
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/845809-1709883922.jpg?lm=1",
+      "current_club": {
+        "href": "/west-ham-united-u21/startseite/verein/9267"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u20/startseite/verein/22907"
+      },
+      "international_caps": "3",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "lewis-orford",
+      "current_market_value": "€300k",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/lewis-orford/leistungsdaten/spieler/845809"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

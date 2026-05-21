@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/982097",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/982097",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/shumaira-mheuka/profil/spieler/982097",
+      "name": "Shumaira",
+      "last_name": "Mheuka",
+      "number": "#62",
+      "name_in_home_country": null,
+      "date_of_birth": "20/10/2007",
+      "age": "18",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Birmingham   "
+      },
+      "height": "1,85 m",
+      "full_name": null,
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Zimbabwe"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/elite-project-group-limited/beraterfirma/berater/5620",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/982097-1732821076.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc-u21/startseite/verein/9250"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "23",
+      "international_goals": "16",
+      "code": "shumaira-mheuka",
+      "current_market_value": "€3.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/shumaira-mheuka/leistungsdaten/spieler/982097"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

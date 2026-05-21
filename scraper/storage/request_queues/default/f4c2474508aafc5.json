@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/944140",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/944140",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/trent-kone-doherty/profil/spieler/944140",
+      "name": "Trent",
+      "last_name": "Kone-Doherty",
+      "number": "#24",
+      "name_in_home_country": "Trent Toure Koné-Doherty",
+      "date_of_birth": "30/06/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": "Northern Ireland",
+        "city": "Derry  "
+      },
+      "height": "1,75 m",
+      "full_name": "Trent Toure Koné-Doherty",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "Northern Ireland"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/fortitude-sports-management-int/beraterfirma/berater/6728",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/944140-1773739656.jpg?lm=1",
+      "current_club": {
+        "href": "/molde-fk/startseite/verein/687"
+      },
+      "foot": "right",
+      "joined": "\n                            27/02/2026                        ",
+      "contract_expires": "31/12/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "6",
+      "international_goals": "0",
+      "code": "trent-kone-doherty",
+      "current_market_value": "€600k",
+      "market_value_last_update": "Last update: 16/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/trent-kone-doherty/leistungsdaten/spieler/944140"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

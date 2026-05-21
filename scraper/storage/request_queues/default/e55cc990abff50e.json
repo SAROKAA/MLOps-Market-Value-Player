@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/565093",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/565093",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/bart-verbruggen/profil/spieler/565093",
+      "name": "Bart",
+      "last_name": "Verbruggen",
+      "number": "#1",
+      "name_in_home_country": null,
+      "date_of_birth": "18/08/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Zwolle  "
+      },
+      "height": "1,94 m",
+      "full_name": null,
+      "citizenship": "Netherlands",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/stirr-associates/beraterfirma/berater/4807",
+        "name": "Stirr Associates"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/565093-1716990260.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            03/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "27",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "bart-verbruggen",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/bart-verbruggen/leistungsdaten/spieler/565093"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/565093",
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/392768",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/392768",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/callum-hudson-odoi/profil/spieler/392768",
+      "name": "Callum",
+      "last_name": "Hudson-Odoi",
+      "number": "#7",
+      "name_in_home_country": "Callum James Hudson-Odoi",
+      "date_of_birth": "07/11/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,78 m",
+      "full_name": "Callum James Hudson-Odoi",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ghana"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/boss-talent-sports/beraterfirma/berater/13378",
+        "name": "BTS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/392768-1659969850.png?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "3",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "callum-hudson-odoi",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/callum-hudson-odoi/leistungsdaten/spieler/392768"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/520651",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/520651",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jensen-weir/profil/spieler/520651",
+      "name": "Jensen",
+      "last_name": "Weir",
+      "number": "#6",
+      "name_in_home_country": "Jensen Guy Weir",
+      "date_of_birth": "31/01/2002",
+      "age": "24",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Warrington  "
+      },
+      "height": "1,84 m",
+      "full_name": "Jensen Guy Weir",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Scotland"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/520651-1748200434.jpg?lm=1",
+      "current_club": {
+        "href": "/wigan-athletic/startseite/verein/1071"
+      },
+      "foot": "right",
+      "joined": "\n                            29/08/2024                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "jensen-weir",
+      "current_market_value": "€450k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jensen-weir/leistungsdaten/spieler/520651"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/520651",
+  "handled_at": null
+}

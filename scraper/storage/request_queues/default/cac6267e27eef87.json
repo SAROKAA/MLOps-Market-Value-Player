@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/649020",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/649020",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/boubacar-traore/profil/spieler/649020",
+      "name": "Boubacar",
+      "last_name": "Traoré",
+      "number": "#8",
+      "name_in_home_country": null,
+      "date_of_birth": "20/08/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Mali",
+        "city": "Bamako  "
+      },
+      "height": "1,83 m",
+      "full_name": null,
+      "citizenship": "Mali",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/forward-management-s-a-r-l/beraterfirma/berater/4726",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/649020-1693477837.jpg?lm=1",
+      "current_club": {
+        "href": "/fc-metz/startseite/verein/347"
+      },
+      "foot": "right",
+      "joined": "\n                            24/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "boubacar-traore",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 15/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/boubacar-traore/leistungsdaten/spieler/649020"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

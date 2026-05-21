@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/450050",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/450050",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jean-ricner-bellegarde/profil/spieler/450050",
+      "name": "Jean-Ricner",
+      "last_name": "Bellegarde",
+      "number": "#27",
+      "name_in_home_country": null,
+      "date_of_birth": "27/06/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Colombes  "
+      },
+      "height": "1,72 m",
+      "full_name": null,
+      "citizenship": "Haiti",
+      "additional_citizenships": [
+        "France"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/bks-management-dwc-llc/beraterfirma/berater/12550",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/450050-1769112628.jpg?lm=1",
+      "current_club": {
+        "href": "/wolverhampton-wanderers/startseite/verein/543"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "8",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "jean-ricner-bellegarde",
+      "current_market_value": "€16.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jean-ricner-bellegarde/leistungsdaten/spieler/450050"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

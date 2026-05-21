@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/595809",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/595809",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/beto/profil/spieler/595809",
+      "name": "",
+      "last_name": "Beto",
+      "number": "#9",
+      "name_in_home_country": null,
+      "date_of_birth": "31/01/1998",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Lisboa  "
+      },
+      "height": "1,94 m",
+      "full_name": null,
+      "citizenship": "Guinea-Bissau",
+      "additional_citizenships": [
+        "Portugal"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/pr10/beraterfirma/berater/6511",
+        "name": "PR10"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/595809-1711746870.jpg?lm=1",
+      "current_club": {
+        "href": "/everton-fc/startseite/verein/29"
+      },
+      "foot": "right",
+      "joined": "\n                            29/08/2023                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "10",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "beto",
+      "current_market_value": "€20.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/beto/leistungsdaten/spieler/595809"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

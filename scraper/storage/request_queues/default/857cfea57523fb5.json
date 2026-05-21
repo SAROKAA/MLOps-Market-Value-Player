@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1026524",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1026524",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sam-amissah/profil/spieler/1026524",
+      "name": "Sam",
+      "last_name": "Amissah",
+      "number": "#35",
+      "name_in_home_country": "Samuel Kweku Sarsah Amissah",
+      "date_of_birth": "07/03/2007",
+      "age": "19",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,84 m",
+      "full_name": "Samuel Kweku Sarsah Amissah",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ghana"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1026524-1736153500.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc-u21/startseite/verein/9262"
+      },
+      "foot": "both",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "7",
+      "international_goals": "0",
+      "code": "sam-amissah",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sam-amissah/leistungsdaten/spieler/1026524"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

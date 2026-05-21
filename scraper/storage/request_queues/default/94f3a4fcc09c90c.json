@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/344381",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/344381",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/christopher-nkunku/profil/spieler/344381",
+      "name": "Christopher",
+      "last_name": "Nkunku",
+      "number": "#18",
+      "name_in_home_country": "Christopher Alan Nkunku",
+      "date_of_birth": "14/11/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Lagny-sur-Marne  "
+      },
+      "height": "1,77 m",
+      "full_name": "Christopher Alan Nkunku",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "DR Congo"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/gol-international/beraterfirma/berater/220",
+        "name": "Gol International"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/344381-1663686834.jpg?lm=1",
+      "current_club": {
+        "href": "/ac-milan/startseite/verein/5"
+      },
+      "foot": "right",
+      "joined": "\n                            30/08/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "France",
+        "href": "/frankreich/startseite/verein/3377"
+      },
+      "international_caps": "18",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "christopher-nkunku",
+      "current_market_value": "€28.00m",
+      "market_value_last_update": "Last update: 24/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/christopher-nkunku/leistungsdaten/spieler/344381"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

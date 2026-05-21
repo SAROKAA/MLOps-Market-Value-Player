@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/670883",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/670883",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dane-scarlett/profil/spieler/670883",
+      "name": "Dane",
+      "last_name": "Scarlett",
+      "number": "#44",
+      "name_in_home_country": "Dane Pharrell Scarlett",
+      "date_of_birth": "24/03/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,80 m",
+      "full_name": "Dane Pharrell Scarlett",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/670883-1629964528.jpg?lm=1",
+      "current_club": {
+        "href": "/hibernian-fc/startseite/verein/903"
+      },
+      "foot": "right",
+      "joined": "\n                            30/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "5",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "dane-scarlett",
+      "current_market_value": "€2.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dane-scarlett/leistungsdaten/spieler/670883"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/670883",
+  "handled_at": null
+}

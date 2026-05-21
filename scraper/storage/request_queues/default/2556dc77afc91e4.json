@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/880245",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/880245",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mateus-fernandes/profil/spieler/880245",
+      "name": "Mateus",
+      "last_name": "Fernandes",
+      "number": "#18",
+      "name_in_home_country": "Mateus Gonçalo Espanha Fernandes",
+      "date_of_birth": "10/07/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Olhão  "
+      },
+      "height": "1,80 m",
+      "full_name": "Mateus Gonçalo Espanha Fernandes",
+      "citizenship": "Portugal",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/gestifute/beraterfirma/berater/413",
+        "name": "Gestifute"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/880245-1727786403.jpg?lm=1",
+      "current_club": {
+        "href": "/west-ham-united/startseite/verein/379"
+      },
+      "foot": "right",
+      "joined": "\n                            29/08/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "mateus-fernandes",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mateus-fernandes/leistungsdaten/spieler/880245"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

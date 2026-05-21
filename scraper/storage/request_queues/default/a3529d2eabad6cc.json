@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/703626",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/703626",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/cameron-peupion/profil/spieler/703626",
+      "name": "Cameron",
+      "last_name": "Peupion",
+      "number": "#21",
+      "name_in_home_country": "Cameron Paul Jacques Peupion",
+      "date_of_birth": "23/09/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Australia",
+        "city": "Sydney  "
+      },
+      "height": "1,75 m",
+      "full_name": "Cameron Paul Jacques Peupion",
+      "citizenship": "Australia",
+      "additional_citizenships": [
+        "France"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/footwork-management-limited/beraterfirma/berater/8805",
+        "name": "Footwork"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/703626-1764665254.png?lm=1",
+      "current_club": {
+        "href": "/ado-den-haag/startseite/verein/1268"
+      },
+      "foot": "right",
+      "joined": "\n                            31/01/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "12",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "cameron-peupion",
+      "current_market_value": "€350k",
+      "market_value_last_update": "Last update: 16/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/cameron-peupion/leistungsdaten/spieler/703626"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/703626",
+  "handled_at": null
+}

@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/922769",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/922769",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/lewis-miley/profil/spieler/922769",
+      "name": "Lewis",
+      "last_name": "Miley",
+      "number": "#67",
+      "name_in_home_country": null,
+      "date_of_birth": "01/05/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Stanley  "
+      },
+      "height": "1,89 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/922769-1696453881.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united/startseite/verein/762"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u21/startseite/verein/9565"
+      },
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "lewis-miley",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/lewis-miley/leistungsdaten/spieler/922769"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/922769",
+  "handled_at": null
+}

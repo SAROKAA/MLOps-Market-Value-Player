@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/610849",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/610849",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/liam-delap/profil/spieler/610849",
+      "name": "Liam",
+      "last_name": "Delap",
+      "number": "#9",
+      "name_in_home_country": "Liam Rory Delap",
+      "date_of_birth": "08/02/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Winchester  "
+      },
+      "height": "1,86 m",
+      "full_name": "Liam Rory Delap",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ireland"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/610849-1746646306.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            04/06/2025                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "12",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "liam-delap",
+      "current_market_value": "€32.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/liam-delap/leistungsdaten/spieler/610849"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

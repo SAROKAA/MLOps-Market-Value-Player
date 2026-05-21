@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/746740",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/746740",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/daniel-jebbison/profil/spieler/746740",
+      "name": "Daniel",
+      "last_name": "Jebbison",
+      "number": "#9",
+      "name_in_home_country": "Daniel David Jebbison",
+      "date_of_birth": "13/08/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Canada",
+        "city": "Oakville, Ontario  "
+      },
+      "height": "1,90 m",
+      "full_name": "Daniel David Jebbison",
+      "citizenship": "Canada",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/cassius-sports-ltd/beraterfirma/berater/12261",
+        "name": "Cassius Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/746740-1743015657.jpg?lm=1",
+      "current_club": {
+        "href": "/preston-north-end/startseite/verein/466"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "7",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "daniel-jebbison",
+      "current_market_value": "€6.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/daniel-jebbison/leistungsdaten/spieler/746740"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/746740",
+  "handled_at": null
+}

@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1083691",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1083691",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/luke-rawlings/profil/spieler/1083691",
+      "name": "Luke",
+      "last_name": "Rawlings",
+      "number": "#62",
+      "name_in_home_country": "Lucas Kai Rawlings",
+      "date_of_birth": "04/04/2008",
+      "age": "18",
+      "place_of_birth": {
+        "country": "Japan",
+        "city": "Tokyo  "
+      },
+      "height": null,
+      "full_name": "Lucas Kai Rawlings",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Japan"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/fullninety-sports-management/beraterfirma/berater/3518",
+        "name": "FullNinety"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1083691-1771869416.jpg?lm=1",
+      "current_club": {
+        "href": "/wolverhampton-wanderers-u21/startseite/verein/24226"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "5",
+      "international_goals": "1",
+      "code": "luke-rawlings",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/luke-rawlings/leistungsdaten/spieler/1083691"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

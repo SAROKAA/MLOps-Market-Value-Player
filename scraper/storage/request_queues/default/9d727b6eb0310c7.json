@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/936842",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/936842",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/michael-golding/profil/spieler/936842",
+      "name": "Michael",
+      "last_name": "Golding",
+      "number": "#34",
+      "name_in_home_country": "Michael Heinz Golding",
+      "date_of_birth": "23/05/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Kingston  "
+      },
+      "height": "1,80 m",
+      "full_name": "Michael Heinz Golding",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Ireland"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/golden-gate-group/beraterfirma/berater/6076",
+        "name": "Golden Gate Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/936842-1715156410.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            07/07/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "michael-golding",
+      "current_market_value": "€1.50m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/michael-golding/leistungsdaten/spieler/936842"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

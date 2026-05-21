@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/695454",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/695454",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/chiquinho/profil/spieler/695454",
+      "name": "",
+      "last_name": "Chiquinho",
+      "number": "#10",
+      "name_in_home_country": null,
+      "date_of_birth": "05/02/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Cascais  "
+      },
+      "height": "1,79 m",
+      "full_name": null,
+      "citizenship": "Portugal",
+      "additional_citizenships": [
+        "Cape Verde"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/quinas-sport/beraterfirma/berater/9472",
+        "name": "Quinas"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/695454-1641552728.png?lm=1",
+      "current_club": {
+        "href": "/fc-alverca/startseite/verein/2521"
+      },
+      "foot": "right",
+      "joined": "\n                            09/07/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "chiquinho",
+      "current_market_value": "€2.00m",
+      "market_value_last_update": "Last update: 18/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/chiquinho/leistungsdaten/spieler/695454"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

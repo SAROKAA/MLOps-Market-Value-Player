@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1178758",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1178758",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/malick-yalcouye/profil/spieler/1178758",
+      "name": "Malick",
+      "last_name": "Yalcouyé",
+      "number": "#8",
+      "name_in_home_country": "Malick Junior Yalcouyé",
+      "date_of_birth": "18/11/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Mali",
+        "city": "Bandiagara  "
+      },
+      "height": "1,69 m",
+      "full_name": "Malick Junior Yalcouyé",
+      "citizenship": "Cote d'Ivoire",
+      "additional_citizenships": [
+        "Mali"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1178758-1736777511.jpg?lm=1",
+      "current_club": {
+        "href": "/swansea-city/startseite/verein/2288"
+      },
+      "foot": "right",
+      "joined": "\n                            14/08/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "malick-yalcouye",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/malick-yalcouye/leistungsdaten/spieler/1178758"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1178758",
+  "handled_at": null
+}

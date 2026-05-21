@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/994536",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/994536",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/claudio-echeverri/profil/spieler/994536",
+      "name": "Claudio",
+      "last_name": "Echeverri",
+      "number": "#14",
+      "name_in_home_country": "Claudio Jeremías Echeverri",
+      "date_of_birth": "02/01/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Argentina",
+        "city": "Resistencia  "
+      },
+      "height": "1,70 m",
+      "full_name": "Claudio Jeremías Echeverri",
+      "citizenship": "Argentina",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/994536-1758703571.jpg?lm=1",
+      "current_club": {
+        "href": "/girona-fc/startseite/verein/12321"
+      },
+      "foot": "right",
+      "joined": "\n                            18/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "claudio-echeverri",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 19/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/claudio-echeverri/leistungsdaten/spieler/994536"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/994536",
+  "handled_at": null
+}

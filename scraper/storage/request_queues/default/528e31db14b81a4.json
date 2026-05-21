@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/300716",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/300716",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kieran-tierney/profil/spieler/300716",
+      "name": "Kieran",
+      "last_name": "Tierney",
+      "number": "#63",
+      "name_in_home_country": null,
+      "date_of_birth": "05/06/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Isle of Man",
+        "city": "Douglas  "
+      },
+      "height": "1,80 m",
+      "full_name": null,
+      "citizenship": "Scotland",
+      "additional_citizenships": [
+        "Isle of Man"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/300716-1662666488.jpg?lm=1",
+      "current_club": {
+        "href": "/celtic-fc/startseite/verein/371"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "55",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "kieran-tierney",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 10/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kieran-tierney/leistungsdaten/spieler/300716"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/300716",
+  "handled_at": null
+}

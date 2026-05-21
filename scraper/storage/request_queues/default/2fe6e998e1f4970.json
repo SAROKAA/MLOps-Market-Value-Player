@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/743591",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/743591",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/savinho/profil/spieler/743591",
+      "name": "",
+      "last_name": "Savinho",
+      "number": "#26",
+      "name_in_home_country": null,
+      "date_of_birth": "10/04/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "São Mateus  "
+      },
+      "height": "1,76 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/promanager/beraterfirma/berater/10730",
+        "name": "Promanager"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/743591-1751367497.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-city/startseite/verein/281"
+      },
+      "foot": "left",
+      "joined": "\n                            18/07/2024                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "13",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "savinho",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/savinho/leistungsdaten/spieler/743591"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

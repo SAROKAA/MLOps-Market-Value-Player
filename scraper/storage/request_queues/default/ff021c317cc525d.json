@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/528892",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/528892",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/harry-clarke/profil/spieler/528892",
+      "name": "Harry",
+      "last_name": "Clarke",
+      "number": "#44",
+      "name_in_home_country": "Harrison Thomas Clarke",
+      "date_of_birth": "02/03/2001",
+      "age": "25",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Ipswich  "
+      },
+      "height": "1,80 m",
+      "full_name": "Harrison Thomas Clarke",
+      "citizenship": "England",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/528892-1628698186.jpg?lm=1",
+      "current_club": {
+        "href": "/charlton-athletic/startseite/verein/358"
+      },
+      "foot": "right",
+      "joined": "\n                            12/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "harry-clarke",
+      "current_market_value": "€3.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/harry-clarke/leistungsdaten/spieler/528892"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

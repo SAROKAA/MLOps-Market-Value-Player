@@ -1,0 +1,54 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/925105",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/925105",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ben-perry/profil/spieler/925105",
+      "name": "Ben",
+      "last_name": "Perry",
+      "number": "#4",
+      "name_in_home_country": "Benjamin Marshall Perry",
+      "date_of_birth": "01/12/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Derby  "
+      },
+      "height": "1,83 m",
+      "full_name": "Benjamin Marshall Perry",
+      "citizenship": "England",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/complete-sports-group/beraterfirma/berater/10818",
+        "name": "CSG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/925105-1746641107.jpg?lm=1",
+      "current_club": {
+        "href": "/colchester-united/startseite/verein/1060"
+      },
+      "foot": "right",
+      "joined": "\n                            09/07/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "ben-perry",
+      "current_market_value": "€100k",
+      "market_value_last_update": "Last update: 15/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ben-perry/leistungsdaten/spieler/925105"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

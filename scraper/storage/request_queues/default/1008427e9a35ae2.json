@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/240306",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/240306",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/bruno-fernandes/profil/spieler/240306",
+      "name": "Bruno",
+      "last_name": "Fernandes",
+      "number": "#8",
+      "name_in_home_country": "Bruno Miguel Borges Fernandes",
+      "date_of_birth": "08/09/1994",
+      "age": "31",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Maia  "
+      },
+      "height": "1,79 m",
+      "full_name": "Bruno Miguel Borges Fernandes",
+      "citizenship": "Portugal",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/as1tm/beraterfirma/berater/13796",
+        "name": "AS1"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/240306-1683882766.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "right",
+      "joined": "\n                            29/01/2020                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "87",
+      "international_goals": "28",
+      "social_media": [],
+      "code": "bruno-fernandes",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/bruno-fernandes/leistungsdaten/spieler/240306"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/240306",
+  "handled_at": null
+}

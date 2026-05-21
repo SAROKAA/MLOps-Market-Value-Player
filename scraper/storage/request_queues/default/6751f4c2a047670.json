@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/124419",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/124419",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/odysseas-vlachodimos/profil/spieler/124419",
+      "name": "Odysseas",
+      "last_name": "Vlachodimos",
+      "number": "#1",
+      "name_in_home_country": "Οδυσσέας Βλαχοδήμος",
+      "date_of_birth": "26/04/1994",
+      "age": "32",
+      "place_of_birth": {
+        "country": "Germany",
+        "city": "Stuttgart  "
+      },
+      "height": "1,91 m",
+      "full_name": "Οδυσσέας Βλαχοδήμος",
+      "citizenship": "Greece",
+      "additional_citizenships": [
+        "Germany"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/fair-sport-gmbh/beraterfirma/berater/141",
+        "name": "fair-sport GmbH"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/124419-1706829687.jpg?lm=1",
+      "current_club": {
+        "href": "/sevilla-fc/startseite/verein/368"
+      },
+      "foot": "right",
+      "joined": "\n                            12/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Uhlsport",
+      "international_caps": "52",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "odysseas-vlachodimos",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 12/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/odysseas-vlachodimos/leistungsdaten/spieler/124419"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/124419",
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/739443",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/739443",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/igor-thiago/profil/spieler/739443",
+      "name": "Igor",
+      "last_name": "Thiago",
+      "number": "#9",
+      "name_in_home_country": "Igor Thiago Nascimento Rodrigues",
+      "date_of_birth": "26/06/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Gama  "
+      },
+      "height": "1,91 m",
+      "full_name": "Igor Thiago Nascimento Rodrigues",
+      "citizenship": "Brazil",
+      "additional_citizenships": [
+        "Bulgaria"
+      ],
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/assis-representacoes-profissionais-ltda/beraterfirma/berater/7164",
+        "name": "HN80 Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/739443-1770372295.jpg?lm=1",
+      "current_club": {
+        "href": "/brentford-fc/startseite/verein/1148"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "igor-thiago",
+      "current_market_value": "€50.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/igor-thiago/leistungsdaten/spieler/739443"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

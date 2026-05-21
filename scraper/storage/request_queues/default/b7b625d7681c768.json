@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/462250",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/462250",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/joao-felix/profil/spieler/462250",
+      "name": "João",
+      "last_name": "Félix",
+      "number": "#79",
+      "name_in_home_country": "João Félix Sequeira",
+      "date_of_birth": "10/11/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Viseu  "
+      },
+      "height": "1,81 m",
+      "full_name": "João Félix Sequeira",
+      "citizenship": "Portugal",
+      "position": "Attack - Second Striker",
+      "player_agent": {
+        "href": "/gestifute/beraterfirma/berater/413",
+        "name": "Gestifute"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/462250-1668165358.jpg?lm=1",
+      "current_club": {
+        "href": "/al-nassr-fc/startseite/verein/18544"
+      },
+      "foot": "right",
+      "joined": "\n                            29/07/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "52",
+      "international_goals": "12",
+      "social_media": [],
+      "code": "joao-felix",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 18/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/joao-felix/leistungsdaten/spieler/462250"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

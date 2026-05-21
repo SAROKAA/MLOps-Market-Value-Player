@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1135364",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1135364",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/olabade-aluko/profil/spieler/1135364",
+      "name": "Olabade",
+      "last_name": "Aluko",
+      "number": "#56",
+      "name_in_home_country": "Olabade Olatomiwo Samuel Aluko",
+      "date_of_birth": "30/11/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,82 m",
+      "full_name": "Olabade Olatomiwo Samuel Aluko",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1135364-1776278897.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "3",
+      "international_goals": "0",
+      "code": "olabade-aluko",
+      "current_market_value": "€250k",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/olabade-aluko/leistungsdaten/spieler/1135364"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

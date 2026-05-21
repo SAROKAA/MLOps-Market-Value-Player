@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1004709",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1004709",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sam-proctor/profil/spieler/1004709",
+      "name": "Sam",
+      "last_name": "Proctor",
+      "number": "#52",
+      "name_in_home_country": "Sam Adrian Proctor",
+      "date_of_birth": "21/12/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Boston  "
+      },
+      "height": null,
+      "full_name": "Sam Adrian Proctor",
+      "citizenship": "England",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/integral-sports-management/beraterfirma/berater/9053",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1004709-1746641198.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa-u21/startseite/verein/12124"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "code": "sam-proctor",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sam-proctor/leistungsdaten/spieler/1004709"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

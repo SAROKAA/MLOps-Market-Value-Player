@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/486144",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/486144",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jakub-stolarczyk/profil/spieler/486144",
+      "name": "Jakub",
+      "last_name": "Stolarczyk",
+      "number": "#1",
+      "name_in_home_country": null,
+      "date_of_birth": "19/12/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Poland",
+        "city": "Kielce  "
+      },
+      "height": "1,94 m",
+      "full_name": null,
+      "citizenship": "Poland",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/486144-1692967745.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "code": "jakub-stolarczyk",
+      "current_market_value": "€1.80m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jakub-stolarczyk/leistungsdaten/spieler/486144"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/543499",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/543499",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mohammed-kudus/profil/spieler/543499",
+      "name": "Mohammed",
+      "last_name": "Kudus",
+      "number": "#20",
+      "name_in_home_country": "Kudus Mohammed",
+      "date_of_birth": "02/08/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Ghana",
+        "city": "Accra  "
+      },
+      "height": "1,77 m",
+      "full_name": "Kudus Mohammed",
+      "citizenship": "Ghana",
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/roof/beraterfirma/berater/2295",
+        "name": "ROOF"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/543499-1668429218.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "left",
+      "joined": "\n                            10/07/2025                        ",
+      "contract_expires": "30/06/2031",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Skechers",
+      "national_team": {
+        "country": "Ghana",
+        "href": "/ghana/startseite/verein/3441"
+      },
+      "international_caps": "46",
+      "international_goals": "13",
+      "social_media": [],
+      "code": "mohammed-kudus",
+      "current_market_value": "€55.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mohammed-kudus/leistungsdaten/spieler/543499"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

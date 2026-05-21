@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/587018",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/587018",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/hubert-graczyk/profil/spieler/587018",
+      "name": "Hubert",
+      "last_name": "Graczyk",
+      "number": null,
+      "name_in_home_country": null,
+      "date_of_birth": "28/02/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Poland",
+        "city": "Skwierzyna  "
+      },
+      "height": "1,87 m",
+      "full_name": null,
+      "citizenship": "Poland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/world-in-motion/beraterfirma/berater/1061",
+        "name": "World in Motion"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/587018-1655983993.png?lm=1",
+      "current_club": {
+        "href": "/carshalton-athletic/startseite/verein/8908"
+      },
+      "foot": "right",
+      "joined": "\n                            27/02/2026                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "hubert-graczyk",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/hubert-graczyk/leistungsdaten/spieler/587018"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/587018",
+  "handled_at": null
+}

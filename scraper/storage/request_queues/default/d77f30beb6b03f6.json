@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/787232",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/787232",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/david-datro-fofana/profil/spieler/787232",
+      "name": "David Datro",
+      "last_name": "Fofana",
+      "number": "#15",
+      "name_in_home_country": null,
+      "date_of_birth": "22/12/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Cote d'Ivoire",
+        "city": "Ouragahio  "
+      },
+      "height": "1,82 m",
+      "full_name": null,
+      "citizenship": "Cote d'Ivoire",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/787232-1691614259.jpg?lm=1",
+      "current_club": {
+        "href": "/rc-strasbourg-alsace/startseite/verein/667"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "3",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "david-datro-fofana",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/david-datro-fofana/leistungsdaten/spieler/787232"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

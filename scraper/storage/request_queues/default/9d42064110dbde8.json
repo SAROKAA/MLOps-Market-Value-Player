@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/796302",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/796302",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/owen-barker/profil/spieler/796302",
+      "name": "Owen",
+      "last_name": "Barker",
+      "number": null,
+      "name_in_home_country": "Owen William Barker",
+      "date_of_birth": "23/02/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Bolton  "
+      },
+      "height": "1,73 m",
+      "full_name": "Owen William Barker",
+      "citizenship": "England",
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+      "current_club": {
+        "href": "/bury-fc/startseite/verein/2413"
+      },
+      "foot": "left",
+      "joined": "\n                            10/10/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "code": "owen-barker",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/owen-barker/leistungsdaten/spieler/796302"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

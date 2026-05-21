@@ -1,0 +1,55 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/425902",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/425902",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ryan-yates/profil/spieler/425902",
+      "name": "Ryan",
+      "last_name": "Yates",
+      "number": "#22",
+      "name_in_home_country": "Ryan James Yates",
+      "date_of_birth": "21/11/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Lincoln  "
+      },
+      "height": "1,90 m",
+      "full_name": "Ryan James Yates",
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/425902-1684239778.jpg?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2016                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "social_media": [],
+      "code": "ryan-yates",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ryan-yates/leistungsdaten/spieler/425902"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

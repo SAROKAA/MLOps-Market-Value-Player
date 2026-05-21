@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/250478",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/250478",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/matt-targett/profil/spieler/250478",
+      "name": "Matt",
+      "last_name": "Targett",
+      "number": "#3",
+      "name_in_home_country": "Matthew Robert Targett",
+      "date_of_birth": "18/09/1995",
+      "age": "30",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Eastleigh  "
+      },
+      "height": "1,83 m",
+      "full_name": "Matthew Robert Targett",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Scotland"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/straight-ace-sports-management-ltd/beraterfirma/berater/5849",
+        "name": "Straight Ace Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/250478-1772541862.jpg?lm=1",
+      "current_club": {
+        "href": "/middlesbrough-fc/startseite/verein/641"
+      },
+      "foot": "left",
+      "joined": "\n                            27/08/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "13",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "matt-targett",
+      "current_market_value": "€3.50m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/matt-targett/leistungsdaten/spieler/250478"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/250478",
+  "handled_at": null
+}

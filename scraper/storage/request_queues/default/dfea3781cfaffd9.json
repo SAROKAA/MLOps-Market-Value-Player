@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/29712",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/29712",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/john-ruddy/profil/spieler/29712",
+      "name": "John",
+      "last_name": "Ruddy",
+      "number": "#26",
+      "name_in_home_country": "John Thomas Gordon Ruddy",
+      "date_of_birth": "24/10/1986",
+      "age": "39",
+      "place_of_birth": {
+        "country": "England",
+        "city": "St Ives  "
+      },
+      "height": "1,92 m",
+      "full_name": "John Thomas Gordon Ruddy",
+      "citizenship": "England",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/29712-1736421115.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united/startseite/verein/762"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "john-ruddy",
+      "current_market_value": "€100k",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/john-ruddy/leistungsdaten/spieler/29712"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/29712",
+  "handled_at": null
+}

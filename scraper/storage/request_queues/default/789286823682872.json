@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1055382",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1055382",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/will-murdock/profil/spieler/1055382",
+      "name": "Will",
+      "last_name": "Murdock",
+      "number": "#63",
+      "name_in_home_country": "William Stephen Murdock",
+      "date_of_birth": "26/05/2007",
+      "age": "18",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": null,
+      "full_name": "William Stephen Murdock",
+      "citizenship": "Northern Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/murdock-sports-group/beraterfirma/berater/14555",
+        "name": "Murdock Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1055382-1746692025.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united-u21/startseite/verein/9251"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "code": "will-murdock",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/will-murdock/leistungsdaten/spieler/1055382"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1055382",
+  "handled_at": null
+}

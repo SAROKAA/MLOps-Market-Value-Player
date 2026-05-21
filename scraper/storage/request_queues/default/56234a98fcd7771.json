@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/429014",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/429014",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/morgan-gibbs-white/profil/spieler/429014",
+      "name": "Morgan",
+      "last_name": "Gibbs-White",
+      "number": "#10",
+      "name_in_home_country": "Morgan Anthony Gibbs-White",
+      "date_of_birth": "27/01/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Stafford  "
+      },
+      "height": "1,71 m",
+      "full_name": "Morgan Anthony Gibbs-White",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/429014-1687975822.jpg?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "right",
+      "joined": "\n                            19/08/2022                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england/startseite/verein/3299"
+      },
+      "international_caps": "6",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "morgan-gibbs-white",
+      "current_market_value": "€60.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/morgan-gibbs-white/leistungsdaten/spieler/429014"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/592975",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/592975",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/woyo-coulibaly/profil/spieler/592975",
+      "name": "Woyo",
+      "last_name": "Coulibaly",
+      "number": "#25",
+      "name_in_home_country": null,
+      "date_of_birth": "26/05/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Gonesse  "
+      },
+      "height": "1,82 m",
+      "full_name": null,
+      "citizenship": "Mali",
+      "additional_citizenships": [
+        "France"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/592975-1725530223.jpg?lm=1",
+      "current_club": {
+        "href": "/us-sassuolo/startseite/verein/6574"
+      },
+      "foot": "both",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Mali",
+        "href": "/mali/startseite/verein/3674"
+      },
+      "international_caps": "5",
+      "international_goals": "0",
+      "code": "woyo-coulibaly",
+      "current_market_value": "€2.00m",
+      "market_value_last_update": "Last update: 23/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/woyo-coulibaly/leistungsdaten/spieler/592975"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/341501",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/341501",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/hamza-choudhury/profil/spieler/341501",
+      "name": "Hamza",
+      "last_name": "Choudhury",
+      "number": "#17",
+      "name_in_home_country": "Hamza Dewan Choudhury, হামজা দেওয়ান চৌধুরী",
+      "date_of_birth": "01/10/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Loughborough  "
+      },
+      "height": "1,78 m",
+      "full_name": "Hamza Dewan Choudhury, হামজা দেওয়ান চৌধুরী",
+      "citizenship": "Bangladesh",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/341501-1741026895.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            01/01/2018                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "9",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "hamza-choudhury",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/hamza-choudhury/leistungsdaten/spieler/341501"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

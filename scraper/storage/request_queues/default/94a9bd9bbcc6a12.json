@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/461883",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/461883",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/calvin-bassey/profil/spieler/461883",
+      "name": "Calvin",
+      "last_name": "Bassey",
+      "number": "#3",
+      "name_in_home_country": "Calvin Bassey Ughelumba",
+      "date_of_birth": "31/12/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Italy",
+        "city": "Aosta  "
+      },
+      "height": "1,85 m",
+      "full_name": "Calvin Bassey Ughelumba",
+      "citizenship": "Nigeria",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/461883-1662989506.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "left",
+      "joined": "\n                            28/07/2023                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Nigeria",
+        "href": "/nigeria/startseite/verein/3444"
+      },
+      "international_caps": "43",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "calvin-bassey",
+      "current_market_value": "€28.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/calvin-bassey/leistungsdaten/spieler/461883"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

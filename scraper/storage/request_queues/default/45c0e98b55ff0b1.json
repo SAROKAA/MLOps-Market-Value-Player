@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/922693",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/922693",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/archie-gray/profil/spieler/922693",
+      "name": "Archie",
+      "last_name": "Gray",
+      "number": "#14",
+      "name_in_home_country": "Archie James Francis Gray",
+      "date_of_birth": "12/03/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Durham  "
+      },
+      "height": "1,87 m",
+      "full_name": "Archie James Francis Gray",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Scotland"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/blue-sky-sports/beraterfirma/berater/14830",
+        "name": "Blue Sky Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/922693-1695108880.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            02/07/2024                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "17",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "archie-gray",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/archie-gray/leistungsdaten/spieler/922693"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/922693",
+  "handled_at": null
+}

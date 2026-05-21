@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/565846",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/565846",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/imari-samuels/profil/spieler/565846",
+      "name": "Imari",
+      "last_name": "Samuels",
+      "number": "#12",
+      "name_in_home_country": "Imari-Narain Che Hines-Samuels",
+      "date_of_birth": "05/02/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,87 m",
+      "full_name": "Imari-Narain Che Hines-Samuels",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/footwork-management-limited/beraterfirma/berater/8805",
+        "name": "Footwork"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/565846-1724484681.jpg?lm=1",
+      "current_club": {
+        "href": "/dundee-fc/startseite/verein/511"
+      },
+      "foot": "left",
+      "joined": "\n                            13/01/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "imari-samuels",
+      "current_market_value": "€300k",
+      "market_value_last_update": "Last update: 10/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/imari-samuels/leistungsdaten/spieler/565846"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/565846",
+  "handled_at": null
+}

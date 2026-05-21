@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/649317",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/649317",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jhon-duran/profil/spieler/649317",
+      "name": "Jhon",
+      "last_name": "Durán",
+      "number": "#9",
+      "name_in_home_country": "Jhon Jáder Durán Palacios",
+      "date_of_birth": "13/12/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Colombia",
+        "city": "Medellín  "
+      },
+      "height": "1,85 m",
+      "full_name": "Jhon Jáder Durán Palacios",
+      "citizenship": "Colombia",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/jhsevensportscompany/beraterfirma/berater/10874",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/649317-1772000650.png?lm=1",
+      "current_club": {
+        "href": "/zenit-st-petersburg/startseite/verein/964"
+      },
+      "foot": "left",
+      "joined": "\n                            09/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Colombia",
+        "href": "/kolumbien/startseite/verein/3816"
+      },
+      "international_caps": "17",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "jhon-duran",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 25/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jhon-duran/leistungsdaten/spieler/649317"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

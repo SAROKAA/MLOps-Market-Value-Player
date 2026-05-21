@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/365172",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/365172",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/patson-daka/profil/spieler/365172",
+      "name": "Patson",
+      "last_name": "Daka",
+      "number": "#20",
+      "name_in_home_country": null,
+      "date_of_birth": "09/10/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "Zambia",
+        "city": "Chingola  "
+      },
+      "height": "1,83 m",
+      "full_name": null,
+      "citizenship": "Zambia",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/the-middot-team/beraterfirma/berater/440",
+        "name": "THE·TEAM"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/365172-1638810490.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2021                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "47",
+      "international_goals": "21",
+      "social_media": [],
+      "code": "patson-daka",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/patson-daka/leistungsdaten/spieler/365172"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

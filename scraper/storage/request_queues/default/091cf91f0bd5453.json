@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/315969",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/315969",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/scott-mctominay/profil/spieler/315969",
+      "name": "Scott",
+      "last_name": "McTominay",
+      "number": "#8",
+      "name_in_home_country": "Scott Francis McTominay",
+      "date_of_birth": "08/12/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Lancaster  "
+      },
+      "height": "1,91 m",
+      "full_name": "Scott Francis McTominay",
+      "citizenship": "Scotland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/murdock-sports-group/beraterfirma/berater/14555",
+        "name": "Murdock Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/315969-1718626681.jpg?lm=1",
+      "current_club": {
+        "href": "/ssc-napoli/startseite/verein/6195"
+      },
+      "foot": "right",
+      "joined": "\n                            30/08/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "69",
+      "international_goals": "14",
+      "social_media": [],
+      "code": "scott-mctominay",
+      "current_market_value": "€45.00m",
+      "market_value_last_update": "Last update: 23/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/scott-mctominay/leistungsdaten/spieler/315969"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/315969",
+  "handled_at": null
+}

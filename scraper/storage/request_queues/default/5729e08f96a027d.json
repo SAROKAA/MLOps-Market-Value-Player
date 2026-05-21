@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/330659",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/330659",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/justin-kluivert/profil/spieler/330659",
+      "name": "Justin",
+      "last_name": "Kluivert",
+      "number": "#19",
+      "name_in_home_country": "Justin Dean Kluivert",
+      "date_of_birth": "05/05/1999",
+      "age": "27",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Zaandam  "
+      },
+      "height": "1,72 m",
+      "full_name": "Justin Dean Kluivert",
+      "citizenship": "Netherlands",
+      "additional_citizenships": [
+        "Suriname"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/epic-justin/beraterfirma/berater/15202",
+        "name": "Epic Justin"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/330659-1746645394.jpg?lm=1",
+      "current_club": {
+        "href": "/afc-bournemouth/startseite/verein/989"
+      },
+      "foot": "both",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Netherlands",
+        "href": "/niederlande/startseite/verein/3379"
+      },
+      "international_caps": "11",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "justin-kluivert",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/justin-kluivert/leistungsdaten/spieler/330659"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/656316",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/656316",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/gabriel-slonina/profil/spieler/656316",
+      "name": "Gabriel",
+      "last_name": "Slonina",
+      "number": "#44",
+      "name_in_home_country": "Gabriel Paweł Słonina",
+      "date_of_birth": "15/05/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "United States",
+        "city": "Addison, Illinois  "
+      },
+      "height": "1,93 m",
+      "full_name": "Gabriel Paweł Słonina",
+      "citizenship": "United States",
+      "additional_citizenships": [
+        "Poland"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/starting-xi-player-management/beraterfirma/berater/5754",
+        "name": "SXI"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/656316-1645958054.jpg?lm=1",
+      "current_club": {
+        "href": "/chelsea-fc/startseite/verein/631"
+      },
+      "foot": "right",
+      "joined": "\n                            02/08/2022                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "gabriel-slonina",
+      "current_market_value": "€3.50m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/gabriel-slonina/leistungsdaten/spieler/656316"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

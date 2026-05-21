@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/339340",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/339340",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/tyrell-malacia/profil/spieler/339340",
+      "name": "Tyrell",
+      "last_name": "Malacia",
+      "number": "#12",
+      "name_in_home_country": "Tyrell Johannes Chicco Malacia",
+      "date_of_birth": "17/08/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Rotterdam  "
+      },
+      "height": "1,69 m",
+      "full_name": "Tyrell Johannes Chicco Malacia",
+      "citizenship": "Netherlands",
+      "additional_citizenships": [
+        "Curacao"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/doubled/beraterfirma/berater/2784",
+        "name": "Darren Dein"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/339340-1657096025.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "left",
+      "joined": "\n                            05/07/2022                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "9",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "tyrell-malacia",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/tyrell-malacia/leistungsdaten/spieler/339340"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/339340",
+  "handled_at": null
+}

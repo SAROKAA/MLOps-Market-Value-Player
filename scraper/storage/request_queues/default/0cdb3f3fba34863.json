@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/413403",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/413403",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ezri-konsa/profil/spieler/413403",
+      "name": "Ezri",
+      "last_name": "Konsa",
+      "number": "#4",
+      "name_in_home_country": "Ezri Konsa Ngoyo",
+      "date_of_birth": "23/10/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,83 m",
+      "full_name": "Ezri Konsa Ngoyo",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "DR Congo"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/413403-1700651779.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "right",
+      "joined": "\n                            11/07/2019                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "18",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "ezri-konsa",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ezri-konsa/leistungsdaten/spieler/413403"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

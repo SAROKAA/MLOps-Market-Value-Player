@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1047256",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1047256",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/asher-agbinone/profil/spieler/1047256",
+      "name": "Asher",
+      "last_name": "Agbinone",
+      "number": "#64",
+      "name_in_home_country": "Asher Chris Ofega Agbinone",
+      "date_of_birth": "28/09/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,78 m",
+      "full_name": "Asher Chris Ofega Agbinone",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/16ninetytwo-sports-management/beraterfirma/berater/14004",
+        "name": "16NinetyTwo"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1047256-1736153289.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace-u21/startseite/verein/6945"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "asher-agbinone",
+      "current_market_value": "€75k",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/asher-agbinone/leistungsdaten/spieler/1047256"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

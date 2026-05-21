@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/423744",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/423744",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/billy-gilmour/profil/spieler/423744",
+      "name": "Billy",
+      "last_name": "Gilmour",
+      "number": "#6",
+      "name_in_home_country": "Billy Clifford Gilmour",
+      "date_of_birth": "11/06/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Scotland",
+        "city": "Irvine  "
+      },
+      "height": "1,70 m",
+      "full_name": "Billy Clifford Gilmour",
+      "citizenship": "Scotland",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/423744-1701544195.jpg?lm=1",
+      "current_club": {
+        "href": "/ssc-napoli/startseite/verein/6195"
+      },
+      "foot": "right",
+      "joined": "\n                            30/08/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "45",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "billy-gilmour",
+      "current_market_value": "€20.00m",
+      "market_value_last_update": "Last update: 23/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/billy-gilmour/leistungsdaten/spieler/423744"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/423744",
+  "handled_at": null
+}

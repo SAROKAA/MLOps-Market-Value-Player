@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/741238",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/741238",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/omari-hutchinson/profil/spieler/741238",
+      "name": "Omari",
+      "last_name": "Hutchinson",
+      "number": "#21",
+      "name_in_home_country": "Omari Elijah Giraud-Hutchinson",
+      "date_of_birth": "30/10/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Redhill  "
+      },
+      "height": "1,74 m",
+      "full_name": "Omari Elijah Giraud-Hutchinson",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/bertolucci-sports/beraterfirma/berater/724",
+        "name": "Bertolucci Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/741238-1770845529.jpg?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "left",
+      "joined": "\n                            16/08/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "national_team": {
+        "country": "England",
+        "href": "/england-u21/startseite/verein/9565"
+      },
+      "international_caps": "10",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "omari-hutchinson",
+      "current_market_value": "€30.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/omari-hutchinson/leistungsdaten/spieler/741238"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

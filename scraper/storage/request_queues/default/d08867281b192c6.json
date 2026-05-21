@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/470607",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/470607",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/brennan-johnson/profil/spieler/470607",
+      "name": "Brennan",
+      "last_name": "Johnson",
+      "number": "#11",
+      "name_in_home_country": "Brennan Price Johnson",
+      "date_of_birth": "23/05/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Nottingham  "
+      },
+      "height": "1,86 m",
+      "full_name": "Brennan Price Johnson",
+      "citizenship": "Wales",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/470607-1692959021.jpg?lm=1",
+      "current_club": {
+        "href": "/crystal-palace/startseite/verein/873"
+      },
+      "foot": "right",
+      "joined": "\n                            02/01/2026                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "44",
+      "international_goals": "7",
+      "social_media": [],
+      "code": "brennan-johnson",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/brennan-johnson/leistungsdaten/spieler/470607"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

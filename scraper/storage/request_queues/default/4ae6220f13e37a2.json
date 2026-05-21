@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/401320",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/401320",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dara-oshea/profil/spieler/401320",
+      "name": "Dara",
+      "last_name": "O'Shea",
+      "number": "#26",
+      "name_in_home_country": "Dara Joseph O'Shea",
+      "date_of_birth": "04/03/1999",
+      "age": "27",
+      "place_of_birth": {
+        "country": "Ireland",
+        "city": "Dublin  "
+      },
+      "height": "1,89 m",
+      "full_name": "Dara Joseph O'Shea",
+      "citizenship": "Ireland",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/401320-1632909442.jpg?lm=1",
+      "current_club": {
+        "href": "/ipswich-town/startseite/verein/677"
+      },
+      "foot": "right",
+      "joined": "\n                            25/08/2024                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland/startseite/verein/3509"
+      },
+      "international_caps": "44",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "dara-oshea",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dara-oshea/leistungsdaten/spieler/401320"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/340456",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/340456",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/noussair-mazraoui/profil/spieler/340456",
+      "name": "Noussair",
+      "last_name": "Mazraoui",
+      "number": "#3",
+      "name_in_home_country": "نصير مزراوي",
+      "date_of_birth": "14/11/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Leiderdorp  "
+      },
+      "height": "1,83 m",
+      "full_name": "نصير مزراوي",
+      "citizenship": "Morocco",
+      "additional_citizenships": [
+        "Netherlands"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/rafaela-pimenta/beraterfirma/berater/282",
+        "name": "Rafaela Pimenta"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/340456-1700207898.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "right",
+      "joined": "\n                            13/08/2024                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "43",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "noussair-mazraoui",
+      "current_market_value": "€20.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/noussair-mazraoui/leistungsdaten/spieler/340456"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

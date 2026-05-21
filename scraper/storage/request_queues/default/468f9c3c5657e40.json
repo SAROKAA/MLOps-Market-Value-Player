@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/591844",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/591844",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/joe-gauci/profil/spieler/591844",
+      "name": "Joe",
+      "last_name": "Gauci",
+      "number": "#46",
+      "name_in_home_country": "Joe Anthony Gauci",
+      "date_of_birth": "04/07/2000",
+      "age": "25",
+      "place_of_birth": {
+        "country": "Australia",
+        "city": "Adelaide, South Australia  "
+      },
+      "height": "1,94 m",
+      "full_name": "Joe Anthony Gauci",
+      "citizenship": "Australia",
+      "additional_citizenships": [
+        "New Zealand"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/sci-nikola-mandic/beraterfirma/berater/5597",
+        "name": "Nikola Mandic"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/591844-1703230842.jpg?lm=1",
+      "current_club": {
+        "href": "/port-vale-fc/startseite/verein/1211"
+      },
+      "foot": "right",
+      "joined": "\n                            11/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Australia",
+        "href": "/australien/startseite/verein/3433"
+      },
+      "international_caps": "8",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "joe-gauci",
+      "current_market_value": "€1.20m",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/joe-gauci/leistungsdaten/spieler/591844"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

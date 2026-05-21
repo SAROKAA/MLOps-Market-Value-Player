@@ -1,0 +1,54 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/867706",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/867706",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kobei-moore/profil/spieler/867706",
+      "name": "Kobei",
+      "last_name": "Moore",
+      "number": "#30",
+      "name_in_home_country": null,
+      "date_of_birth": "30/11/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Birmingham  "
+      },
+      "height": "1,85 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/ymu-management-ltd-/beraterfirma/berater/641",
+        "name": "YMU Management Ltd."
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/867706-1746642464.jpg?lm=1",
+      "current_club": {
+        "href": "/dungannon-swifts-fc/startseite/verein/21515"
+      },
+      "foot": null,
+      "joined": "\n                            28/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "kobei-moore",
+      "current_market_value": "€50k",
+      "market_value_last_update": "Last update: 11/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kobei-moore/leistungsdaten/spieler/867706"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

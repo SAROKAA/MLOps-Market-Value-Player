@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/985544",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/985544",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ben-broggio/profil/spieler/985544",
+      "name": "Ben",
+      "last_name": "Broggio",
+      "number": "#11",
+      "name_in_home_country": "Benjamin David Broggio",
+      "date_of_birth": "29/01/2007",
+      "age": "19",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,81 m",
+      "full_name": "Benjamin David Broggio",
+      "citizenship": "England",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/louie-anthony-sports-limited/beraterfirma/berater/11937",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/985544-1746642506.jpg?lm=1",
+      "current_club": {
+        "href": "/falkirk-fc/startseite/verein/1191"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "3",
+      "international_goals": "1",
+      "code": "ben-broggio",
+      "current_market_value": "€250k",
+      "market_value_last_update": "Last update: 05/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ben-broggio/leistungsdaten/spieler/985544"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

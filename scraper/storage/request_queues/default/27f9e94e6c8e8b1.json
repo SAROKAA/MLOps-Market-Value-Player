@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/184528",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/184528",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/emil-krafth/profil/spieler/184528",
+      "name": "Emil",
+      "last_name": "Krafth",
+      "number": "#17",
+      "name_in_home_country": "Emil Henry ­Kristoffer Krafth",
+      "date_of_birth": "02/08/1994",
+      "age": "31",
+      "place_of_birth": {
+        "country": "Sweden",
+        "city": "Ljungby  "
+      },
+      "height": "1,84 m",
+      "full_name": "Emil Henry ­Kristoffer Krafth",
+      "citizenship": "Sweden",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/global-soccer-management/beraterfirma/berater/786",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/184528-1674210829.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united/startseite/verein/762"
+      },
+      "foot": "right",
+      "joined": "\n                            08/08/2019                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "Sweden",
+        "href": "/schweden/startseite/verein/3557"
+      },
+      "international_caps": "52",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "emil-krafth",
+      "current_market_value": "€1.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/emil-krafth/leistungsdaten/spieler/184528"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/184528",
+  "handled_at": null
+}

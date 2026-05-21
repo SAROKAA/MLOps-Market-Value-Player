@@ -1,0 +1,54 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1122027",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1122027",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jayden-moore/profil/spieler/1122027",
+      "name": "Jayden",
+      "last_name": "Moore",
+      "number": null,
+      "name_in_home_country": null,
+      "date_of_birth": "12/12/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,93 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/louie-anthony-sports-limited/beraterfirma/berater/11937",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+      "current_club": {
+        "href": "/eastleigh-fc/startseite/verein/10391"
+      },
+      "foot": "right",
+      "joined": "\n                            23/03/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "jayden-moore",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jayden-moore/leistungsdaten/spieler/1122027"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

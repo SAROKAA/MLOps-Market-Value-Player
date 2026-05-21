@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1047342",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1047342",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/maeson-king/profil/spieler/1047342",
+      "name": "Maeson",
+      "last_name": "King",
+      "number": "#74",
+      "name_in_home_country": "Maeson Bradley King",
+      "date_of_birth": "09/09/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Basildon  "
+      },
+      "height": null,
+      "full_name": "Maeson Bradley King",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1047342-1746692235.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur-u21/startseite/verein/9254"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "maeson-king",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/maeson-king/leistungsdaten/spieler/1047342"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1047342",
+  "handled_at": null
+}

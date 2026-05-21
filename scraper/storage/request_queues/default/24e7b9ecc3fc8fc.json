@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/348623",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/348623",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mason-holgate/profil/spieler/348623",
+      "name": "Mason",
+      "last_name": "Holgate",
+      "number": "#3",
+      "name_in_home_country": "Mason Anthony Holgate",
+      "date_of_birth": "22/10/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Doncaster  "
+      },
+      "height": "1,87 m",
+      "full_name": "Mason Anthony Holgate",
+      "citizenship": "Jamaica",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/new-era-global-sports-management-limited/beraterfirma/berater/4603",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/348623-1762259928.jpg?lm=1",
+      "current_club": {
+        "href": "/al-sailiya-sc/startseite/verein/4630"
+      },
+      "foot": "right",
+      "joined": "\n                            10/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "national_team": {
+        "country": "Jamaica",
+        "href": "/jamaika/startseite/verein/3671"
+      },
+      "international_caps": "10",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "mason-holgate",
+      "current_market_value": "€2.00m",
+      "market_value_last_update": "Last update: 14/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mason-holgate/leistungsdaten/spieler/348623"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

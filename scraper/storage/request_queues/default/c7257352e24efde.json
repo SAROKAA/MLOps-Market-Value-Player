@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/72476",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/72476",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/bernd-leno/profil/spieler/72476",
+      "name": "Bernd",
+      "last_name": "Leno",
+      "number": "#1",
+      "name_in_home_country": null,
+      "date_of_birth": "04/03/1992",
+      "age": "34",
+      "place_of_birth": {
+        "country": "Germany",
+        "city": "Bietigheim-Bissingen  "
+      },
+      "height": "1,90 m",
+      "full_name": null,
+      "citizenship": "Germany",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/fair-sport-gmbh/beraterfirma/berater/141",
+        "name": "fair-sport GmbH"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/72476-1774470314.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "right",
+      "joined": "\n                            02/08/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Puma",
+      "international_caps": "9",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "bernd-leno",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/bernd-leno/leistungsdaten/spieler/72476"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

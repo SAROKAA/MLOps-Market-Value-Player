@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/386047",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/386047",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/axel-disasi/profil/spieler/386047",
+      "name": "Axel",
+      "last_name": "Disasi",
+      "number": "#4",
+      "name_in_home_country": null,
+      "date_of_birth": "11/03/1998",
+      "age": "28",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Gonesse  "
+      },
+      "height": "1,91 m",
+      "full_name": null,
+      "citizenship": "France",
+      "additional_citizenships": [
+        "DR Congo"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/21-corp/beraterfirma/berater/15367",
+        "name": "21 Corp"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/386047-1727785671.jpg?lm=1",
+      "current_club": {
+        "href": "/west-ham-united/startseite/verein/379"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "axel-disasi",
+      "current_market_value": "€15.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/axel-disasi/leistungsdaten/spieler/386047"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

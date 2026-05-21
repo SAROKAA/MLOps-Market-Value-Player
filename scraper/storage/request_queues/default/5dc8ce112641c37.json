@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/585550",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/585550",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/gavin-bazunu/profil/spieler/585550",
+      "name": "Gavin",
+      "last_name": "Bazunu",
+      "number": "#31",
+      "name_in_home_country": "Gavin Okeroghene Bazunu",
+      "date_of_birth": "20/02/2002",
+      "age": "24",
+      "place_of_birth": {
+        "country": "Ireland",
+        "city": "Dublin  "
+      },
+      "height": "1,88 m",
+      "full_name": "Gavin Okeroghene Bazunu",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/gest-eleven/beraterfirma/berater/4676",
+        "name": "Gest Eleven"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/585550-1655476121.jpg?lm=1",
+      "current_club": {
+        "href": "/stoke-city/startseite/verein/512"
+      },
+      "foot": "right",
+      "joined": "\n                            13/01/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland/startseite/verein/3509"
+      },
+      "international_caps": "22",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "gavin-bazunu",
+      "current_market_value": "€9.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/gavin-bazunu/leistungsdaten/spieler/585550"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

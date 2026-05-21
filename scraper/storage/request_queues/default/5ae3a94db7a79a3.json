@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/581675",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/581675",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/harvey-vale/profil/spieler/581675",
+      "name": "Harvey",
+      "last_name": "Vale",
+      "number": "#20",
+      "name_in_home_country": "Harvey James Vale",
+      "date_of_birth": "11/09/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Haywards Heath  "
+      },
+      "height": "1,81 m",
+      "full_name": "Harvey James Vale",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Right Midfield",
+      "player_agent": {
+        "href": "/louie-anthony-sports-limited/beraterfirma/berater/11937",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/581675-1650877370.jpg?lm=1",
+      "current_club": {
+        "href": "/queens-park-rangers/startseite/verein/1039"
+      },
+      "foot": "left",
+      "joined": "\n                            03/02/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland/startseite/verein/3509"
+      },
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "harvey-vale",
+      "current_market_value": "€1.50m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/harvey-vale/leistungsdaten/spieler/581675"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

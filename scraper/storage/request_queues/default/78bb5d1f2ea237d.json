@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1193867",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1193867",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/pedro-lima/profil/spieler/1193867",
+      "name": "",
+      "last_name": "Pedro Lima",
+      "number": "#17",
+      "name_in_home_country": null,
+      "date_of_birth": "01/07/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "Cabedelo  "
+      },
+      "height": "1,74 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/phsport/beraterfirma/berater/8087",
+        "name": "PHSPORT"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1193867-1710156658.jpg?lm=1",
+      "current_club": {
+        "href": "/wolverhampton-wanderers/startseite/verein/543"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "pedro-lima",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 22/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/pedro-lima/leistungsdaten/spieler/1193867"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

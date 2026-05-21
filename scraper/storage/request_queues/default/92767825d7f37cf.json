@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1082283",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1082283",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/max-hudson/profil/spieler/1082283",
+      "name": "Max",
+      "last_name": "Hudson",
+      "number": "#69",
+      "name_in_home_country": null,
+      "date_of_birth": "20/09/2007",
+      "age": "18",
+      "place_of_birth": {
+        "country": "Wales",
+        "city": "Wrexham  "
+      },
+      "height": "1,91 m",
+      "full_name": null,
+      "citizenship": "Wales",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1082283-1746640264.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-city-u18/startseite/verein/6930"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Wales",
+        "href": "/wales-u19/startseite/verein/26181"
+      },
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "max-hudson",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/max-hudson/leistungsdaten/spieler/1082283"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1082283",
+  "handled_at": null
+}

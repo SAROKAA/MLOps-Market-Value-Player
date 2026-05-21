@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/255788",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/255788",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/cameron-burgess/profil/spieler/255788",
+      "name": "Cameron",
+      "last_name": "Burgess",
+      "number": "#15",
+      "name_in_home_country": "Cameron Robert Burgess",
+      "date_of_birth": "21/10/1995",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Scotland",
+        "city": "Aberdeen  "
+      },
+      "height": "1,94 m",
+      "full_name": "Cameron Robert Burgess",
+      "citizenship": "Australia",
+      "additional_citizenships": [
+        "Scotland"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/murdock-sports-group/beraterfirma/berater/14555",
+        "name": "Murdock Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/255788-1664180001.jpg?lm=1",
+      "current_club": {
+        "href": "/swansea-city/startseite/verein/2288"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "25",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "cameron-burgess",
+      "current_market_value": "€1.80m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/cameron-burgess/leistungsdaten/spieler/255788"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

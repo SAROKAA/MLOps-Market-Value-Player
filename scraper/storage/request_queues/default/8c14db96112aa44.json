@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/163744",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/163744",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jack-stephens/profil/spieler/163744",
+      "name": "Jack",
+      "last_name": "Stephens",
+      "number": "#5",
+      "name_in_home_country": null,
+      "date_of_birth": "27/01/1994",
+      "age": "32",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Torpoint  "
+      },
+      "height": "1,85 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/163744-1720190433.jpg?lm=1",
+      "current_club": {
+        "href": "/southampton-fc/startseite/verein/180"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2013                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "8",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "jack-stephens",
+      "current_market_value": "€1.20m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jack-stephens/leistungsdaten/spieler/163744"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

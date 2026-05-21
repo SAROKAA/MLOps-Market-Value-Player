@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/683895",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/683895",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/emmanuel-agbadou/profil/spieler/683895",
+      "name": "Emmanuel",
+      "last_name": "Agbadou",
+      "number": "#12",
+      "name_in_home_country": "Emmanuel Elysee Djedje Agbadou Badobre",
+      "date_of_birth": "17/06/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Cote d'Ivoire",
+        "city": "Abidjan  "
+      },
+      "height": "1,92 m",
+      "full_name": "Emmanuel Elysee Djedje Agbadou Badobre",
+      "citizenship": "Cote d'Ivoire",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/aneke-players-management-group/beraterfirma/berater/2012",
+        "name": "Aneke/PMG "
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/683895-1770396716.jpg?lm=1",
+      "current_club": {
+        "href": "/besiktas-jk/startseite/verein/114"
+      },
+      "foot": "right",
+      "joined": "\n                            06/02/2026                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "20",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "emmanuel-agbadou",
+      "current_market_value": "€18.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/emmanuel-agbadou/leistungsdaten/spieler/683895"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

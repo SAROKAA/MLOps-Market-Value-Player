@@ -1,0 +1,55 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/349503",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/349503",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/conor-chaplin/profil/spieler/349503",
+      "name": "Conor",
+      "last_name": "Chaplin",
+      "number": "#36",
+      "name_in_home_country": "Conor Mark Chaplin",
+      "date_of_birth": "16/02/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Worthing  "
+      },
+      "height": "1,68 m",
+      "full_name": "Conor Mark Chaplin",
+      "citizenship": "England",
+      "position": "Attack - Second Striker",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/349503-1612349000.jpg?lm=1",
+      "current_club": {
+        "href": "/portsmouth-fc/startseite/verein/1020"
+      },
+      "foot": "left",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "social_media": [],
+      "code": "conor-chaplin",
+      "current_market_value": "€3.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/conor-chaplin/leistungsdaten/spieler/349503"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

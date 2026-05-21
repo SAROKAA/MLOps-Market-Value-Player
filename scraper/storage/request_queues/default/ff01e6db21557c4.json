@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/92572",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/92572",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/joel-ward/profil/spieler/92572",
+      "name": "Joel",
+      "last_name": "Ward",
+      "number": "#25",
+      "name_in_home_country": "Joel Edward Philip Ward",
+      "date_of_birth": "29/10/1989",
+      "age": "36",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Emsworth  "
+      },
+      "height": "1,86 m",
+      "full_name": "Joel Edward Philip Ward",
+      "citizenship": "England",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/avid-sports-amp-entertainment-group/beraterfirma/berater/4959",
+        "name": "Avid Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/92572-1760435739.jpeg?lm=1",
+      "current_club": {
+        "href": "/swansea-city/startseite/verein/2288"
+      },
+      "foot": "right",
+      "joined": "\n                            09/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "social_media": [],
+      "code": "joel-ward",
+      "current_market_value": "€300k",
+      "market_value_last_update": "Last update: 21/10/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/joel-ward/leistungsdaten/spieler/92572"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/92572",
+  "handled_at": null
+}

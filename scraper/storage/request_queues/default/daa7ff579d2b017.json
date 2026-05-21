@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/342385",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/342385",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/guido-rodriguez/profil/spieler/342385",
+      "name": "Guido",
+      "last_name": "Rodríguez",
+      "number": "#2",
+      "name_in_home_country": null,
+      "date_of_birth": "12/04/1994",
+      "age": "32",
+      "place_of_birth": {
+        "country": "Argentina",
+        "city": "Sáenz Peña  "
+      },
+      "height": "1,85 m",
+      "full_name": null,
+      "citizenship": "Argentina",
+      "additional_citizenships": [
+        "Italy"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/interplayers/beraterfirma/berater/5789",
+        "name": "Interplayers"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/342385-1668181269.jpg?lm=1",
+      "current_club": {
+        "href": "/valencia-cf/startseite/verein/1049"
+      },
+      "foot": "right",
+      "joined": "\n                            26/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "30",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "guido-rodriguez",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 16/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/guido-rodriguez/leistungsdaten/spieler/342385"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/680806",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/680806",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/samuel-edozie/profil/spieler/680806",
+      "name": "Samuel",
+      "last_name": "Edozie",
+      "number": "#23",
+      "name_in_home_country": "Samuel Ikechukwu Edozie",
+      "date_of_birth": "28/01/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,81 m",
+      "full_name": "Samuel Ikechukwu Edozie",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/golden-gate-group/beraterfirma/berater/6076",
+        "name": "Golden Gate Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/680806-1726822183.jpg?lm=1",
+      "current_club": {
+        "href": "/southampton-fc/startseite/verein/180"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "samuel-edozie",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/samuel-edozie/leistungsdaten/spieler/680806"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

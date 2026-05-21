@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/74960",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/74960",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/martin-dubravka/profil/spieler/74960",
+      "name": "Martin",
+      "last_name": "Dúbravka",
+      "number": "#1",
+      "name_in_home_country": null,
+      "date_of_birth": "15/01/1989",
+      "age": "37",
+      "place_of_birth": {
+        "country": "CSSR",
+        "city": "Žilina  "
+      },
+      "height": "1,91 m",
+      "full_name": null,
+      "citizenship": "Slovakia",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/eighteen-sixty-three/beraterfirma/berater/12524",
+        "name": "1863"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/74960-1700237195.jpg?lm=1",
+      "current_club": {
+        "href": "/burnley-fc/startseite/verein/1132"
+      },
+      "foot": "right",
+      "joined": "\n                            07/08/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "60",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "martin-dubravka",
+      "current_market_value": "€750k",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/martin-dubravka/leistungsdaten/spieler/74960"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/74960",
+  "handled_at": null
+}

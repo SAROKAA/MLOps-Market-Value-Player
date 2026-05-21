@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/74810",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/74810",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ben-mee/profil/spieler/74810",
+      "name": "Ben",
+      "last_name": "Mee",
+      "number": "#15",
+      "name_in_home_country": "Benjamin Thomas Mee",
+      "date_of_birth": "21/09/1989",
+      "age": "36",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Sale  "
+      },
+      "height": "1,80 m",
+      "full_name": "Benjamin Thomas Mee",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/stonemountain-management/beraterfirma/berater/3709",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/74810-1700647998.jpg?lm=1",
+      "current_club": {
+        "href": "/sheffield-united/startseite/verein/350"
+      },
+      "foot": "left",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "ben-mee",
+      "current_market_value": "€500k",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ben-mee/leistungsdaten/spieler/74810"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

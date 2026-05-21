@@ -1,0 +1,54 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/847579",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/847579",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/isaac-heath/profil/spieler/847579",
+      "name": "Isaac",
+      "last_name": "Heath",
+      "number": "#30",
+      "name_in_home_country": null,
+      "date_of_birth": "28/10/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Leeds  "
+      },
+      "height": "1,73 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/caa-base-ltd/beraterfirma/berater/674",
+        "name": "CAA Base Ltd"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/847579-1756755293.jpg?lm=1",
+      "current_club": {
+        "href": "/accrington-stanley/startseite/verein/3688"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "code": "isaac-heath",
+      "current_market_value": "€250k",
+      "market_value_last_update": "Last update: 15/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/isaac-heath/leistungsdaten/spieler/847579"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

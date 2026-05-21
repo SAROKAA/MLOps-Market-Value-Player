@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/513245",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/513245",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jesper-lindstrom/profil/spieler/513245",
+      "name": "Jesper",
+      "last_name": "Lindstrøm",
+      "number": "#19",
+      "name_in_home_country": "Jesper Grænge Lindstrøm",
+      "date_of_birth": "29/02/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Denmark",
+        "city": "Taastrup  "
+      },
+      "height": "1,82 m",
+      "full_name": "Jesper Grænge Lindstrøm",
+      "citizenship": "Denmark",
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/nordic-sports-group-aps/beraterfirma/berater/2440",
+        "name": "NSG ApS"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/513245-1663065433.jpg?lm=1",
+      "current_club": {
+        "href": "/vfl-wolfsburg/startseite/verein/82"
+      },
+      "foot": "right",
+      "joined": "\n                            23/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "18",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "jesper-lindstrom",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 20/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jesper-lindstrom/leistungsdaten/spieler/513245"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

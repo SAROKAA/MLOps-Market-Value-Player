@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/231572",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/231572",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/nelson-semedo/profil/spieler/231572",
+      "name": "Nélson",
+      "last_name": "Semedo",
+      "number": "#27",
+      "name_in_home_country": "Nélson Cabral Semedo",
+      "date_of_birth": "16/11/1993",
+      "age": "32",
+      "place_of_birth": {
+        "country": "Portugal",
+        "city": "Lisboa  "
+      },
+      "height": "1,77 m",
+      "full_name": "Nélson Cabral Semedo",
+      "citizenship": "Portugal",
+      "additional_citizenships": [
+        "Cape Verde"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/gestifute/beraterfirma/berater/413",
+        "name": "Gestifute"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/231572-1765459986.jpg?lm=1",
+      "current_club": {
+        "href": "/fenerbahce/startseite/verein/36"
+      },
+      "foot": "right",
+      "joined": "\n                            30/07/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "national_team": {
+        "country": "Portugal",
+        "href": "/portugal/startseite/verein/3300"
+      },
+      "international_caps": "48",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "nelson-semedo",
+      "current_market_value": "€7.00m",
+      "market_value_last_update": "Last update: 05/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/nelson-semedo/leistungsdaten/spieler/231572"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

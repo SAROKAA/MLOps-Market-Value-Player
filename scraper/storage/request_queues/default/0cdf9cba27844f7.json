@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/16306",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/16306",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/casemiro/profil/spieler/16306",
+      "name": "",
+      "last_name": "Casemiro",
+      "number": "#18",
+      "name_in_home_country": null,
+      "date_of_birth": "23/02/1992",
+      "age": "34",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "São José dos Campos  "
+      },
+      "height": "1,85 m",
+      "full_name": null,
+      "citizenship": "Brazil",
+      "additional_citizenships": [
+        "Spain"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/best-of-you/beraterfirma/berater/4312",
+        "name": "Best of You"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/16306-1699018876.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "right",
+      "joined": "\n                            22/08/2022                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "84",
+      "international_goals": "8",
+      "social_media": [],
+      "code": "casemiro",
+      "current_market_value": "€8.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/casemiro/leistungsdaten/spieler/16306"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/16306",
+  "handled_at": null
+}

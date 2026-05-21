@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/206746",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/206746",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/kenny-tete/profil/spieler/206746",
+      "name": "Kenny",
+      "last_name": "Tete",
+      "number": "#2",
+      "name_in_home_country": "Kenny Joelle Tete",
+      "date_of_birth": "09/10/1995",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Netherlands",
+        "city": "Amsterdam  "
+      },
+      "height": "1,80 m",
+      "full_name": "Kenny Joelle Tete",
+      "citizenship": "Netherlands",
+      "additional_citizenships": [
+        "Mozambique"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/hcm-sports-management/beraterfirma/berater/2252",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/206746-1746645948.jpg?lm=1",
+      "current_club": {
+        "href": "/fulham-fc/startseite/verein/931"
+      },
+      "foot": "right",
+      "joined": "\n                            10/09/2020                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "14",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "kenny-tete",
+      "current_market_value": "€11.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/kenny-tete/leistungsdaten/spieler/206746"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

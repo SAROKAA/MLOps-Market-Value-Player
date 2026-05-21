@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/120629",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/120629",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/alphonse-areola/profil/spieler/120629",
+      "name": "Alphonse",
+      "last_name": "Areola",
+      "number": "#23",
+      "name_in_home_country": "Alphonse Francis Areola",
+      "date_of_birth": "27/02/1993",
+      "age": "33",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Paris  "
+      },
+      "height": "1,95 m",
+      "full_name": "Alphonse Francis Areola",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Philippines"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/rafaela-pimenta/beraterfirma/berater/282",
+        "name": "Rafaela Pimenta"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/120629-1663243036.jpg?lm=1",
+      "current_club": {
+        "href": "/west-ham-united/startseite/verein/379"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Uhlsport",
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "alphonse-areola",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/alphonse-areola/leistungsdaten/spieler/120629"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

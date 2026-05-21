@@ -1,0 +1,65 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/940858",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/940858",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/leo-shahar/profil/spieler/940858",
+      "name": "Leo",
+      "last_name": "Shahar",
+      "number": "#61",
+      "name_in_home_country": null,
+      "date_of_birth": "18/03/2007",
+      "age": "19",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Wolverhampton  "
+      },
+      "height": null,
+      "full_name": null,
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Israel"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/940858-1746640379.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united-u21/startseite/verein/9253"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u19/startseite/verein/21340"
+      },
+      "international_caps": "7",
+      "international_goals": "0",
+      "code": "leo-shahar",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/leo-shahar/leistungsdaten/spieler/940858"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/940858",
+  "handled_at": null
+}

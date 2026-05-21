@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/741228",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/741228",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/joe-obrien-whitmarsh/profil/spieler/741228",
+      "name": "Joe",
+      "last_name": "O'Brien-Whitmarsh",
+      "number": null,
+      "name_in_home_country": "Joseph Paul O'Brien-Whitmarsh",
+      "date_of_birth": "11/05/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Ireland",
+        "city": "Cork  "
+      },
+      "height": null,
+      "full_name": "Joseph Paul O'Brien-Whitmarsh",
+      "citizenship": "Ireland",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/integral-sports-management/beraterfirma/berater/9053",
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1",
+      "current_club": {
+        "href": "/southampton-fc-u21/startseite/verein/36546"
+      },
+      "foot": null,
+      "joined": "\n                            12/01/2024                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland-u21/startseite/verein/21103"
+      },
+      "international_caps": "4",
+      "international_goals": "0",
+      "code": "joe-obrien-whitmarsh",
+      "current_market_value": "€200k",
+      "market_value_last_update": "Last update: 17/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/joe-obrien-whitmarsh/leistungsdaten/spieler/741228"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

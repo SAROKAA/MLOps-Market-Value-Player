@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/431755",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/431755",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/dejan-kulusevski/profil/spieler/431755",
+      "name": "Dejan",
+      "last_name": "Kulusevski",
+      "number": "#21",
+      "name_in_home_country": "Дејан Кулушевски",
+      "date_of_birth": "25/04/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Sweden",
+        "city": "Stockholm  "
+      },
+      "height": "1,86 m",
+      "full_name": "Дејан Кулушевски",
+      "citizenship": "Sweden",
+      "additional_citizenships": [
+        "North Macedonia"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/world-soccer-agency/beraterfirma/berater/529",
+        "name": "World Soccer Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/431755-1684943454.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "45",
+      "international_goals": "5",
+      "social_media": [],
+      "code": "dejan-kulusevski",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/dejan-kulusevski/leistungsdaten/spieler/431755"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/431755",
+  "handled_at": null
+}

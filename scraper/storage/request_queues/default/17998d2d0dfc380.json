@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/471690",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/471690",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/max-aarons/profil/spieler/471690",
+      "name": "Max",
+      "last_name": "Aarons",
+      "number": "#3",
+      "name_in_home_country": "Maximilian James Aarons",
+      "date_of_birth": "04/01/2000",
+      "age": "26",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,77 m",
+      "full_name": "Maximilian James Aarons",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/roof/beraterfirma/berater/2295",
+        "name": "ROOF"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/471690-1736520346.jpg?lm=1",
+      "current_club": {
+        "href": "/rangers-fc/startseite/verein/124"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "27",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "max-aarons",
+      "current_market_value": "€4.00m",
+      "market_value_last_update": "Last update: 10/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/max-aarons/leistungsdaten/spieler/471690"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/471690",
+  "handled_at": null
+}

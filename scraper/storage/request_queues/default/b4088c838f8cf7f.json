@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/654982",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/654982",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/bilal-el-khannouss/profil/spieler/654982",
+      "name": "Bilal",
+      "last_name": "El Khannouss",
+      "number": "#11",
+      "name_in_home_country": "بلال الخنوس",
+      "date_of_birth": "10/05/2004",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Belgium",
+        "city": "Strombeek-Bever  "
+      },
+      "height": "1,80 m",
+      "full_name": "بلال الخنوس",
+      "citizenship": "Morocco",
+      "additional_citizenships": [
+        "Belgium"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/stirr-associates/beraterfirma/berater/4807",
+        "name": "Stirr Associates"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/654982-1714038053.png?lm=1",
+      "current_club": {
+        "href": "/vfb-stuttgart/startseite/verein/79"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "35",
+      "international_goals": "3",
+      "social_media": [],
+      "code": "bilal-el-khannouss",
+      "current_market_value": "€32.00m",
+      "market_value_last_update": "Last update: 19/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/bilal-el-khannouss/leistungsdaten/spieler/654982"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/392591",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/392591",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/chiedozie-ogbene/profil/spieler/392591",
+      "name": "Chiedozie",
+      "last_name": "Ogbene",
+      "number": "#19",
+      "name_in_home_country": "Chiedozie Somkelechukwu Ogbene",
+      "date_of_birth": "01/05/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Nigeria",
+        "city": "Lagos  "
+      },
+      "height": "1,81 m",
+      "full_name": "Chiedozie Somkelechukwu Ogbene",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "Nigeria"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/seg-sports-entertainment-group/beraterfirma/berater/586",
+        "name": "SEG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/392591-1700737518.jpg?lm=1",
+      "current_club": {
+        "href": "/sheffield-united/startseite/verein/350"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "33",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "chiedozie-ogbene",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/chiedozie-ogbene/leistungsdaten/spieler/392591"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

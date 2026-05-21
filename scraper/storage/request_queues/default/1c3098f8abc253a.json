@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/745716",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/745716",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/killian-cahill/profil/spieler/745716",
+      "name": "Killian",
+      "last_name": "Cahill",
+      "number": "#33",
+      "name_in_home_country": null,
+      "date_of_birth": "03/11/2003",
+      "age": "22",
+      "place_of_birth": {
+        "country": "Ireland",
+        "city": "Skyrne, Meath  "
+      },
+      "height": "1,82 m",
+      "full_name": null,
+      "citizenship": "Ireland",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/745716-1724484504.jpg?lm=1",
+      "current_club": {
+        "href": "/leyton-orient/startseite/verein/1150"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "code": "killian-cahill",
+      "current_market_value": "€175k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/killian-cahill/leistungsdaten/spieler/745716"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

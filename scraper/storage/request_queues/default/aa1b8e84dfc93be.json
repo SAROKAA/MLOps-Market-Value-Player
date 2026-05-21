@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/890721",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/890721",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/myles-lewis-skelly/profil/spieler/890721",
+      "name": "Myles",
+      "last_name": "Lewis-Skelly",
+      "number": "#49",
+      "name_in_home_country": "Myles Anthony Lewis-Skelly",
+      "date_of_birth": "26/09/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,78 m",
+      "full_name": "Myles Anthony Lewis-Skelly",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Barbados"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/890721-1758053582.jpg?lm=1",
+      "current_club": {
+        "href": "/arsenal-fc/startseite/verein/11"
+      },
+      "foot": "left",
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "myles-lewis-skelly",
+      "current_market_value": "€35.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/myles-lewis-skelly/leistungsdaten/spieler/890721"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/890721",
+  "handled_at": null
+}

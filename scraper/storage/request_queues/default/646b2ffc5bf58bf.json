@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/922698",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/922698",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ishe-samuels-smith/profil/spieler/922698",
+      "name": "Ishé",
+      "last_name": "Samuels-Smith",
+      "number": "#16",
+      "name_in_home_country": "Ishe Barrington Samuels-Smith",
+      "date_of_birth": "05/06/2006",
+      "age": "19",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Manchester  "
+      },
+      "height": "1,86 m",
+      "full_name": "Ishe Barrington Samuels-Smith",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/fullninety-sports-management/beraterfirma/berater/3518",
+        "name": "FullNinety"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/922698-1688829684.jpg?lm=1",
+      "current_club": {
+        "href": "/swansea-city/startseite/verein/2288"
+      },
+      "foot": "left",
+      "joined": "\n                            02/09/2025                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u20/startseite/verein/22907"
+      },
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "ishe-samuels-smith",
+      "current_market_value": "€700k",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ishe-samuels-smith/leistungsdaten/spieler/922698"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

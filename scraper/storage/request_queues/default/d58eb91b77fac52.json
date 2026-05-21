@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/399776",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/399776",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/pau-torres/profil/spieler/399776",
+      "name": "Pau",
+      "last_name": "Torres",
+      "number": "#14",
+      "name_in_home_country": "Pau Francisco Torres",
+      "date_of_birth": "16/01/1997",
+      "age": "29",
+      "place_of_birth": {
+        "country": "Spain",
+        "city": "Villarreal  "
+      },
+      "height": "1,92 m",
+      "full_name": "Pau Francisco Torres",
+      "citizenship": "Spain",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/interstardeporte/beraterfirma/berater/2146",
+        "name": "InterStarDeporte"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/399776-1765899002.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "left",
+      "joined": "\n                            12/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "24",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "pau-torres",
+      "current_market_value": "€22.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/pau-torres/leistungsdaten/spieler/399776"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

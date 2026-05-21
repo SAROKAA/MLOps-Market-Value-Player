@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/490606",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/490606",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/lucas-bergstrom/profil/spieler/490606",
+      "name": "Lucas",
+      "last_name": "Bergström",
+      "number": "#13",
+      "name_in_home_country": "Lucas Carl Edvard Bergström",
+      "date_of_birth": "05/09/2002",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Finland",
+        "city": "Pargas  "
+      },
+      "height": "2,05 m",
+      "full_name": "Lucas Carl Edvard Bergström",
+      "citizenship": "Finland",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/490606-1639405918.jpg?lm=1",
+      "current_club": {
+        "href": "/rcd-mallorca/startseite/verein/237"
+      },
+      "foot": "right",
+      "joined": "\n                            15/07/2025                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Finland",
+        "href": "/finnland/startseite/verein/3443"
+      },
+      "international_caps": "1",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "lucas-bergstrom",
+      "current_market_value": "€1.50m",
+      "market_value_last_update": "Last update: 12/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/lucas-bergstrom/leistungsdaten/spieler/490606"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

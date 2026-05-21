@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/336077",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/336077",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/altay-bayindir/profil/spieler/336077",
+      "name": "Altay",
+      "last_name": "Bayındır",
+      "number": "#1",
+      "name_in_home_country": null,
+      "date_of_birth": "14/04/1998",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Türkiye",
+        "city": "Bursa  "
+      },
+      "height": "1,98 m",
+      "full_name": null,
+      "citizenship": "Türkiye",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/sefa-seyrek/beraterfirma/berater/9573",
+        "name": "SEFA SEYREK"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/336077-1699471821.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-united/startseite/verein/985"
+      },
+      "foot": "right",
+      "joined": "\n                            01/09/2023                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "11",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "altay-bayindir",
+      "current_market_value": "€7.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/altay-bayindir/leistungsdaten/spieler/336077"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/336077",
+  "handled_at": null
+}

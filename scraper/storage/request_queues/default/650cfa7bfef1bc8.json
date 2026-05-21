@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/834397",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/834397",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/mike-penders/profil/spieler/834397",
+      "name": "Mike",
+      "last_name": "Penders",
+      "number": "#39",
+      "name_in_home_country": "Mike Louis Penders",
+      "date_of_birth": "31/07/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Belgium",
+        "city": "Maasmechelen  "
+      },
+      "height": "2,00 m",
+      "full_name": "Mike Louis Penders",
+      "citizenship": "Belgium",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/martin-riha/beraterfirma/berater/2893",
+        "name": "MARTIN RIHA"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/834397-1714036498.png?lm=1",
+      "current_club": {
+        "href": "/rc-strasbourg-alsace/startseite/verein/667"
+      },
+      "foot": "left",
+      "joined": "\n                            28/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "code": "mike-penders",
+      "current_market_value": "€22.00m",
+      "market_value_last_update": "Last update: 27/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/mike-penders/leistungsdaten/spieler/834397"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

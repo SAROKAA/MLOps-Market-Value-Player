@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/295313",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/295313",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/taiwo-awoniyi/profil/spieler/295313",
+      "name": "Taiwo",
+      "last_name": "Awoniyi",
+      "number": "#9",
+      "name_in_home_country": "Taiwo Michael Awoniyi",
+      "date_of_birth": "12/08/1997",
+      "age": "28",
+      "place_of_birth": {
+        "country": "Nigeria",
+        "city": "Ilorin  "
+      },
+      "height": "1,83 m",
+      "full_name": "Taiwo Michael Awoniyi",
+      "citizenship": "Nigeria",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/roof/beraterfirma/berater/2295",
+        "name": "ROOF"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/295313-1774469214.jpg?lm=1",
+      "current_club": {
+        "href": "/nottingham-forest/startseite/verein/703"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "10",
+      "international_goals": "2",
+      "social_media": [],
+      "code": "taiwo-awoniyi",
+      "current_market_value": "€9.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/taiwo-awoniyi/leistungsdaten/spieler/295313"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

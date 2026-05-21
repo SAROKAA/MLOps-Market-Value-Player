@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/292139",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/292139",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sammie-szmodics/profil/spieler/292139",
+      "name": "Sammie",
+      "last_name": "Szmodics",
+      "number": "#19",
+      "name_in_home_country": "Samuel Joseph Szmodics",
+      "date_of_birth": "24/09/1995",
+      "age": "30",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Colchester  "
+      },
+      "height": "1,68 m",
+      "full_name": "Samuel Joseph Szmodics",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "Hungary"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/292139-1708002780.jpg?lm=1",
+      "current_club": {
+        "href": "/derby-county/startseite/verein/22"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland/startseite/verein/3509"
+      },
+      "international_caps": "12",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "sammie-szmodics",
+      "current_market_value": "€5.50m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sammie-szmodics/leistungsdaten/spieler/292139"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

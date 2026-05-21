@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/983989",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/983989",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/facundo-buonanotte/profil/spieler/983989",
+      "name": "Facundo",
+      "last_name": "Buonanotte",
+      "number": "#40",
+      "name_in_home_country": "Facundo Valentín Buonanotte",
+      "date_of_birth": "23/12/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Argentina",
+        "city": "Pérez  "
+      },
+      "height": "1,74 m",
+      "full_name": "Facundo Valentín Buonanotte",
+      "citizenship": "Argentina",
+      "additional_citizenships": [
+        "Italy"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/kmbtm/beraterfirma/berater/15454",
+        "name": "KMB"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/983989-1682588141.jpg?lm=1",
+      "current_club": {
+        "href": "/leeds-united/startseite/verein/399"
+      },
+      "foot": "left",
+      "joined": "\n                            15/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "2",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "facundo-buonanotte",
+      "current_market_value": "€16.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/facundo-buonanotte/leistungsdaten/spieler/983989"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,66 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/743498",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/743498",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/wilson-odobert/profil/spieler/743498",
+      "name": "Wilson",
+      "last_name": "Odobert",
+      "number": "#28",
+      "name_in_home_country": "Wilson Serge Eric Odobert",
+      "date_of_birth": "28/11/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Meaux  "
+      },
+      "height": "1,82 m",
+      "full_name": "Wilson Serge Eric Odobert",
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Martinique"
+      ],
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/743498-1740605858.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            16/08/2024                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "national_team": {
+        "country": "France",
+        "href": "/frankreich-u21/startseite/verein/9323"
+      },
+      "international_caps": "16",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "wilson-odobert",
+      "current_market_value": "€20.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/wilson-odobert/leistungsdaten/spieler/743498"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/743498",
+  "handled_at": null
+}

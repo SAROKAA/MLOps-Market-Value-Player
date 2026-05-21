@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/578391",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/578391",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/rayan-ait-nouri/profil/spieler/578391",
+      "name": "Rayan",
+      "last_name": "Aït-Nouri",
+      "number": "#21",
+      "name_in_home_country": "ريان آيت نوري",
+      "date_of_birth": "06/06/2001",
+      "age": "24",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Montreuil  "
+      },
+      "height": "1,80 m",
+      "full_name": "ريان آيت نوري",
+      "citizenship": "Algeria",
+      "additional_citizenships": [
+        "France"
+      ],
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/578391-1761076429.jpg?lm=1",
+      "current_club": {
+        "href": "/manchester-city/startseite/verein/281"
+      },
+      "foot": "left",
+      "joined": "\n                            09/06/2025                        ",
+      "contract_expires": "30/06/2030",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "27",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "rayan-ait-nouri",
+      "current_market_value": "€40.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/rayan-ait-nouri/leistungsdaten/spieler/578391"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

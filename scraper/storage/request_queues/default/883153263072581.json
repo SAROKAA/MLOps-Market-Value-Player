@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1063329",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1063329",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/andres-garcia/profil/spieler/1063329",
+      "name": "Andrés",
+      "last_name": "García",
+      "number": "#16",
+      "name_in_home_country": "Andrés García Robledo",
+      "date_of_birth": "07/02/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Spain",
+        "city": "València  "
+      },
+      "height": "1,85 m",
+      "full_name": "Andrés García Robledo",
+      "citizenship": "Spain",
+      "position": "Defender - Right-Back",
+      "player_agent": {
+        "href": "/interstardeporte/beraterfirma/berater/2146",
+        "name": "InterStarDeporte"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1063329-1698880585.jpg?lm=1",
+      "current_club": {
+        "href": "/aston-villa/startseite/verein/405"
+      },
+      "foot": "right",
+      "joined": "\n                            21/01/2025                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Spain",
+        "href": "/spanien-u21/startseite/verein/9567"
+      },
+      "international_caps": "3",
+      "international_goals": "0",
+      "code": "andres-garcia",
+      "current_market_value": "€7.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/andres-garcia/leistungsdaten/spieler/1063329"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

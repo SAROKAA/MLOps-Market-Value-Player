@@ -1,0 +1,56 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/867688",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/867688",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jack-hinshelwood/profil/spieler/867688",
+      "name": "Jack",
+      "last_name": "Hinshelwood",
+      "number": "#13",
+      "name_in_home_country": "Jack Luca Hinshelwood",
+      "date_of_birth": "11/04/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Worthing  "
+      },
+      "height": "1,82 m",
+      "full_name": "Jack Luca Hinshelwood",
+      "citizenship": "England",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/867688-1698353957.jpg?lm=1",
+      "current_club": {
+        "href": "/brighton-amp-hove-albion/startseite/verein/1237"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "11",
+      "international_goals": "0",
+      "code": "jack-hinshelwood",
+      "current_market_value": "€22.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jack-hinshelwood/leistungsdaten/spieler/867688"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,64 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/458178",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/458178",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jack-taylor/profil/spieler/458178",
+      "name": "Jack",
+      "last_name": "Taylor",
+      "number": "#14",
+      "name_in_home_country": "Jack Henry Philip Taylor",
+      "date_of_birth": "23/06/1998",
+      "age": "27",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,85 m",
+      "full_name": "Jack Henry Philip Taylor",
+      "citizenship": "Ireland",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/458178-1706522764.jpg?lm=1",
+      "current_club": {
+        "href": "/ipswich-town/startseite/verein/677"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2023                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Ireland",
+        "href": "/irland/startseite/verein/3509"
+      },
+      "international_caps": "11",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "jack-taylor",
+      "current_market_value": "€3.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jack-taylor/leistungsdaten/spieler/458178"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

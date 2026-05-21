@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/796300",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/796300",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/alfie-dorrington/profil/spieler/796300",
+      "name": "Alfie",
+      "last_name": "Dorrington",
+      "number": "#24",
+      "name_in_home_country": "Alfie Terry Charlie Dorrington",
+      "date_of_birth": "20/04/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,92 m",
+      "full_name": "Alfie Terry Charlie Dorrington",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/796300-1705304096.jpg?lm=1",
+      "current_club": {
+        "href": "/salford-city/startseite/verein/34888"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "7",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "alfie-dorrington",
+      "current_market_value": "€600k",
+      "market_value_last_update": "Last update: 15/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/alfie-dorrington/leistungsdaten/spieler/796300"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/796300",
+  "handled_at": null
+}

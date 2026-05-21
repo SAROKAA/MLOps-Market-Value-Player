@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/186186",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/186186",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/bobby-de-cordova-reid/profil/spieler/186186",
+      "name": "Bobby",
+      "last_name": "De Cordova-Reid",
+      "number": "#14",
+      "name_in_home_country": "Bobby Armani De Cordova-Reid",
+      "date_of_birth": "02/02/1993",
+      "age": "33",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Bristol  "
+      },
+      "height": "1,70 m",
+      "full_name": "Bobby Armani De Cordova-Reid",
+      "citizenship": "Jamaica",
+      "additional_citizenships": [
+        "England"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "player_agent": {
+        "href": "/straight-ace-sports-management-ltd/beraterfirma/berater/5849",
+        "name": "Straight Ace Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/186186-1657802404.jpg?lm=1",
+      "current_club": {
+        "href": "/leicester-city/startseite/verein/1003"
+      },
+      "foot": "right",
+      "joined": "\n                            06/07/2024                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "45",
+      "international_goals": "7",
+      "social_media": [],
+      "code": "bobby-de-cordova-reid",
+      "current_market_value": "€1.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/bobby-de-cordova-reid/leistungsdaten/spieler/186186"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

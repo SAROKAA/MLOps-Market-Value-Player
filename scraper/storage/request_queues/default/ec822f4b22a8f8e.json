@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1145504",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1145504",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/aaron-anselmino/profil/spieler/1145504",
+      "name": "Aarón",
+      "last_name": "Anselmino",
+      "number": "#5",
+      "name_in_home_country": null,
+      "date_of_birth": "29/04/2005",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Argentina",
+        "city": "Bernardo Larroudé  "
+      },
+      "height": "1,86 m",
+      "full_name": null,
+      "citizenship": "Argentina",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/ml-sports/beraterfirma/berater/11711",
+        "name": "ML Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1145504-1766483410.jpg?lm=1",
+      "current_club": {
+        "href": "/rc-strasbourg-alsace/startseite/verein/667"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "aaron-anselmino",
+      "current_market_value": "€12.00m",
+      "market_value_last_update": "Last update: 19/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/aaron-anselmino/leistungsdaten/spieler/1145504"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

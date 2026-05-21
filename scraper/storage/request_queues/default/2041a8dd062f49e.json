@@ -1,0 +1,63 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/888639",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/888639",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ethan-wheatley/profil/spieler/888639",
+      "name": "Ethan",
+      "last_name": "Wheatley",
+      "number": "#27",
+      "name_in_home_country": "Ethan Joseph Wheatley",
+      "date_of_birth": "20/01/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Stockport  "
+      },
+      "height": "1,87 m",
+      "full_name": "Ethan Joseph Wheatley",
+      "citizenship": "England",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/omnisports/beraterfirma/berater/4434",
+        "name": "OmniSports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/888639-1714056048.jpg?lm=1",
+      "current_club": {
+        "href": "/bradford-city/startseite/verein/1027"
+      },
+      "foot": null,
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "31/05/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "England",
+        "href": "/england-u20/startseite/verein/22907"
+      },
+      "international_caps": "3",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "ethan-wheatley",
+      "current_market_value": "€250k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ethan-wheatley/leistungsdaten/spieler/888639"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/888639",
+  "handled_at": null
+}

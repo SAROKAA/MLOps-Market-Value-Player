@@ -1,0 +1,55 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/855890",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/855890",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jenson-metcalfe/profil/spieler/855890",
+      "name": "Jenson",
+      "last_name": "Metcalfe",
+      "number": "#21",
+      "name_in_home_country": null,
+      "date_of_birth": "06/09/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Wigan  "
+      },
+      "height": "1,83 m",
+      "full_name": null,
+      "citizenship": "England",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/855890-1759090935.jpg?lm=1",
+      "current_club": {
+        "href": "/bradford-city/startseite/verein/1027"
+      },
+      "foot": "right",
+      "joined": "\n                            24/07/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "social_media": [],
+      "code": "jenson-metcalfe",
+      "current_market_value": "€300k",
+      "market_value_last_update": "Last update: 12/05/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jenson-metcalfe/leistungsdaten/spieler/855890"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

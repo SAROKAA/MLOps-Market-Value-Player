@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/243028",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/243028",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/jan-bednarek/profil/spieler/243028",
+      "name": "Jan",
+      "last_name": "Bednarek",
+      "number": "#5",
+      "name_in_home_country": "Jan Kacper Bednarek",
+      "date_of_birth": "12/04/1996",
+      "age": "30",
+      "place_of_birth": {
+        "country": "Poland",
+        "city": "Słupca  "
+      },
+      "height": "1,89 m",
+      "full_name": "Jan Kacper Bednarek",
+      "citizenship": "Poland",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/fabryka-futbolu/beraterfirma/berater/969",
+        "name": "Fabryka Futbolu"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/243028-1709158468.jpg?lm=1",
+      "current_club": {
+        "href": "/fc-porto/startseite/verein/720"
+      },
+      "foot": "right",
+      "joined": "\n                            28/07/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "adidas",
+      "international_caps": "74",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "jan-bednarek",
+      "current_market_value": "€11.00m",
+      "market_value_last_update": "Last update: 18/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/jan-bednarek/leistungsdaten/spieler/243028"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

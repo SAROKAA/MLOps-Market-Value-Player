@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/234803",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/234803",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/andrew-robertson/profil/spieler/234803",
+      "name": "Andrew",
+      "last_name": "Robertson",
+      "number": "#26",
+      "name_in_home_country": "Andrew Henry Robertson",
+      "date_of_birth": "11/03/1994",
+      "age": "32",
+      "place_of_birth": {
+        "country": "Scotland",
+        "city": "Glasgow  "
+      },
+      "height": "1,78 m",
+      "full_name": "Andrew Henry Robertson",
+      "citizenship": "Scotland",
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/plgtm/beraterfirma/berater/5488",
+        "name": "PLG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/234803-1709147379.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc/startseite/verein/31"
+      },
+      "foot": "left",
+      "joined": "\n                            21/07/2017                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "92",
+      "international_goals": "4",
+      "social_media": [],
+      "code": "andrew-robertson",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 09/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/andrew-robertson/leistungsdaten/spieler/234803"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

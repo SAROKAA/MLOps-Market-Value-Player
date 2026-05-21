@@ -1,0 +1,58 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1133978",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1133978",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sekou-kone/profil/spieler/1133978",
+      "name": "Sékou",
+      "last_name": "Koné",
+      "number": "#80",
+      "name_in_home_country": null,
+      "date_of_birth": "03/02/2006",
+      "age": "20",
+      "place_of_birth": {
+        "country": null,
+        "city": null
+      },
+      "height": "1,76 m",
+      "full_name": null,
+      "citizenship": "Mali",
+      "position": "Midfield - Defensive Midfield",
+      "player_agent": {
+        "href": "/blackskill/beraterfirma/berater/7377",
+        "name": "BLACKSKILL"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1133978-1701445908.jpg?lm=1",
+      "current_club": {
+        "href": "/fc-lausanne-sport/startseite/verein/527"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "6",
+      "international_goals": "2",
+      "code": "sekou-kone",
+      "current_market_value": "€400k",
+      "market_value_last_update": "Last update: 17/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sekou-kone/leistungsdaten/spieler/1133978"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1133978",
+  "handled_at": null
+}

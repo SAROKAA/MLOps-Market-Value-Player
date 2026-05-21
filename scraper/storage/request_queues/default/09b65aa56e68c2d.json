@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/732165",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/732165",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ronnie-edwards/profil/spieler/732165",
+      "name": "Ronnie",
+      "last_name": "Edwards",
+      "number": "#37",
+      "name_in_home_country": "Ronnie Lee Edwards",
+      "date_of_birth": "28/03/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Harlow  "
+      },
+      "height": "1,85 m",
+      "full_name": "Ronnie Lee Edwards",
+      "citizenship": "England",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/two-touch-agency/beraterfirma/berater/7069",
+        "name": "Two Touch Agency"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/732165-1641462138.jpg?lm=1",
+      "current_club": {
+        "href": "/queens-park-rangers/startseite/verein/1039"
+      },
+      "foot": "right",
+      "joined": "\n                            09/01/2026                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Skechers",
+      "national_team": {
+        "country": "England",
+        "href": "/england-u21/startseite/verein/9565"
+      },
+      "international_caps": "2",
+      "international_goals": "0",
+      "code": "ronnie-edwards",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ronnie-edwards/leistungsdaten/spieler/732165"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

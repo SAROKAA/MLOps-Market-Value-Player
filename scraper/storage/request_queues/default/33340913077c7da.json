@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/404842",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/404842",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/vitaliy-mykolenko/profil/spieler/404842",
+      "name": "Vitaliy",
+      "last_name": "Mykolenko",
+      "number": "#16",
+      "name_in_home_country": "Миколенко Віталій Сергійович",
+      "date_of_birth": "29/05/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "Ukraine",
+        "city": "Cherkasy  "
+      },
+      "height": "1,80 m",
+      "full_name": "Миколенко Віталій Сергійович",
+      "citizenship": "Ukraine",
+      "position": "Defender - Left-Back",
+      "player_agent": {
+        "href": "/prostar/beraterfirma/berater/3703",
+        "name": "ProStar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/404842-1708012303.jpg?lm=1",
+      "current_club": {
+        "href": "/everton-fc/startseite/verein/29"
+      },
+      "foot": "left",
+      "joined": "\n                            01/01/2022                        ",
+      "contract_expires": "30/06/2027",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "52",
+      "international_goals": "1",
+      "social_media": [],
+      "code": "vitaliy-mykolenko",
+      "current_market_value": "€25.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/vitaliy-mykolenko/leistungsdaten/spieler/404842"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

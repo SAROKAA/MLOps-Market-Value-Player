@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/428016",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/428016",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/brandon-austin/profil/spieler/428016",
+      "name": "Brandon",
+      "last_name": "Austin",
+      "number": "#40",
+      "name_in_home_country": "Brandon Anthony Austin",
+      "date_of_birth": "08/01/1999",
+      "age": "27",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Hemel Hempstead  "
+      },
+      "height": "1,88 m",
+      "full_name": "Brandon Anthony Austin",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "United States"
+      ],
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/428016-1737735261.jpg?lm=1",
+      "current_club": {
+        "href": "/tottenham-hotspur/startseite/verein/148"
+      },
+      "foot": "right",
+      "joined": "\n                            01/08/2021                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Under Armour",
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "brandon-austin",
+      "current_market_value": "€500k",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/brandon-austin/leistungsdaten/spieler/428016"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

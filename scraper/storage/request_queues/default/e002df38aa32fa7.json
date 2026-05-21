@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/245625",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/245625",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/alex-palmer/profil/spieler/245625",
+      "name": "Alex",
+      "last_name": "Palmer",
+      "number": "#1",
+      "name_in_home_country": "Alexander Palmer",
+      "date_of_birth": "10/08/1996",
+      "age": "29",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Kidderminster  "
+      },
+      "height": "1,91 m",
+      "full_name": "Alexander Palmer",
+      "citizenship": "England",
+      "position": "Goalkeeper",
+      "player_agent": {
+        "href": null,
+        "name": null
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/245625-1632908899.jpg?lm=1",
+      "current_club": {
+        "href": "/ipswich-town/startseite/verein/677"
+      },
+      "foot": "right",
+      "joined": "\n                            03/02/2025                        ",
+      "contract_expires": "30/06/2028",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "4",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "alex-palmer",
+      "current_market_value": "€1.00m",
+      "market_value_last_update": "Last update: 03/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/alex-palmer/leistungsdaten/spieler/245625"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

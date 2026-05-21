@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1086375",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1086375",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/gustavo-nunes/profil/spieler/1086375",
+      "name": "Gustavo",
+      "last_name": "Nunes",
+      "number": "#18",
+      "name_in_home_country": "Gustavo Nunes Fernandes Gomes",
+      "date_of_birth": "20/11/2005",
+      "age": "20",
+      "place_of_birth": {
+        "country": "Brazil",
+        "city": "São Vicente do Sul  "
+      },
+      "height": "1,73 m",
+      "full_name": "Gustavo Nunes Fernandes Gomes",
+      "citizenship": "Brazil",
+      "position": "Attack - Left Winger",
+      "player_agent": {
+        "href": "/talents-sports/beraterfirma/berater/9464",
+        "name": "Talents Sports"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1086375-1717523011.jpg?lm=1",
+      "current_club": {
+        "href": "/swansea-city/startseite/verein/2288"
+      },
+      "foot": "right",
+      "joined": "\n                            22/01/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "gustavo-nunes",
+      "current_market_value": "€10.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/gustavo-nunes/leistungsdaten/spieler/1086375"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

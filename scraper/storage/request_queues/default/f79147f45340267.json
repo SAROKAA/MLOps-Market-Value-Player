@@ -1,0 +1,61 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/622380",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/622380",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/cesare-casadei/profil/spieler/622380",
+      "name": "Cesare",
+      "last_name": "Casadei",
+      "number": "#22",
+      "name_in_home_country": null,
+      "date_of_birth": "10/01/2003",
+      "age": "23",
+      "place_of_birth": {
+        "country": "Italy",
+        "city": "Ravenna  "
+      },
+      "height": "1,92 m",
+      "full_name": null,
+      "citizenship": "Italy",
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/lian-sports-group/beraterfirma/berater/13",
+        "name": "LIAN Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/622380-1692967622.jpg?lm=1",
+      "current_club": {
+        "href": "/torino-fc/startseite/verein/416"
+      },
+      "foot": "right",
+      "joined": "\n                            02/02/2025                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "national_team": {
+        "country": "Italy",
+        "href": "/italien/startseite/verein/3376"
+      },
+      "international_caps": "0",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "cesare-casadei",
+      "current_market_value": "€14.00m",
+      "market_value_last_update": "Last update: 23/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/cesare-casadei/leistungsdaten/spieler/622380"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

@@ -1,0 +1,57 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/709767",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/709767",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ji-soo-kim/profil/spieler/709767",
+      "name": "Ji-soo",
+      "last_name": "Kim",
+      "number": "#5",
+      "name_in_home_country": "김지수",
+      "date_of_birth": "24/12/2004",
+      "age": "21",
+      "place_of_birth": {
+        "country": "Korea, South",
+        "city": "Bucheon, Gyeonggi  "
+      },
+      "height": "1,92 m",
+      "full_name": "김지수",
+      "citizenship": "Korea, South",
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/proeleven-s-a-/beraterfirma/berater/847",
+        "name": "Proeleven S.A."
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/709767-1754511861.jpg?lm=1",
+      "current_club": {
+        "href": "/1-fc-kaiserslautern/startseite/verein/2"
+      },
+      "foot": "both",
+      "joined": "\n                            22/07/2025                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "5",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "ji-soo-kim",
+      "current_market_value": "€2.00m",
+      "market_value_last_update": "Last update: 16/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ji-soo-kim/leistungsdaten/spieler/709767"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

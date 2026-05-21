@@ -1,0 +1,60 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/357119",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/357119",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/ibrahima-konate/profil/spieler/357119",
+      "name": "Ibrahima",
+      "last_name": "Konaté",
+      "number": "#5",
+      "name_in_home_country": null,
+      "date_of_birth": "25/05/1999",
+      "age": "26",
+      "place_of_birth": {
+        "country": "France",
+        "city": "Paris  "
+      },
+      "height": "1,94 m",
+      "full_name": null,
+      "citizenship": "France",
+      "additional_citizenships": [
+        "Mali"
+      ],
+      "position": "Defender - Centre-Back",
+      "player_agent": {
+        "href": "/caa-stellar/beraterfirma/berater/190",
+        "name": "CAA Stellar"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/357119-1669190550.jpg?lm=1",
+      "current_club": {
+        "href": "/liverpool-fc/startseite/verein/31"
+      },
+      "foot": "right",
+      "joined": "\n                            01/07/2021                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "Nike",
+      "international_caps": "27",
+      "international_goals": "0",
+      "social_media": [],
+      "code": "ibrahima-konate",
+      "current_market_value": "€50.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/ibrahima-konate/leistungsdaten/spieler/357119"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}

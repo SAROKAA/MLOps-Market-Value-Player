@@ -1,0 +1,58 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/1071818",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1071818",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/sean-neave/profil/spieler/1071818",
+      "name": "Sean",
+      "last_name": "Neave",
+      "number": "#62",
+      "name_in_home_country": "Sean Thoms Neave",
+      "date_of_birth": "27/05/2007",
+      "age": "18",
+      "place_of_birth": {
+        "country": "England",
+        "city": "Newcastle upon Tyne  "
+      },
+      "height": "1,84 m",
+      "full_name": "Sean Thoms Neave",
+      "citizenship": "England",
+      "position": "Attack - Centre-Forward",
+      "player_agent": {
+        "href": "/powerhause-sports-group/beraterfirma/berater/8390",
+        "name": "PowerHause SG"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/1071818-1769071089.jpg?lm=1",
+      "current_club": {
+        "href": "/newcastle-united-u21/startseite/verein/9253"
+      },
+      "foot": null,
+      "joined": "\n                            01/07/2024                        ",
+      "contract_expires": "-",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "code": "sean-neave",
+      "current_market_value": null,
+      "market_value_last_update": null,
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/sean-neave/leistungsdaten/spieler/1071818"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/1071818",
+  "handled_at": null
+}

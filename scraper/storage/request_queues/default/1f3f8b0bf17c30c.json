@@ -1,0 +1,62 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/134425",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/134425",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 5
+    },
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/raheem-sterling/profil/spieler/134425",
+      "name": "Raheem",
+      "last_name": "Sterling",
+      "number": "#19",
+      "name_in_home_country": "Raheem Shaquille Sterling",
+      "date_of_birth": "08/12/1994",
+      "age": "31",
+      "place_of_birth": {
+        "country": "Jamaica",
+        "city": "Kingston  "
+      },
+      "height": "1,70 m",
+      "full_name": "Raheem Shaquille Sterling",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "Jamaica"
+      ],
+      "position": "Attack - Right Winger",
+      "player_agent": {
+        "href": "/16ninetytwo-sports-management/beraterfirma/berater/14004",
+        "name": "16NinetyTwo"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/134425-1684165974.jpg?lm=1",
+      "current_club": {
+        "href": "/feyenoord-rotterdam/startseite/verein/234"
+      },
+      "foot": "right",
+      "joined": "\n                            13/02/2026                        ",
+      "contract_expires": "30/06/2026",
+      "day_of_last_contract_extension": null,
+      "outfitter": "New Balance",
+      "international_caps": "82",
+      "international_goals": "20",
+      "social_media": [],
+      "code": "raheem-sterling",
+      "current_market_value": "€5.00m",
+      "market_value_last_update": "Last update: 09/12/2025",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/raheem-sterling/leistungsdaten/spieler/134425"
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.transfermarkt.co.uk/ceapi/performance-game/134425",
+  "handled_at": null
+}

@@ -1,0 +1,59 @@
+{
+  "unique_key": "https://www.transfermarkt.co.uk/ceapi/performance-game/470596",
+  "url": "https://www.transfermarkt.co.uk/ceapi/performance-game/470596",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {},
+    "label": "parse_api",
+    "parent": {
+      "type": "player",
+      "href": "/paris-maghoma/profil/spieler/470596",
+      "name": "Paris",
+      "last_name": "Maghoma",
+      "number": "#25",
+      "name_in_home_country": "Edmond-Paris Maghoma",
+      "date_of_birth": "08/05/2001",
+      "age": "25",
+      "place_of_birth": {
+        "country": "England",
+        "city": "London  "
+      },
+      "height": "1,84 m",
+      "full_name": "Edmond-Paris Maghoma",
+      "citizenship": "England",
+      "additional_citizenships": [
+        "DR Congo"
+      ],
+      "position": "Midfield - Central Midfield",
+      "player_agent": {
+        "href": "/unique-sports-group/beraterfirma/berater/4142",
+        "name": "Unique Sports Group"
+      },
+      "image_url": "https://img.a.transfermarkt.technology/portrait/header/470596-1738823220.jpg?lm=1",
+      "current_club": {
+        "href": "/norwich-city/startseite/verein/1123"
+      },
+      "foot": "right",
+      "joined": "\n                            26/01/2026                        ",
+      "contract_expires": "30/06/2029",
+      "day_of_last_contract_extension": null,
+      "outfitter": null,
+      "international_caps": "1",
+      "international_goals": "0",
+      "code": "paris-maghoma",
+      "current_market_value": "€1.50m",
+      "market_value_last_update": "Last update: 03/03/2026",
+      "highest_market_value": null,
+      "highest_market_value_date": null,
+      "market_value_history": null
+    },
+    "season": 2024,
+    "stats_href": "/paris-maghoma/leistungsdaten/spieler/470596"
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null
+}
