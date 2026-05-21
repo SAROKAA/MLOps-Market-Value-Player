@@ -1,0 +1,35 @@
+schema: '2.0'
+stages:
+  build_features:
+    cmd: python src/features/features.py
+    deps:
+    - path: data/raw
+      hash: md5
+      md5: 33915835b30debd7a526640b6b1523d3.dir
+      size: 738490403
+      nfiles: 19
+    - path: src/features/features.py
+      hash: md5
+      md5: 76f4e2e745b3fb1b4eba2a512c0af40f
+      size: 10633
+    outs:
+    - path: data/processed/final_training.csv
+      hash: md5
+      md5: b0196c3ed6f6d3752be0f423a6ff45d9
+      size: 9434298
+  train:
+    cmd: python src/models/train.py
+    deps:
+    - path: data/processed/final_training.csv
+      hash: md5
+      md5: b0196c3ed6f6d3752be0f423a6ff45d9
+      size: 9434298
+    - path: src/models/train.py
+      hash: md5
+      md5: 867329c25e31b03a47bbccb93cfbc7d3
+      size: 6760
+    outs:
+    - path: models/gradient_boosting.pkl
+      hash: md5
+      md5: 00d3694c88a8302524bfe96abca26b93
+      size: 139944
