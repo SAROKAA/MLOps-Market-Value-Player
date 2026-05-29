@@ -1,4 +1,6 @@
 [core]
-    remote = localstorage
-['remote "localstorage"']
-    url = ../../dvc_storage
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/SAROKAA/MLOps-Market-Value-Player.dvc
+    auth = basic
+    user = SAROKAA
