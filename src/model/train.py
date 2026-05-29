@@ -43,8 +43,15 @@ R2_THRESHOLD = 0.60
 # MLFLOW CONFIG
 # =====================================================
 
+MLRUNS_DIR = BASE_DIR / "mlruns"
+
+MLRUNS_DIR.mkdir(
+    parents=True,
+    exist_ok=True
+)
+
 mlflow.set_tracking_uri(
-    f"sqlite:///{BASE_DIR / 'mlflow.db'}"
+    f"file://{MLRUNS_DIR.resolve().as_posix()}"
 )
 
 mlflow.set_experiment(
