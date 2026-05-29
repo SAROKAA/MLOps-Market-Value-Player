@@ -7,9 +7,9 @@ stages:
     outs:
       - data/processed/final_training.csv
   train:
-    cmd: python src/models/train.py
+    cmd: python src/model/train.py
     deps:
       - data/processed/final_training.csv
-      - src/models/train.py
+      - src/model/train.py
     outs:
       - models/gradient_boosting.pkl
